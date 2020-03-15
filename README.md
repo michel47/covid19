@@ -1,4 +1,4 @@
 # README: corona virus daily status ...
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmRyJjiSfFLp6eXh4DmnJePhvCmFMkH4jnTiGcp4jeyzZb/covid.html>
+last update : <https://ipfs.blockringtm.ml/ipfs/QmZfaqSttANoHCo9KY9wJbeZLnjTuE5q4bFgZJkb3r68jb/covid.html>
 
