@@ -10,7 +10,7 @@ tic=$(date +%s)
 qm=$(ipfs add -Q $url)
 echo tic: $tic
 echo url: https://ipfs.blockringtm.ml/ipfs/$qm
-echo "- [$date]: [$qm](https://cloudflare-ipfs.com/ipfs/$qm)" >> $mdfile;
+echo "- \\[$date]: [$qm](https://cloudflare-ipfs.com/ipfs/$qm)" >> $mdfile;
 cat $mdfile | uniq > $mdfile~
 mv $mdfile~ $mdfile
 
@@ -20,7 +20,7 @@ if expr $tic - $mtime \> 21600; then
  echo "info: tic - mtime > 21600"
  rm covid.htm
 else
- echo "reuse: codiv.htm $(stat -c '%y' covid.htm)"
+ echo "reuse: covid.htm $(stat -c '%y' covid.htm)"
 fi
 fi
 
@@ -34,7 +34,7 @@ pandoc -f html -t markdown covid.htm > covid.md
 echo '/Switzerland/+1,/Switzerland/+7p' | ed covid.md > covid.dat
 if tail -1 covid.dat | grep -q "/^[+0-9]/"; then
  tail -1 covid.dat
-paste -d' ' - covid.dat <<EOT | eyml > codiv.yml
+paste -d' ' - covid.dat <<EOT | eyml > covid.yml
 cases:
 deaths:
 recovered:
@@ -42,7 +42,7 @@ active:
 densit:
 EOT
 else
-paste -d' ' - covid.dat <<EOT | eyml > codiv.yml
+paste -d' ' - covid.dat <<EOT | eyml > covid.yml
 cases:
 ncases:
 deaths:
@@ -52,7 +52,7 @@ active:
 densit:
 EOT
 fi
-eval $(cat codiv.yml)
+eval $(cat covid.yml)
 echo "c:$cases d:$deaths r:$recovered a:$active d:$densit"
 
 cd ${mdfile%/*}
@@ -62,7 +62,7 @@ git config user.name "$fullname"
 git config user.email $user@$domain
 echo "gituser: $(git config user.name) <$(git config user.email)>"
 
-git add $mdfile covid.md covid.json codiv.yml
+git add $mdfile covid.md covid.json covid.yml
 pandoc -f markdown -t html $HOME/github.com/covid19/covid19.md -o covid19.html
 qm=$(ipfs add -Q -w covid19.html)
 pwd
