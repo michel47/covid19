@@ -33,7 +33,7 @@ pandoc -f html -t json covid.htm > covid.json
 case=$(cat covid.json | xjson blocks.1.c.1.2.c.1.0.c.1.2.c.1.71.c.0.c)
 pandoc -f html -t markdown covid.htm > covid.md
 #data="$(echo '/Switzerland/+1,/Switzerland/+5p' | ed covid.md)"
-echo '/Switzerland/+1,/Switzerland/+7p' | ed covid.md > covid.dat
+echo '/Switzerland/+1,/Switzerland/+7p' | ed covid.md | sed -e 's/,//' > covid.dat
 if tail -1 covid.dat | grep -q "/^[+0-9]/"; then
  tail -1 covid.dat
 paste -d' ' - covid.dat <<EOT | eyml > covid.yml
@@ -55,7 +55,7 @@ densit:
 EOT
 fi
 eval $(cat covid.yml)
-echo "$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.csv
+echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.csv
 
 cd ${mdfile%/*}
 
