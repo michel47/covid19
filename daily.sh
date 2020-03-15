@@ -12,15 +12,15 @@ tic=$(date +%s)
 qm0=$(ipfs add -Q $url)
 echo tic: $tic
 echo url: https://ipfs.blockringtm.ml/ipfs/$qm0
-cat $mdfile | uniq > $mdfile~
-mv $mdfile~ $mdfile
 # -------------------------
-wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%*/}/log.txt $url 
+wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url 
 mv coronavirus/index.php.html coronavirus/index.html
 rm coronavirus/robots.txt.*
 qm=$(ipfs add -Q -r coronavirus)
 echo "- \\[$date]: [$qm0](https://cloudflare-ipfs.com/ipfs/$qm)" >> $mdfile;
 echo url: https://yoogle.com:8197/ipfs/$qm
+cat $mdfile | uniq > $mdfile~
+mv $mdfile~ $mdfile
 # -------------------------
 if [ -e covid.htm ]; then
 mtime=$(stat -c "%Y" covid.htm)
