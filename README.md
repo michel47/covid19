@@ -1,6 +1,12 @@
 # README: corona virus daily status ...
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmZPXJEMHkHNN6zTMxeKAr7NLDsnvYdgp3uByXbukVBftN/covid.html>
+  cases per 1M pop
+ 9.2 Total cases in Switzerland
+
+ Switzerland deaths
+ 1,375 recovered
+
+last update : <https://ipfs.blockringtm.ml/ipfs/QmazMc8aa9DQ7QrXtNaUmp8aqmsXbkgvBrBpFm5Sa7NbDb/covid.html>
 
 source:
   - <https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html>
