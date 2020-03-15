@@ -26,6 +26,8 @@ fi
 
 if [ ! -e covid.htm ]; then
 curl -s $url > covid.htm
+qm=$(ipfs add -Q covid.htm)
+echo qm: $qm
 fi
 pandoc -f html -t json covid.htm > covid.json
 case=$(cat covid.json | xjson blocks.1.c.1.2.c.1.0.c.1.2.c.1.71.c.0.c)
@@ -53,7 +55,7 @@ densit:
 EOT
 fi
 eval $(cat covid.yml)
-echo "c:$cases d:$deaths r:$recovered a:$active d:$densit"
+echo "$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.csv
 
 cd ${mdfile%/*}
 
@@ -62,7 +64,7 @@ git config user.name "$fullname"
 git config user.email $user@$domain
 echo "gituser: $(git config user.name) <$(git config user.email)>"
 
-git add $mdfile covid.md covid.json covid.yml
+git add $mdfile covid.md covid.json covid.yml covid.csv
 pandoc -f markdown -t html $HOME/github.com/covid19/covid19.md -o covid19.html
 qm=$(ipfs add -Q -w covid19.html)
 pwd
