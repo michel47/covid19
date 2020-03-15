@@ -1,19 +1,27 @@
 #
 
 domain=kintm.gq
-url=https://www.worldometers.info/coronavirus/
+url=https://www.worldometers.info/coronavirus/index.php
 mdfile=$HOME/github.com/covid19/covid19.md
 echo ${mdfile%/*}
 
+# -------------------------
+# get the data ...
 date=$(date +%D)
 tic=$(date +%s)
-qm=$(ipfs add -Q $url)
+qm0=$(ipfs add -Q $url)
 echo tic: $tic
-echo url: https://ipfs.blockringtm.ml/ipfs/$qm
-echo "- \\[$date]: [$qm](https://cloudflare-ipfs.com/ipfs/$qm)" >> $mdfile;
+echo url: https://ipfs.blockringtm.ml/ipfs/$qm0
 cat $mdfile | uniq > $mdfile~
 mv $mdfile~ $mdfile
-
+# -------------------------
+wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%*/}/log.txt $url 
+mv coronavirus/index.php.html coronavirus/index.html
+rm coronavirus/robots.txt.*
+qm=$(ipfs add -Q -r coronavirus)
+echo "- \\[$date]: [$qm0](https://cloudflare-ipfs.com/ipfs/$qm)" >> $mdfile;
+echo url: https://yoogle.com:8197/ipfs/$qm
+# -------------------------
 if [ -e covid.htm ]; then
 mtime=$(stat -c "%Y" covid.htm)
 if expr $tic - $mtime \> 21600; then
@@ -23,12 +31,13 @@ else
  echo "reuse: covid.htm $(stat -c '%y' covid.htm)"
 fi
 fi
-
 if [ ! -e covid.htm ]; then
 curl -s $url > covid.htm
 qm=$(ipfs add -Q covid.htm)
 echo qm: $qm
 fi
+# -------------------------
+# extract data
 pandoc -f html -t json covid.htm > covid.json
 case=$(cat covid.json | xjson blocks.1.c.1.2.c.1.0.c.1.2.c.1.71.c.0.c)
 pandoc -f html -t markdown covid.htm > covid.md
@@ -57,8 +66,9 @@ fi
 eval $(cat covid.yml)
 echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.csv
 
+# -------------------------
+# filing
 cd ${mdfile%/*}
-
 eval $(perl -S fullname.pl -a $qm | eyml)
 git config user.name "$fullname"
 git config user.email $user@$domain
@@ -88,6 +98,7 @@ source:
 
 EOF
 git add README.md
-git commit -m "status on $date"
+git commit -m "pandemy status on $date"
 git push
 echo $tic: $qm >> $HOME/etc/mutables/covid.log
+# -------------------------
