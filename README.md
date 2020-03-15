@@ -5,7 +5,7 @@
  14 deaths,
  4 recovered
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmSjcxMzErbi9BiFK3JYpUns6SEZBq7Bu8kBy9L6YEdGBj/covid19.html>
+last update : <https://ipfs.blockringtm.ml/ipfs/QmVc6equ7eu3JejXkVWfW3CdD5Jx5HuEpMXo4zhtJn3pVC/covid19.html>
 
 source:
   - <https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html>
