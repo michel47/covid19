@@ -69,7 +69,7 @@ fi
 
 eval $(cat covid.yml)
 echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.csv
-kst2 covid.csv --png covid.png
+kst2 --png covid.png covid.kst
 # -------------------------
 # snapshot of page...
 wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url 
@@ -115,6 +115,8 @@ sources:
   - <https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Switzerland>
   - <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/>
   - <https://www.worldometers.info/coronavirus/>
+  - <https://michel47.github.io/covid19>
+  - <https://github.com/michel47/covid19>
   - <https://duckduckgo.com/?q=switzerland+progression+coronavirus>
   - <https://gateway.ipfs.io/ipfs/$qm0>
   - <https://gateway.ipfs.io/ipfs/$qm1>
