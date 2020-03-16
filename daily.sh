@@ -74,14 +74,14 @@ echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.
 wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url 
 sed -e 's/index.php.html/index.html/g' coronavirus/index.php.html > coronavirus/index.html
 rm coronavirus/robots.txt.*
-qm=$(ipfs add -Q -r coronavirus)
-echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm) [data](covid.yml),[csv](covid.csv)" >> covid19u.md
+qm1=$(ipfs add -Q -r coronavirus)
+echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm1) [data](covid.yml),[csv](covid.csv)" >> covid19u.md
 echo url: https://yoogle.com:8197/ipfs/$qm
 cat covid19u.md | sort -r | uniq > $mdfile
 # -------------------------
 # filing
 cd ${mdfile%/*}
-eval $(perl -S fullname.pl -a $qm | eyml)
+eval $(perl -S fullname.pl -a $qm1 | eyml)
 git config user.name "$fullname"
 git config user.email $user@$domain
 echo "gituser: $(git config user.name) <$(git config user.email)>"
@@ -93,7 +93,7 @@ pwd
 cat > README.md <<EOF
 # README: corona virus daily status in Switzerland ...
 
-## on $(date +"%D %T")
+## on $(date +"%D %T") ([snapshot](https://ipfs.io/ipfs/$qm1))
 
  $densit cases per 1M pop,<br>
  $cases Total cases in Switzerland ($active actives)
@@ -107,15 +107,19 @@ last update : <https://ipfs.blockringtm.ml/ipfs/$qm/covid19.html>
  yaml file [covid.yml](covid.yml)
 
 sources:
-  - <https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html>
   - <https://twitter.com/BAG_OFSP_UFSP>
+  - <https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html>
+  - <https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Switzerland>
   - <https://www.worldometers.info/coronavirus/>
   - <https://duckduckgo.com/?q=switzerland+progression+coronavirus>
+  - <https://gateway.ipfs.io/ipfs/$qm0>
+  - <https://gateway.ipfs.io/ipfs/$qm1>
+  - <https://gateway.ipfs.io/ipfs/$qm>
   
 
 EOF
 git add README.md
-git status .
+git status -uno .
 datetime=$(date +"%D %T")
 git commit -a -m "pandemy status on $datetime"
 git push

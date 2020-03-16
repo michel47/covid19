@@ -1,6 +1,7 @@
 ## Daily status on the coronavirus COVID-19 pandemy in Switzerland
 - \[03/16/20]: /cases [QmZcNCbwmQB9oGRK8TCqPcHdHKHJ4un4fvThikQqhDE4A2](https://cloudflare-ipfs.com/ipfs/QmZkR9ssRLbAdAiq2VTno5pkbLVu7po8rnfj7eQWANT3cp) [data](covid.yml),[csv](covid.csv)
 - \[03/16/20]: 2330/2353cases [QmexLTMAJqJS3SvTYMfSfKTQYz6Yyz8yPpFU69dXToWiQH](https://cloudflare-ipfs.com/ipfs/QmaCKQjx1EBdwgVJP79wG681by7biv8XKxuRnjyFcQQfWN) [data](covid.yml),[csv](covid.csv)
+- \[03/16/20]: 2330/2353cases [](https://cloudflare-ipfs.com/ipfs/QmaCKQjx1EBdwgVJP79wG681by7biv8XKxuRnjyFcQQfWN) [data](covid.yml),[csv](covid.csv)
 - \[03/16/20]: 2199/2221cases [QmZeK9dXvjyUKEABd96mh5GpHMniPxvGe3uTdDx562GSW4](https://cloudflare-ipfs.com/ipfs/QmQrTNUgYdKX7k7Lu3B4PSqyrP4NLbY11qQFhRXDc544PQ) [data](covid.yml),[csv](covid.csv)
 - \[03/16/20]: 2199/2217cases [QmVXYMEddDdHpAm2MNb68F3jhm3DuKeYbtfHUXAx8RPhwq](https://cloudflare-ipfs.com/ipfs/Qma7fUgFw8Du11apxymg5W2c6bKNhzWtfo9AJ7C4bY6gkN)
 - \[03/16/20]: 2199/2217cases [](https://cloudflare-ipfs.com/ipfs/QmZBmGwRbN6bNPeJ4eSJkoAtvSznAeK2Qq5uAUvTpwiEfQ) [data](covid.yml),[csv](covid.csv)
