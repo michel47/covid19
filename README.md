@@ -1,14 +1,14 @@
 # README: corona virus daily status in Switzerland ...
 
-## on 03/16/20 14:22:19
+## on 03/16/20 20:24:09
 
- 256.6 cases per 1M pop,<br>
- 2221 Total cases in Switzerland (2199 actives)
+  cases per 1M pop,<br>
+  Total cases in Switzerland ( actives)
 
- 18 deaths,
- 4 recovered (resurected ?)
+  deaths,
+  recovered (resurected ?)
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmWGAiBRZzEpq7a7Y2VZrJbuKaQPWAVC9NwUZkEMwV5kiC/covid19.html>
+last update : <https://ipfs.blockringtm.ml/ipfs/QmYCXyKMewYvT8bWdNj6GNxr1Y9qV2Z3wYWa5PQg4SYxVB/covid19.html>
 
  csv file [covid.csv](covid.csv)<br>
  yaml file [covid.yml](covid.yml)
