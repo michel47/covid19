@@ -1,4 +1,5 @@
 ## Daily status on the coronavirus COVID-19 pandemy in Switzerland
+- \[03/16/20]: 2199/2217cases [QmVXYMEddDdHpAm2MNb68F3jhm3DuKeYbtfHUXAx8RPhwq](https://cloudflare-ipfs.com/ipfs/Qma7fUgFw8Du11apxymg5W2c6bKNhzWtfo9AJ7C4bY6gkN)
 - \[03/15/20]: [QmYi3BGiWXvSjd5aZs8nfkKbGKZH4yq9pxB8TZ6bpfCVT2](https://cloudflare-ipfs.com/ipfs/QmYi3BGiWXvSjd5aZs8nfkKbGKZH4yq9pxB8TZ6bpfCVT2)
 - \[03/15/20]: [QmXGQr3JD3kfXi45Emzi25j59YGDaug8aseqtjXadL9uBf](https://cloudflare-ipfs.com/ipfs/QmXGQr3JD3kfXi45Emzi25j59YGDaug8aseqtjXadL9uBf)
 - \[03/15/20]: [QmXEKK495VdHxJihvcWyGqn3wB82R2eVnudGFe4Qhay8Pt](https://cloudflare-ipfs.com/ipfs/QmXEKK495VdHxJihvcWyGqn3wB82R2eVnudGFe4Qhay8Pt)

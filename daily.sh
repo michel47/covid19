@@ -13,15 +13,6 @@ qm0=$(ipfs add -Q $url)
 echo tic: $tic
 echo url: https://ipfs.blockringtm.ml/ipfs/$qm0
 # -------------------------
-wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url 
-mv coronavirus/index.php.html coronavirus/index.html
-rm coronavirus/robots.txt.*
-qm=$(ipfs add -Q -r coronavirus)
-echo "- \\[$date]: [$qm0](https://cloudflare-ipfs.com/ipfs/$qm)" >> $mdfile;
-echo url: https://yoogle.com:8197/ipfs/$qm
-cat $mdfile | uniq > $mdfile~
-mv $mdfile~ $mdfile
-# -------------------------
 if [ -e covid.htm ]; then
 mtime=$(stat -c "%Y" covid.htm)
 if expr $tic - $mtime \> 21600; then
@@ -41,10 +32,20 @@ fi
 pandoc -f html -t json covid.htm > covid.json
 case=$(cat covid.json | xjson blocks.1.c.1.2.c.1.0.c.1.2.c.1.71.c.0.c)
 pandoc -f html -t markdown covid.htm > covid.md
-#data="$(echo '/Switzerland/+1,/Switzerland/+5p' | ed covid.md)"
+# old way ...
+if false; then
 echo '/Switzerland/+1,/Switzerland/+7p' | ed covid.md | sed -e 's/,//' > covid.dat
-if tail -1 covid.dat | grep -q "/^[+0-9]/"; then
+if tail -1 covid.dat | grep -q "^[+0-9]" ; then
  tail -1 covid.dat
+  grep -e '^[+0-9]' covid.dat > covid.data
+  rename covid.data covid.dat
+fi
+# new way (one-line table)
+else
+grep -e '^  Switzerland' covid.md | sed -e 's/,//g' -e 's/  */\n/g' | tail +3 | tee covid.dat
+fi
+n=$(wc -l covid.dat | cut -d' ' -f1)
+if expr "$n" = 5 ; then
 paste -d' ' - covid.dat <<EOT | eyml > covid.yml
 cases:
 deaths:
@@ -53,6 +54,7 @@ active:
 densit:
 EOT
 else
+echo n: $n
 paste -d' ' - covid.dat <<EOT | eyml > covid.yml
 cases:
 ncases:
@@ -63,9 +65,18 @@ active:
 densit:
 EOT
 fi
+
 eval $(cat covid.yml)
 echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.csv
-
+# -------------------------
+# snapshot of page...
+wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url 
+mv coronavirus/index.php.html coronavirus/index.html
+rm coronavirus/robots.txt.*
+qm=$(ipfs add -Q -r coronavirus)
+echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm)" >> covid19u.md
+echo url: https://yoogle.com:8197/ipfs/$qm
+cat covid19u.md | sort -r | uniq > $mdfile
 # -------------------------
 # filing
 cd ${mdfile%/*}
@@ -74,22 +85,27 @@ git config user.name "$fullname"
 git config user.email $user@$domain
 echo "gituser: $(git config user.name) <$(git config user.email)>"
 
-git add $mdfile covid.md covid.json covid.yml covid.csv
+git add $mdfile covid19u.md covid.md covid.json covid.yml covid.csv
 pandoc -f markdown -t html $HOME/github.com/covid19/covid19.md -o covid19.html
 qm=$(ipfs add -Q -w covid19.html)
 pwd
 cat > README.md <<EOF
-# README: corona virus daily status ...
+# README: corona virus daily status in Switzerland ...
 
- $densit cases per 1M pop,\
+## on $(date +"%D %T")
+
+ $densit cases per 1M pop,<br>
  $cases Total cases in Switzerland ($active actives)
 
  $deaths deaths,
- $recovered recovered
+ $recovered recovered (resurected ?)
 
 last update : <https://ipfs.blockringtm.ml/ipfs/$qm/covid19.html>
 
-source:
+ csv file [covid.csv](covid.csv)<br>
+ yaml file [covid.yml](covid.yml)
+
+sources:
   - <https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html>
   - <https://twitter.com/BAG_OFSP_UFSP>
   - <https://www.worldometers.info/coronavirus/>
@@ -98,7 +114,8 @@ source:
 
 EOF
 git add README.md
-git commit -m "pandemy status on $date"
+datetime=$(date +"%D %T")
+git commit -a -m "pandemy status on $datetime"
 git push
 echo $tic: $qm >> $HOME/etc/mutables/covid.log
 # -------------------------
