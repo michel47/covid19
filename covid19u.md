@@ -48,3 +48,4 @@
 - \[03/15/20]: 2199/2217cases [QmRVbPHrDjqbG1NoUGPuxovYs1GMMYGpyo2aY3TFNPTioK](https://cloudflare-ipfs.com/ipfs/Qmbw9gAgnxZ5cqZrm9rFW8JjyT8bbrHHvPN5UjzGwBCBJj)
 - \[03/16/20]: 2199/2217cases [QmVXYMEddDdHpAm2MNb68F3jhm3DuKeYbtfHUXAx8RPhwq](https://cloudflare-ipfs.com/ipfs/Qma7fUgFw8Du11apxymg5W2c6bKNhzWtfo9AJ7C4bY6gkN)
 - \[03/16/20]: 2199/2217cases [](https://cloudflare-ipfs.com/ipfs/QmZBmGwRbN6bNPeJ4eSJkoAtvSznAeK2Qq5uAUvTpwiEfQ) [data](covid.yml),[csv](covid.csv)
+- \[03/16/20]: 2199/2221cases [QmZeK9dXvjyUKEABd96mh5GpHMniPxvGe3uTdDx562GSW4](https://cloudflare-ipfs.com/ipfs/QmQrTNUgYdKX7k7Lu3B4PSqyrP4NLbY11qQFhRXDc544PQ) [data](covid.yml),[csv](covid.csv)
