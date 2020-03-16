@@ -69,6 +69,7 @@ fi
 
 eval $(cat covid.yml)
 echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.csv
+kst2 covid.csv --png covid.png
 # -------------------------
 # snapshot of page...
 wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url 
@@ -86,7 +87,7 @@ git config user.name "$fullname"
 git config user.email $user@$domain
 echo "gituser: $(git config user.name) <$(git config user.email)>"
 
-git add $mdfile covid19u.md covid.md covid.json covid.yml covid.csv
+git add $mdfile covid19u.md covid.md covid.json covid.yml covid.csv covid.png
 pandoc -f markdown -t html $HOME/github.com/covid19/covid19.md -o covid19.html
 qm=$(ipfs add -Q -w covid19.html)
 pwd
@@ -103,6 +104,8 @@ cat > README.md <<EOF
 
 last update : <https://ipfs.blockringtm.ml/ipfs/$qm/covid19.html>
 
+ ![charts](covid.png)
+
  csv file [covid.csv](covid.csv)<br>
  yaml file [covid.yml](covid.yml)
 
@@ -110,6 +113,7 @@ sources:
   - <https://twitter.com/BAG_OFSP_UFSP>
   - <https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html>
   - <https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Switzerland>
+  - <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/>
   - <https://www.worldometers.info/coronavirus/>
   - <https://duckduckgo.com/?q=switzerland+progression+coronavirus>
   - <https://gateway.ipfs.io/ipfs/$qm0>
