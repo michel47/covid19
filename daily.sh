@@ -33,7 +33,8 @@ pandoc -f html -t json covid.htm > covid.json
 case=$(cat covid.json | xjson blocks.1.c.1.2.c.1.0.c.1.2.c.1.71.c.0.c)
 pandoc -f html -t markdown covid.htm > covid.md
 # old way ...
-if false; then
+
+if grep -q -e '^Switzerland$' covid.md; then
 echo '/Switzerland/+1,/Switzerland/+7p' | ed covid.md | sed -e 's/,//' > covid.dat
 if tail -1 covid.dat | grep -q "^[+0-9]" ; then
  tail -1 covid.dat
