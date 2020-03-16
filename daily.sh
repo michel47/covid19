@@ -71,10 +71,10 @@ echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.
 # -------------------------
 # snapshot of page...
 wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url 
-mv coronavirus/index.php.html coronavirus/index.html
+sed -e 's/index.php.html/index.html/g' coronavirus/index.php.html > coronavirus/index.html
 rm coronavirus/robots.txt.*
 qm=$(ipfs add -Q -r coronavirus)
-echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm)" >> covid19u.md
+echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm) [data](covid.yml),[csv](covid.csv)" >> covid19u.md
 echo url: https://yoogle.com:8197/ipfs/$qm
 cat covid19u.md | sort -r | uniq > $mdfile
 # -------------------------
@@ -114,6 +114,7 @@ sources:
 
 EOF
 git add README.md
+git status .
 datetime=$(date +"%D %T")
 git commit -a -m "pandemy status on $datetime"
 git push
