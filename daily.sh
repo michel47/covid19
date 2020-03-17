@@ -136,3 +136,4 @@ git commit -a -m "pandemy status on $datetime"
 git push
 echo $tic: $qm >> $HOME/etc/mutables/covid.log
 # -------------------------
+echo "url: https://www.worldometers.info/coronavirus/#countries"
