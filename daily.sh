@@ -1,5 +1,6 @@
 #
 
+set -e
 domain=kintm.gq
 url=https://www.worldometers.info/coronavirus/index.php
 mdfile=$HOME/github.com/covid19/covid19.md
@@ -39,20 +40,21 @@ echo '/Switzerland/+1,/Switzerland/+7p' | ed covid.md | sed -e 's/,//' > covid.d
 if tail -1 covid.dat | grep -q "^[+0-9]" ; then
  tail -1 covid.dat
   grep -e '^[+0-9]' covid.dat > covid.data
-  rename covid.data covid.dat
+  mv covid.data covid.dat
 fi
 # new way (one-line table)
 else
 grep -e '^  Switzerland' covid.md | sed -e 's/,//g' -e 's/  */\n/g' | tail +3 | tee covid.dat
 fi
 n=$(wc -l covid.dat | cut -d' ' -f1)
-if expr "$n" = 5 ; then
+if expr "$n" \< 7 ; then
 paste -d' ' - covid.dat <<EOT | eyml > covid.yml
 cases:
 deaths:
 recovered:
 active:
 densit:
+nextone:
 EOT
 else
 echo n: $n
@@ -72,10 +74,13 @@ echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.
 kst2 --png covid.png covid.kst
 # -------------------------
 # snapshot of page...
-wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url 
+if wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url ; then
 sed -e 's/index.php.html/index.html/g' coronavirus/index.php.html > coronavirus/index.html
 rm coronavirus/robots.txt.*
 qm1=$(ipfs add -Q -r coronavirus)
+else
+qm1=$(echo "no data" | ipfs add -Q -n -)
+fi
 echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm1) [data](covid.yml),[csv](covid.csv)" >> covid19u.md
 echo url: https://yoogle.com:8197/ipfs/$qm
 cat covid19u.md | sort -r | uniq > $mdfile
