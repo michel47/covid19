@@ -1,0 +1,25 @@
+Cher voisin(e)s,
+
+ l'un(e) d'entre nous a besoin d'aller faire des courses,
+ minimisons nos deplacement et contenons l'epidemie en Suisse.
+
+ je dois allez faire des courses essentielles,
+ 
+ metter votre nom et ce que vous avez besoin dans la liste si dessous
+ comme cela nous pouvons vous "livrez" et une seule personne faire le voyage au magazin
+
+ alternativement nous pouvoir faire une cagnote de voisinage pour nous faire livrer directement
+ nous courses essentielles
+
+
+ Date, Nom, Numero d'appart, Course à faire, nom personne de proposant, date-et-heure de livraison
+
+ 17.3, ___, _______________, ______________, 
+
+
+ Personnnes disponibles pour les courses
+
+ Nom           , date et heures des courses, lieu des courses
+ Michel Combes , 17.3.2020 à 9:30am, selon liste
+
+
