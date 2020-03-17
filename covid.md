@@ -58,7 +58,7 @@ COVID-19 Coronavirus Outbreak
 
 <div style="font-size:13px; color:#999; text-align:center">
 
-Last updated: March 17, 2020, 11:57 GMT
+Last updated: March 17, 2020, 21:11 GMT
 
 </div>
 
@@ -80,7 +80,7 @@ Coronavirus Cases:
 
 <div class="maincounter-number">
 
-[186,707 ]{style="color:#aaa"}
+[197,573 ]{style="color:#aaa"}
 
 </div>
 
@@ -99,7 +99,7 @@ Deaths:
 
 <div class="maincounter-number">
 
-[7,471]{}
+[7,955]{}
 
 </div>
 
@@ -112,7 +112,7 @@ Recovered:
 
 <div class="maincounter-number" style="color:#8ACA2B ">
 
-[80,836]{}
+[81,691]{}
 
 </div>
 
@@ -141,7 +141,7 @@ style="font-size:18px; text-transform:uppercase; font-weight:100"}
 
 <div class="number-table-main">
 
-98,400
+107,927
 
 </div>
 
@@ -155,7 +155,7 @@ Currently Infected Patients
 
 <div style="float:left; text-align:center">
 
-[91,917]{.number-table style="color:#8080FF"} (**93**%)
+[100,907]{.number-table style="color:#8080FF"} (**93**%)
 <div style="font-size:13px">
 
 in Mild Condition
@@ -168,7 +168,7 @@ in Mild Condition
 
 <div style="float:right; text-align:center">
 
-[6,483]{.number-table style="color:red "} (**7**%)
+[7,020]{.number-table style="color:red "} (**7**%)
 <div style="font-size:13px">
 
 Serious or Critical
@@ -222,7 +222,7 @@ style="font-size:18px; text-transform:uppercase; font-weight:100"}
 
 <div class="number-table-main">
 
-88,307
+89,646
 
 </div>
 
@@ -236,7 +236,7 @@ Cases which had an outcome:
 
 <div style="float:left; text-align:center">
 
-[80,836]{.number-table style="color:#8ACA2B"} (**92**%)
+[81,691]{.number-table style="color:#8ACA2B"} (**91**%)
 <div style="font-size:13px">
 
 Recovered / Discharged
@@ -249,7 +249,7 @@ Recovered / Discharged
 
 <div style="float:right; text-align:center">
 
-[ 7,471]{.number-table} (**8**%)
+[ 7,955]{.number-table} (**9**%)
 <div style="font-size:13px">
 
 Deaths
@@ -469,13 +469,17 @@ China's NHC.
 
 ### Confirmed Cases and Deaths by Country, Territory, or Conveyance {#countries}
 
-The **coronavirus** COVID-19 is affecting **162 countries and
+The **coronavirus** COVID-19 is affecting **164 countries and
 territories** around the world and **1 international conveyance** (the
 *Diamond Princess* cruise ship harbored in Yokohama, Japan). **The day
 is reset after midnight GMT+0**. The "New" columns for China display the
 previous day changes (as China reports after the day is over). For all
 other countries, the "New" columns display the changes for the current
-day while still in progress.\
+day while still in progress.
+
+**![](/img/flags/small/tn_it-flag.gif){width="17" height="12"}**\
+**Do you think that Italy's numbers are wrong?** [Read
+here](#italian-media)\
 \
 [**Report coronavirus cases**](/report_us/)
 <div id="main_table_countries_div"
@@ -504,17 +508,19 @@ Tot Cases/\
 +21
 3,226
 +13
-68,709
-8,946
+68,715
+8,940
 3,226
 56.2
 [Italy](country/italy/){.mt_a}
-27,980
-2,158
-2,749
-23,073
-1,851
-462.8
+31,506
++3,526
+2,503
++345
+2,941
+26,062
+2,060
+521.1
 [Iran](country/iran/){.mt_a}
 16,169
 +1,178
@@ -524,14 +530,23 @@ Tot Cases/\
 9,792
 192.5
 [Spain](country/spain/){.mt_a}
-11,178
-+1,236
-491
-+149
+11,748
++1,806
+533
++191
 1,028
-9,659
+10,187
 563
-239.1
+251.3
+[Germany](country/germany/){.mt_a}
+9,367
++2,095
+26
++9
+67
+9,274
+2
+111.8
 [S. Korea](country/south-korea/){.mt_a}
 8,320
 +84
@@ -541,101 +556,101 @@ Tot Cases/\
 6,838
 59
 162.3
-[Germany](country/germany/){.mt_a}
-7,636
-+364
-20
-+3
-67
-7,549
-2
-91.1
 [France](country/france/){.mt_a}
-6,633
-148
-12
-6,473
-400
-101.6
+7,730
++1,097
+175
++27
+602
+6,953
+699
+118.4
 [USA](country/us/){.mt_a}
-4,743
-+80
-93
-+7
+6,137
++1,474
+102
++16
 74
-4,576
+5,961
 12
-14.3
+18.5
 Switzerland
-2,354
-+1
-21
-+2
-4
-2,329
-272.0
+2,742
++389
+27
++8
+15
+2,700
+316.8
 [UK](country/uk/){.mt_a}
-1,543
-55
-52
-1,436
+1,950
++407
+71
++16
+65
+1,814
 20
-22.7
+28.7
+Netherlands
+1,705
++292
+43
++19
+2
+1,660
+45
+99.5
 Norway
-1,417
-+69
+1,469
++121
 3
 1
-1,413
+1,465
 27
-261.4
-Netherlands
-1,413
-24
-2
-1,387
-45
-82.5
+271.0
+Austria
+1,332
++314
+4
++1
+8
+1,320
+12
+147.9
 Belgium
 1,243
 +185
 10
-1
-1,232
+14
+1,219
 33
 107.3
-Austria
-1,211
-+193
-3
-8
-1,200
-12
-134.5
 Sweden
-1,125
-+4
-7
+1,191
++70
+8
++1
 1
-1,117
-2
-111.4
+1,182
+12
+117.9
 Denmark
-960
-+46
+977
++63
 4
 1
-955
+972
 18
-165.7
+168.7
 Japan
-852
-+19
-28
+878
++45
+29
++1
 144
-680
+705
 41
-6.7
+6.9
 [Diamond Princess]{style="color:#00B5F0; font-style:italic; "}
 696
 7
@@ -651,6 +666,15 @@ Malaysia
 622
 10
 20.8
+Canada
+479
++38
+5
++1
+11
+463
+1
+12.7
 Australia
 452
 +51
@@ -659,112 +683,138 @@ Australia
 420
 1
 17.7
-Canada
-441
-4
-11
-426
-1
-11.7
-Qatar
-439
-4
-435
-152.4
-Czechia
-383
-+39
-3
-380
-2
-35.8
-Greece
-352
-4
-10
-338
-5
-33.8
 Portugal
-332
+448
++117
+1
+3
+444
+18
+43.9
+Qatar
+442
++3
+4
+438
+153.4
+Czechia
+434
++90
+3
+431
+2
+40.5
+Greece
+387
++35
+5
++1
+14
+368
+11
+37.1
+Israel
+337
++39
+11
+326
+5
+38.9
+Finland
+322
++44
+10
+312
+2
+58.1
+Brazil
+301
++67
+1
++1
+2
+298
+18
+1.4
+Ireland
+292
++69
+2
+5
+285
+6
+59.1
+Slovenia
+275
++22
+1
+274
+4
+132.3
+Singapore
+266
++23
+114
+152
+14
+45.5
+Pakistan
+247
++63
+1
+2
+244
+1.1
+Iceland
+247
++48
+5
+242
+1
+Bahrain
+241
++13
+1
+88
+152
+3
+141.6
+Poland
+238
++61
+5
 +1
 1
-3
-328
-18
-32.6
-Israel
-304
-+6
-5
-299
-4
-35.1
-Finland
-294
-+16
-10
-284
-1
-53.1
-Slovenia
-253
-1
-252
-3
-121.7
-Singapore
-243
-109
-134
-11
-41.5
-Bahrain
-236
-+8
-1
-81
-154
-3
-138.7
-Brazil
-234
-2
 232
-18
-1.1
+3
+6.3
 Estonia
 225
 +20
 1
 224
 169.6
-Ireland
-223
-2
+Romania
+217
++49
+19
+198
 5
-216
-6
-45.2
-Poland
-205
-+28
-5
-+1
-200
+11.3
+Chile
+201
++45
+201
 3
-5.4
-Iceland
-199
-199
-1
-Pakistan
-194
-+10
-1
-2
-191
-0.9
+10.5
+Egypt
+196
++30
+6
++2
+26
+164
+1.9
 Philippines
 187
 +45
@@ -773,13 +823,6 @@ Philippines
 170
 1
 1.7
-Romania
-184
-+16
-16
-168
-3
-9.6
 Thailand
 177
 +30
@@ -791,28 +834,25 @@ Thailand
 Indonesia
 172
 +38
-5
+7
++2
 8
-159
+157
 0.6
-Egypt
-166
-4
-32
-130
-1.6
+Saudi Arabia
+171
++38
+6
+165
+4.9
 Hong Kong
-162
-+7
+168
++13
 4
 81
-77
+83
 4
-21.6
-Chile
-156
-156
-8.2
+22.4
 Iraq
 154
 +21
@@ -821,25 +861,20 @@ Iraq
 41
 102
 3.8
+India
+143
++14
+3
++1
+14
+126
+0.1
 Luxembourg
 140
 +59
 1
 139
-10
-India
-137
-+8
-3
-+1
-14
-120
-0.1
-Saudi Arabia
-133
-6
-127
-3.8
+1
 Kuwait
 130
 +7
@@ -848,42 +883,61 @@ Kuwait
 4
 30.4
 Lebanon
-120
-+11
+124
++15
 3
+4
+117
 3
-114
-3
-17.6
+18.2
 San Marino
-102
-9
+119
++10
+11
 +2
 4
-89
+104
 11
-UAE
-98
-26
-72
-2
-9.9
-Russia
-93
-8
-85
-0.6
 Peru
-86
+117
++31
 1
-85
+116
 8
-2.6
+3.5
+Russia
+114
++21
+8
+106
+0.8
+UAE
+113
++15
+26
+87
+2
+11.4
+Ecuador
+111
++53
+2
+109
+2
+6.3
+Turkey
+98
++51
+1
++1
+97
+1.2
 Slovakia
-84
-+12
-84
-15.4
+97
++25
+97
+2
+17.8
 Mexico
 82
 +29
@@ -891,6 +945,19 @@ Mexico
 78
 1
 0.6
+Bulgaria
+81
++19
+2
+79
+11.7
+Armenia
+78
++26
+1
+77
+2
+26.3
 Taiwan
 77
 +10
@@ -898,53 +965,49 @@ Taiwan
 20
 56
 3.2
+Serbia
+72
++15
+1
+71
+4
+8.2
 Panama
 69
 1
 68
+7
 16.0
-Bulgaria
-67
-+5
-2
-65
-9.6
+Croatia
+69
++12
+5
+64
+16.8
 Argentina
-65
+68
++3
 2
 3
-60
-1
-1.4
-Croatia
-65
-+8
-4
-61
-15.8
-Serbia
-65
-+8
-1
-64
-2
-7.4
-Armenia
-64
-+12
-1
 63
-2
-21.6
+1
+1.5
+Vietnam
+66
++5
+16
+50
+0.7
+Colombia
+65
++11
+1
+64
+1.3
 South Africa
 62
 62
 1.0
-Vietnam
-61
-16
-45
-0.6
 Algeria
 60
 5
@@ -952,18 +1015,12 @@ Algeria
 10
 45
 1.4
-Ecuador
-58
-2
-56
-2
-3.3
-Colombia
-57
-+3
+Latvia
+60
++26
 1
-56
-1.1
+59
+31.8
 Brunei
 56
 +2
@@ -983,44 +1040,53 @@ Hungary
 2
 47
 5.2
-Latvia
+Costa Rica
+50
++9
+50
+3
+9.8
+Cyprus
 49
-+15
++3
+49
 1
-48
-26.0
+40.6
 Faeroe Islands
 47
 +29
 47
-Turkey
-47
-47
-0.6
-Cyprus
-46
-46
+Morocco
+44
++7
+2
++1
 1
-38.1
-Costa Rica
 41
-41
-3
-8.0
+1
+1.2
+Sri Lanka
+44
++16
+1
+43
+2.1
 Palestine
 41
 +2
 41
 8.0
-Morocco
+Jordan
+40
++11
+1
+39
+3.9
+Andorra
+39
++25
+1
 38
-+1
-2
-+1
-1
-35
-1
-1.0
 Malta
 38
 +8
@@ -1031,18 +1097,13 @@ Belarus
 3
 33
 3.8
-Jordan
-35
-+6
-1
+Azerbaijan
 34
++9
+1
+6
+27
 3.4
-Sri Lanka
-35
-+7
-1
-34
-1.6
 Georgia
 34
 +1
@@ -1050,67 +1111,71 @@ Georgia
 33
 1
 8.5
+Cambodia
+33
++21
+1
+32
+2.0
+Oman
+33
++9
+12
+21
+6.5
+Kazakhstan
+33
++23
+33
+1.8
 Venezuela
 33
 +16
 33
 1.2
-Kazakhstan
-32
-+22
-32
-1.7
+North Macedonia
+31
++7
+1
+30
+1
+14.9
 Moldova
+30
++1
+1
 29
 1
-28
-1
-7.2
+7.4
 Uruguay
 29
 29
 8.3
-Azerbaijan
-28
-+3
-1
-6
-21
-2.8
 Senegal
 27
 2
 25
 1.6
-North Macedonia
-26
-+2
-1
-25
-1
-12.5
 Bosnia and Herzegovina
-26
-+1
+27
++2
 2
-24
-7.9
-Cambodia
-24
-+12
+25
+8.2
+Lithuania
+25
++7
 1
-23
-1.4
-Oman
 24
-12
-12
-4.7
+1
+9.2
 Tunisia
-24
+25
++1
+1
 24
 2
-2.0
+2.1
 Afghanistan
 22
 +1
@@ -1122,12 +1187,10 @@ Dominican Republic
 1
 20
 1.9
-Lithuania
-18
-1
-17
-1
-6.6
+Liechtenstein
+19
++12
+19
 Martinique
 15
 1
@@ -1136,9 +1199,13 @@ Burkina Faso
 15
 15
 0.7
-Andorra
+Ukraine
 14
-14
++7
+2
++1
+12
+0.3
 Macao
 13
 +1
@@ -1164,6 +1231,11 @@ Bolivia
 French Guiana
 11
 11
+Uzbekistan
+11
++3
+11
+0.3
 Bangladesh
 10
 +2
@@ -1175,11 +1247,6 @@ Cameroon
 +5
 10
 0.4
-Uzbekistan
-10
-+2
-10
-0.3
 Monaco
 9
 9
@@ -1206,14 +1273,11 @@ Guyana
 7
 1
 6
-Ukraine
+Ghana
 7
-1
-6
++1
+7
 0.2
-Liechtenstein
-7
-7
 Rwanda
 7
 7
@@ -1221,10 +1285,11 @@ Rwanda
 Channel Islands
 6
 6
-Ghana
+Ethiopia
 6
++1
 6
-0.2
+0.1
 Guadeloupe
 6
 6
@@ -1233,13 +1298,15 @@ Cuba
 +1
 5
 0.4
-Ethiopia
-5
-5
 Guam
 5
 +2
 5
+Mongolia
+5
++1
+5
+1.5
 Puerto Rico
 5
 5
@@ -1253,10 +1320,11 @@ Ivory Coast
 4
 4
 0.2
-Mongolia
+Kenya
 4
++1
 4
-1.2
+0.1
 Seychelles
 4
 +1
@@ -1270,6 +1338,10 @@ Aruba
 3
 +1
 3
+Curaçao
+3
++1
+3
 DRC
 3
 3
@@ -1278,23 +1350,24 @@ French Polynesia
 3
 Gibraltar
 3
-1
 2
-Kenya
-3
-3
-0.1
+1
 St. Barth
 3
 3
-Curaçao
+Barbados
 2
++2
 2
 Liberia
 2
 +1
 2
 0.4
+Montenegro
+2
++2
+2
 Namibia
 2
 2
@@ -1389,14 +1462,14 @@ Togo
 1
 0.1
 **Total:**
-186,707
-4,264
-7,471
-324
-80,836
-98,400
-6,483
-24.0
+197,573
+15,123
+7,955
+806
+81,691
+107,927
+7,020
+25.3
 
 </div>
 
@@ -1439,6 +1512,24 @@ style="clear:both; font-size:13px; margin-top:25px; padding-bottom:45px; line-he
 The "New" columns for China display the previous day changes (as China
 reports after the day is over). For all other countries, the "New"
 columns display the changes for the current day while still in progress.
+<div id="italian-media" style="margin-top:20px">
+
+**![](/img/flags/small/tn_it-flag.gif){width="17" height="12"} ITALY**:
+Italian media are reporting the **change in active cases** (a lower
+number) rather than the **change in total cases** (a higher number),
+representing it as "newly infected" when, in fact, it represents the
+"change in active cases." **Newly infected**, meaning the number of
+**people who have tested positive to the virus in the last day, is the
+number shown on the table above**, which corresponds to the **change in
+total cases** in accordance with the international standards set by the
+WHO and followed by all countries. The change in active cases (what
+Italian media label as "newly infected") is the result of the following
+formula: (newly infected) - (new deaths) - (new recoveries). All data,
+including total cases ("casi totali") is available on Italy's
+[Dipartimento della Protezione Civile official
+repository](https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale){.underline}
+
+</div>
 
 </div>
 
@@ -1471,6 +1562,943 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_post">
 
+<div class="news_body">
+
+-   **1 new case** in
+    **Tunisia** [\[[source](https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/706151/%D8%A5%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D9%83%D9%88%D8%B1%D9%86%D8%A7-%D8%A5%D9%84%D9%89-25){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1474 new cases** and **16 new deaths** in **the United States**
+
+    *New deaths include:*
+
+    -   **1 in Nassau County (New York): **a 96-year-old man
+        \[[source](https://abc7ny.com/health/3-coronavirus-deaths-on-long-island-215-total-cases/6021346/)\] 
+    -   **2 new deaths in Santa Clara County** (**California**): a
+        man in his 50s (who was hospitalized on March 12) and a man in
+        his 80s. It is not known if either had underlying health
+        conditions
+        \[[source](https://www.sfgate.com/bayarea/article/Coronavirus-updates-Bay-Area-San-Francisco-Marin-15134170.php)\]
+    -   **First 2 deaths in Riverside County**
+        (**California**) \[[source](https://www.rivcoph.org/Portals/0/Documents/CoronaVirus/31620COVID-19deaths.pdf)\]
+    -   **1 new death** in **Bergen County** (**New Jersey**): a man in
+        his
+        90s \[[source](https://mobile.twitter.com/GovMurphy/status/1239707859597828097)\]
+
+    \
+    *New cases include:*
+
+    -   **1st case in Frederick County** (Maryland)
+        \[[source](https://coronavirus.maryland.gov/)\] 
+    -   **1st case in Madison County** (Alabama)
+        \[[source](https://www.waff.com/2020/03/17/alabama-department-public-health-holds-coronavirus-update-tuesday/)\] 
+    -   **432 in New York state,** of which 118 in New York City, 157 in
+        Westchester County, 1 in Essex
+        County \[[source](https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page)\]
+        \[[source](https://abc7ny.com/health/ny-coronavirus-death-toll-hits-12-virus-may-peak-in-45-days-/5989875/)\]
+        \[[source](https://www.adirondackhealth.org/post/first-positive-covid-19-test-result-at-adirondack-medical-center)\]
+    -   **2 new cases in Fairbanks
+        (Alaska) **\[[source](https://www.adn.com/alaska-news/fairbanks/2020/03/17/two-positive-covid-19-cases-announced-in-fairbanks-bringing-alaskas-total-to-3/)\]
+    -   **First case in Peoria County** (**Illinois**): the person was
+        **screened over the phone and tested at home** by OSF
+        Healthcare ** **\[[source](https://week.com/2020/03/16/first-case-of-coronavirus-in-peoria-county-confirmed/)\]
+    -   **1 new case in Tulare County** (**California**) hospitalized in
+        **critical
+        condition  **\[[source](https://abc30.com/health/health-officials-confirm-third-covid-19-case-in-tulare-county/6020049/)\]
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **121 new cases** in
+    **Norway** [\[[source](https://www.vg.no/spesial/2020/corona-viruset/?utm_source=vgfront&utm_content=row-1){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **51 new cases** and **1 new death** in **Turkey**: an 89-year old
+    man. It is the first death in the
+    country  [\[[source](https://halktv.com.tr/service/amp/gundem/turkiyede-coronavirus-kaynakli-ilk-olum-421335h?__twitter_impression=true){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **38 new cases** and **1 new death** in **Canada**, a patient in the
+    Muskoka region
+    \[[source](https://toronto.ctvnews.ca/covid-19-patient-in-ontario-has-died-health-minister-says-1.4856311)\]
+    \[[source](https://www.ontario.ca/page/2019-novel-coronavirus)\] \
+    \
+    *New cases include:*\
+    *- *8 new cases in Ontario
+    \[[source](https://www.cp24.com/news/at-least-13-new-covid-19-cases-reported-in-ontario-1.4856313)\]  [\[[source](https://www.tvanouvelles.ca/2020/03/17/en-direct--les-derniers-developpements-sur-le-coronavirus){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **9 new cases** in
+    **Oman** [\[[source](https://timesofoman.com/article/2920176/Oman/Health/Coronavirus-Two-new-cases-reported-in-Oman){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **9 new cases** in **Costa
+    Rica** [\[[source](https://www.amcostarica.com/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   ![](/images/alert.png) **2095 new cases** and **9 new deaths** in
+    **Germany**: [trends and
+    distribution](https://www.zeit.de/wissen/gesundheit/2020-03/coronavirus-deutschland-infektionen-faelle-verbreitung-epidemie-karte) [\[[source](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **15 new cases** in
+    **Lebanon** [\[[source](https://bit.ly/3a8juLX){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **48 new cases** in **Iceland**: earlier today, media announced the
+    1st death in the country. However, while the 40-year old man had
+    tested positive for Covid-19, it seems that his death was unrelated
+    to the virus. Further investigation is necessary to determine the
+    cause of death
+    \[[source](https://www.ruv.is/frett/oliklegt-ad-andlatid-tengist-covid-19-en-rannsokna-thorf)\]
+    \[[source](https://www.covid.is/tolulegar-upplysingar)\]
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **15 new cases** in **the United Arab
+    Emirates** [\[[source](https://twitter.com/gulf_news/status/1240004857475616771?s=21){.news_source_a}\]]{.source} [\[[source](https://gulfnews.com/uae/health/uae-reports-15-new-coronavirus-cases-1.1584474947299){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **7 new cases** and **1 new death** in **Morocco** including a
+    75-year-old
+    person [\[[source](https://m.hespress.com/societe/463522.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **39 new cases** in
+    **Israel** [\[[source](https://www.jpost.com/Breaking-News/Israelis-with-coronavirus-Health-Ministry-reports-304-patients-621258){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **61 new cases** and **1 new death** in
+    **Poland** [\[[source](https://wiadomosci.onet.pl/kraj/koronawirus-w-polsce-jak-dlugo-potrwa-kwarantanna-w-polsce/1mjevv8){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **25 new cases** in
+    **Andorra** [\[[source](https://www.altaveu.com/noticia/11696/els-infectats-per-coronavirus-pugen-ja-a-39){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1806 new cases** and **191 new deaths** in
+    **Spain** [\[[source](https://www.rtve.es/noticias/20200317/mapa-del-coronavirus-espana/2004681.shtml){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body news_box">
+
+-   **Belgium** will implement a **lockdown from March 18 until April
+    5**. Citizens will be allowed to leave their homes only for
+    essential visits to supermarkets, pharmacies, banks and in cases of
+    emergency
+    \[[source](https://news.trust.org/item/20200317183012-owl5f)\]   [\[[source](https://news.trust.org/item/20200317183012-owl5f){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **26 new cases** in
+    **Armenia** [\[[source](https://en.armradio.am/2020/03/17/armenia-confirms-78-cases-of-coronavirus/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **12 new cases** in
+    **Liechtenstein** [\[[source](https://www.regierung.li/media/attachments/126-corona-generelles-veranstaltungsverbot-weitere-schliessungen.pdf?t=637200718318783345){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in **Ghana**:  a 35-year-old male Ghanaian citizen
+    who returned to Acca from
+    France  [\[[source](http://www.ghanahealthservice.org/covid19/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **14 new cases** and **1 new death** in **India**: Death of a
+    **64-year-old man** in Maharashtra, who had returned from
+    **Dubai. **West Bengal reports its first coronavirus case: a man
+    returning
+    from **London** [\[[source](https://indianexpress.com/article/live-news/coronavirus-live-updates-india-china-italy-delhi-karnataka-maharashtra-6318054/){.news_source_a}\]]{.source} [\[[source](https://www.mohfw.gov.in/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **9 new cases** in
+    **Azerbaijan** [\[[source](https://report.az/sehiyye/azerbaycanda-3-yeni-koronavirusa-yoluxma-fakti-qeyde-alindi/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **7 new cases** and **1 new death** in
+    **Ukraine** [\[[source](https://t.me/COVID19_Ukraine/81){.news_source_a}\]]{.source} [\[[source](https://ukranews.com/news/690603-koronavirus-v-ukraine-zarazilos-vsego-14-chelovek){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **7 new cases** in **Lithuania** includin a woman who had returned
+    from Italy, a man who had returned from Denmark, and a man in his
+    60s who had returned from South
+    Africa [\[[source](https://www.lrt.lt/naujienos/lietuvoje/2/1152303/lietuvoje-nustatyti-dar-trys-koronaviruso-atvejai-du-is-ju-klaipedoje){.news_source_a}\]]{.source} [\[[source](https://www.15min.lt/naujiena/aktualu/lietuva/dar-vienas-koronaviruso-atvejis-jau-ketvirtas-patvirtintas-antradieni-56-1291118){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   ![](/images/alert.png) **1097 new cases** and **27 new deaths** in
+    **France** [\[[source](https://twitter.com/BFMTV/status/1239981506258448384?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1239981506258448384&ref_url=https%3A%2F%2Fwww.bfmtv.com%2Fsante%2Fdirect-coronavirus-covid-19-france-confinement-quarantaine-emmanuel-macron-deplacements-interdits-attestation-train-metro-travail-teletravail%2F){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **63 new cases** in
+    **Pakistan** [\[[source](https://www.dawn.com/live-blog/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **3 new cases** in
+    **Qatar** [\[[source](https://www.moph.gov.qa/english/Pages/Coronavirus2019.aspx){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **10 new cases** and **2 new deaths** in **San
+    Marino** [\[[source](http://www.iss.sm/on-line/home.html){.news_source_a}\]]{.source} [\[[source](https://www.sanmarinortv.sm/news/attualita-c4/coronavirus-due-nuovi-decessi-protezione-civile-garantisce-assistenza-sul-territorio-a185234){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **12 new cases** in
+    **Croatia** [\[[source](https://www.index.hr/vijesti/clanak/uskoro-uzivo-devet-novih-slucajeva-zaraze-u-hrvatskoj-ceka-se-presica-stozera/2165891.aspx){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **69 new cases** in
+    **Ireland** [\[[source](http://www.redfm.ie/news/cork/confirmed-69-new-cases-of-covid-19-in-ireland-in-the-past-24-hours/){.news_source_a}\]]{.source} [\[[source](https://www.rte.ie/news/coronavirus/2020/0317/1123663-coronavirus-ireland/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **90 new cases** in
+    **Czechia** [\[[source](https://www.novinky.cz/domaci/clanek/o-koronaviru-mimoradne-jedna-vlada-40316983?seq_no=1&source=hp&dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&utm_source=www.seznam.cz&utm_medium=z-boxiku&utm_campaign=null){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **30 new cases** and **2 new deaths** in **Egypt**, a 78-year-old
+    Italian national and a 70-year-old from Cairo
+    \[[source](https://www.skynewsarabia.com/middle-east/1329107-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D9%84%D9%86-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D8%B5%D8%A7%D8%A8%D9%8A%D9%86-)\] [\[[source](https://www.skynewsarabia.com/middle-east/1329107-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D9%84%D9%86-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D8%B5%D8%A7%D8%A8%D9%8A%D9%86-%D9%88%D9%88%D9%81%D9%8A%D8%A7%D8%AA-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **13 new cases** in **China, Hong Kong
+    SAR** [\[[source](https://chp-dashboard.geodata.gov.hk/covid-19/en.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **7 new cases** in **the Republic of North
+    Macedonia** [\[[source](https://nayeheadline.com/%d0%bd%d0%b0%d1%98%d0%bd%d0%be%d0%b2%d0%b0-%d0%b2%d0%b5%d1%81%d1%82-%d1%83%d1%88%d1%82%d0%b5-%d0%bf%d0%b5%d1%82-%d0%bd%d0%be%d0%b2%d0%b8-%d0%b7%d0%b0%d0%b1%d0%be%d0%bb%d0%b5%d0%bd%d0%b8-%d0%be%d0%b4/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **25 new cases** in
+    **Slovakia** [\[[source](https://www.topky.sk/cl/10/1869549/KORONAVIRUS-ONLINE-Slovensko-ma-72-pripadov--Pellegrini-oznamil-12-novych-pripadov-){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **15 new cases** in
+    **Serbia** [\[[source](https://covid19.rs/homepage-english/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   ![](/images/alert.png) **3526 new cases** and **345 new deaths** in
+    **Italy**: Bergamo (Lombardy region) has **run out of intensive care
+    beds**. Unions are demanding the closure of post offices after the
+    **deaths of 2 postal workers who were on their job until a few days
+    ago** [\[[source](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale-20200317.csv){.news_source_a}\]]{.source} [\[[source](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv){.news_source_a}\]]{.source} [\[[source](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2020/03/16/coronavirus-gallera-ieri-quasi-zero-posti-in-terapia-intensiva_985c7acc-6150-45b2-af54-aa7ab4a309e9.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **11 new cases** in
+    **Jordan** [\[[source](https://www.sarayanews.com/article/601304){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **13 new cases** in
+    **Bahrain** [\[[source](https://www.moh.gov.bh/COVID19){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **38 new cases** and **2 new deaths** in
+    **Indonesia** [\[[source](https://kumparan.com/kumparannews/breaking-news-kasus-corona-di-ri-melonjak-jadi-172-1t2j5Qh7m8o){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   ![](/images/alert.png) **407 new cases** and **16 new deaths** in
+    **the United Kingdom**: according to the NHS, those who died were
+    aged between 45 and 93 and all had underlying health conditions
+    \[[source](https://news.sky.com/story/uk-coronavirus-cases-reach-1-950-up-407-in-24-hours-11958875)\]
+    \[[source](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public)\]
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **3 new cases** in
+    **Cyprus** [\[[source](https://cyprus-mail.com/2020/03/17/coronavirus-three-new-cases-in-last-24-hours/?fbclid=IwAR2J8aoKM4Euck3a9H1eCg2eKvXb4c2Xd95Qw5Q6F2h8SUnefKRF2jqE7sY){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in
+    **Ethiopia** [\[[source](https://mobile.twitter.com/lia_tadesse/status/1239953550287032322){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **38 new cases** in **Saudi
+    Arabia** [\[[source](https://twitter.com/Saudi_Gazette/status/1239952133249798149?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3ASaudi_Gazette%7Ctwcon%5Etimelinechrome&ref_url=http%3A%2F%2Fsaudigazette.com.sa%2F){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **70 new cases** and **1 new death** in **Sweden**, an elderly man
+    with underlying conditions in the Sörmland region
+    \[[source](https://sverigesradio.se/sida/artikel.aspx?programid=87&artikel=7431599)\]
+    \[[source](https://c19.se/)\]
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **35 new cases** and **1 new death** in
+    **Greece** [\[[source](https://www.ethnos.gr/ygeia/94654_koronoios-35-nea-kroysmata-387-sto-synolo-oi-nees-anakoinoseis){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **63 new cases** in
+    **Denmark** [\[[source](https://politi.dk/coronavirus-i-danmark/foelg-smittespredningen-globalt-regionalt-og-lokalt){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **49 new cases** in
+    **Romania** [\[[source](https://www.stiripesurse.ro/coronavirus-16-cazuri-noi-de-coronavirus-in-romania-numarul-total-a-ajuns-la-184_1441446.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **389 new cases** and **8 new deaths** in
+    **Switzerland** [\[[source](https://interactif.tdg.ch/2020/covid-19-carte-suisse/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **45 new cases** and **1 new death** in
+    **Japan** [\[[source](https://covid19japan.com/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **22 new cases** in
+    **Slovenia** [\[[source](https://www.nijz.si/sl/pojav-novega-koronavirusa-2019-ncov){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **53 new cases** in
+    **Ecuador** [\[[source](https://www.eluniverso.com/noticias/2020/03/17/nota/7785321/se-confirman-111-casos-coronavirus-covid-19-ecuador&ved=2ahUKEwjxsv2m6KHoAhXEl-AKHYoRANgQFjAAegQIBxAB&usg=AOvVaw1mIO7gNv3Ie9blA2u4q5RJ){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **19 new cases** in
+    **Bulgaria** [\[[source](https://nova.bg/news/view/2020/03/17/281604/%D0%B7%D0%B0%D1%80%D0%B0%D0%B7%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D1%81-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81-%D1%83-%D0%BD%D0%B0%D1%81-%D0%B2%D0%B5%D1%87%D0%B5-%D1%81%D0%B0-67-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **16 new cases** in **Sri
+    Lanka** [\[[source](http://corona.newsfirst.lk/?lan=EN){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **314 new cases** and **1 new death** in **Austria**:\
+    **Vorarlberg region in lockdown**. \
+    Vienna Airport’s traffic at bare minimum \
+    rail transport down 70% \
+    Restrictions already in place include: \
+    - gatherings of more than five people are banned\
+    - people are urged to self-isolate\
+    - schools and shops selling non-essential goods are closed\
+    - borders with Italy and Switzerland are closed\
+    - no restrictions in place along the border with Germany which has,
+    however, introduced its own border controls\
+    - visitors from Britain, the Netherlands, Russia and Ukraine can
+    enter only under certain conditions\
+    \[[source](https://www.krone.at/2118388)\]
+    \[[source](https://news.trust.org/item/20200317122029-mcf9x)\] [\[[source](https://twitter.com/bmsgpk/status/1239915561183858692){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **21 new cases** in
+    **Cambodia** [\[[source](https://www.facebook.com/895661983806242/posts/2871259236246497/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **45 new cases** in
+    **Chile** [\[[source](https://www.emol.com/noticias/Nacional/2020/03/17/980088/casos-confirmados-201-coronavirus.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **67 new cases** and **1 new death** in **Brazil**, Sao
+    Paulo [\[[source](https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/17/casos-de-coronavirus-no-brasil-em-17-de-marco.ghtml){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in
+    **Curaçao** [\[[source](https://curacao.nu/curacao-sluit-alle-scholen-derde-corona-besmetting/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **23 new cases** in **Kazakhstan**, including a **2-year-old girl**
+    in Almaty who flew from Berlin to Minsk on March
+    13 [\[[source](https://tengrinews.kz/kazakhstan_news/dvuhletnyaya-devochka-zabolela-koronavirusom-v-almatyi-394896/){.news_source_a}\]]{.source} [\[[source](https://www.nur.kz/1845927-ese-odnogo-zarazivsegosa-koronavirusom-vyavili-v-nur-sultane.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **31 new cases** in
+    **Peru** [\[[source](https://larepublica.pe/sociedad/2020/03/17/coronavirus-en-peru-cifra-de-infectados-por-covid-19-aumenta-se-eleva-a-93-segun-minsa/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **11 new cases** in
+    **Colombia** [\[[source](https://twitter.com/MinSaludCol/status/1239908973739941888?s=20){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **44 new cases** in
+    **Finland** [\[[source](https://korona.kans.io/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **2 new cases** in **Bosnia and Herzegovina**: a woman who had
+    returned from Germany and a person in
+    Mostar [\[[source](http://www.klix.ba/clanak/200317086){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **21 new cases** in
+    **Russia** [\[[source](https://www.kommersant.ru/doc/4291695){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **23 new cases** in
+    **Singapore** [\[[source](https://www.straitstimes.com/singapore/23-new-covid-19-cases-in-spore-biggest-single-day-spike-including-17-imported){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in **Moldova**: a man in his 30s who had returned
+    from Romania where he was confirmed
+    positive [\[[source](https://unimedia.info/ro/news/1399d4440c1aa96c/un-moldovean-diagnosticat-cu-covid-19-in-romania-adus-de-smurd-la-spitalul-toma-ciorba-din-chisinau.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in **Mongolia**: a person who had returned from
+    Italy [\[[source](https://mass.mn/n/62079){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **292 new cases** and **19 new deaths** in **the
+    Netherlands** [\[[source](https://www.rivm.nl/nieuws/actuele-informatie-over-coronavirus){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in **Kenya**: a person who had returned from
+    London [\[[source](https://twitter.com/citizentvkenya/status/1239895897187782659?s=21){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body news_box">
+
+-   [**[[[Israel
+    ]{style="color:black"}]{style="font-family:"Arial",sans-serif"}]{style="background-color:white"}**[[[urges
+    its citizens to **remain home** and go out only for **“vital needs
+    and services”**. Shopping for food is allowed only if no delvery
+    option is available. Parks, beaches and malls will be off-limits.
+    People will be allowed to exercise outdoors for 10 minutes if nobody
+    is nearby
+    \[[source](https://news.trust.org/item/20200317121156-tzku5)\] ]{style="color:black"}]{style="font-family:"Arial",sans-serif"}]{style="background-color:white"}]{style="font-family:"Times New Roman",serif"}\
+     
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **5 new cases** in **Vietnam**: 
+
+    - an 18-year-old man and a 20-year-old woman who are international
+    students returning from the UK
+
+    - a 36-year-old woman who had returned from Switzerland and Dubai
+
+    - a 28-year-old woman who had contact with previously confirmed
+    cases
+
+    - a 21-year-old woman who had traveled to the US and Canada before
+    returning to
+    Vietnam [\[[source](https://www.24h.com.vn/tin-tuc-trong-ngay/cong-bo-ca-thu-66-mac-covid-19-tai-viet-nam-trong-do-co-3-ca-o-tphcm-c46a1133028.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **26 new cases** in
+    **Latvia** [\[[source](https://www.delfi.lv/news/national/politics/latvija-ar-covid-19-saslimusi-jau-60-cilveki-plkst1412.d?id=51971827){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **3 new cases** in
+    **Argentina** [\[[source](https://www.diariopopular.com.ar/general/coronavirus-argentina-confirman-otros-12-casos-ya-son-68-los-infectados-n465823){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **3 new cases** in
+    **Uzbekistan** [\[[source](https://daryo.uz/2020/03/17/ozbekistonda-koronavirusga-chalinganlar-soni-yana-bittaga-kopaydi-11-bemor-dubaydan-kelgan/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **117 new cases** in
+    **Portugal** [\[[source](https://observador.pt/2020/03/17/costa-preve-que-pico-do-surto-so-chegue-em-maio-defice-publico-comprometido/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
 <div class="news_body news_box">
 
 -   **Australia** urges its citizens abroad to return home before it's
@@ -1485,42 +2513,8 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **2 new cases** in **the Republic of North
-    Macedonia** [\[[source](https://www.facebook.com/1819203381720020/posts/2339145183059168/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **4 new cases** in
     **Albania** [\[[source](https://www.balkanweb.com/lajm-i-fundit-4-raste-te-reja-me-covid-19-ne-vend-shkon-ne-55-numri-i-te-prekurve-sanatoriumi-kthehet-ne-spital-per-koronavirusin/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **12 new cases** in
-    **Slovakia** [\[[source](https://www.topky.sk/cl/10/1869549/KORONAVIRUS-ONLINE-Slovensko-ma-72-pripadov--Pellegrini-oznamil-12-novych-pripadov-){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **8 new cases** and **1 new death** in **India**: a **64-year-old
-    man** in Maharashtra, who had returned from **Dubai**\
-      [\[[source](https://indianexpress.com/article/live-news/coronavirus-live-updates-india-china-italy-delhi-karnataka-maharashtra-6318054/){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1566,52 +2560,8 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **7 new cases** in **Sri
-    Lanka** [\[[source](http://corona.newsfirst.lk/?lan=EN){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **364 new cases** and **3 new deaths** in
-    **Germany** [\[[source](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** in **Portugal**: a Dutch
-    tourist [\[[source](https://eco.sapo.pt/2020/03/17/primeiro-caso-confirmado-de-covid-19-na-madeira-governo-regional-suspende-atividades-turisticas/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **21 new cases** and **1 new death** in
     **Iraq** [\[[source](https://www.facebook.com/156490947738645/posts/2806380322749681/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **69 new cases** in
-    **Norway** [\[[source](https://www.vg.no/spesial/2020/corona-viruset/?utm_source=vgfront&utm_content=row-1){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1655,17 +2605,6 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **8 new cases** in
-    **Bahrain** [\[[source](https://www.moh.gov.bh/COVID19){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **1 new death** in **Algeria**: a 51-year-old person who had been in
     contact with previously confirmed
     cases [\[[source](https://www.algerie-eco.com/2020/03/17/coronavirus-cinquieme-deces-en-algerie/){.news_source_a}\]]{.source}
@@ -1689,65 +2628,8 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **1236 new cases** and **149 new deaths** in
-    **Spain** [\[[source](https://www.elmundo.es/ciencia-y-salud/salud/2020/03/17/5e70736b21efa0b53a8b45f2.html){.news_source_a}\]]{.source} [\[[source](https://elpais.com/sociedad/2020-03-17/ultimas-noticias-del-coronavirus-y-el-estado-de-alarma-en-directo.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** in **Bosnia and Herzegovina**: a woman who had
-    returned from
-    Germany [\[[source](http://www.klix.ba/clanak/200317086){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **6 new cases** in
-    **Jordan** [\[[source](https://twitter.com/khaberni/status/1239863979972923392){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **59 new cases** in
     **Luxembourg** [\[[source](https://gouvernement.lu/en/dossiers.gouv_msan%2Ben%2Bdossiers%2B2020%2Bcorona-virus.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **22 new cases** in **Kazakhstan**, including a **2-year-old girl**
-    in Almaty who flew from Berlin to Minsk on March
-    13 [\[[source](https://tengrinews.kz/kazakhstan_news/dvuhletnyaya-devochka-zabolela-koronavirusom-v-almatyi-394896/){.news_source_a}\]]{.source} [\[[source](https://tengrinews.kz/kazakhstan_news/chislo-bolnyih-koronavirusom-v-kazahstane-dostiglo-32-394982/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new cases** in
-    **Sweden** [\[[source](https://platz.se/coronavirus/?c=1614){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1768,41 +2650,8 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **12 new cases** in
-    **Armenia** [\[[source](https://www.azatutyun.am/a/30492590.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **185 new cases** in
     **Belgium** [\[[source](https://www.hln.be/nieuws/buitenland/live-volg-hier-de-persconferentie-van-nationaal-crisiscentrum-361-besmette-belgen-in-ziekenhuis-gouverneur-kom-niet-naar-de-kust~a0e0eb98/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **19 new cases** in
-    **Japan** [\[[source](https://covid19japan.com/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** and **1 new death** in **Morocco**: a 75-year-old
-    person [\[[source](https://m.hespress.com/societe/463522.html){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1825,16 +2674,6 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 -   **2 new cases** in **Brunei
     Darussalam** [\[[source](https://www.instagram.com/p/B91FX5-lK4E/?igshid=32xqpjm27sar){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2 new deaths** in **San Marino**
 
 </div>
 
@@ -1878,41 +2717,8 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **193 new cases** in
-    **Austria** [\[[source](https://www.krone.at/2118388){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **16 new cases** in
-    **Finland** [\[[source](https://korona.kans.io/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **1 new case** in **Seychelles**, the wife of a previously confirmed
     case  [\[[source](https://www.facebook.com/mohseychellesofficial){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **7 new cases** in **China, Hong Kong
-    SAR** [\[[source](https://chp-dashboard.geodata.gov.hk/covid-19/en.html){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1944,64 +2750,8 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **46 new cases** in
-    **Denmark** [\[[source](https://politi.dk/coronavirus-i-danmark/foelg-smittespredningen-globalt-regionalt-og-lokalt){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **3 new cases** in **Colombia**: a woman in her 30s and 2 men in
-    their
-    50s [\[[source](https://www.elespectador.com/coronavirus/nuevos-casos-de-coronavirus-en-colombia-van-57-confirmados-articulo-909213){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **10 new cases** in
-    **Pakistan** [\[[source](https://tribune.com.pk/story/2177847/1-five-new-covid-19-cases-sindh-pakistans-tally-hits-189/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **45 new cases** in **the
     Philippines** [\[[source](https://www.facebook.com/OfficialDOHgov/photos/a.157979910879936/3151986978145866/?type=3){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** and **2 new deaths** in
-    **Switzerland** [\[[source](https://interactif.tdg.ch/2020/covid-19-carte-suisse/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **38 new cases** in
-    **Indonesia** [\[[source](https://kumparan.com/kumparannews/breaking-news-kasus-corona-di-ri-melonjak-jadi-172-1t2j5Qh7m8o){.news_source_a}\]]{.source}
 
 </div>
 
@@ -2024,41 +2774,6 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 -   **7 new cases** in
     **Kuwait** [\[[source](https://www.facebook.com/1433567903615630/posts/2252112515094494){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **80 new cases** and **7 new deaths** in **the United States**
-
-    *New deaths include:*
-
-    -   **2 new deaths in Santa Clara County** (**California**): a
-        man in his 50s (who was hospitalized on March 12) and a man in
-        his 80s. It is not known if either had underlying health
-        conditions
-        \[[source](https://www.sfgate.com/bayarea/article/Coronavirus-updates-Bay-Area-San-Francisco-Marin-15134170.php)\]
-    -   **First 2 deaths in Riverside County**
-        (**California**) \[[source](https://www.rivcoph.org/Portals/0/Documents/CoronaVirus/31620COVID-19deaths.pdf)\]
-    -   **1 new death** in **Bergen County** (**New Jersey**): a man in
-        his
-        90s \[[source](https://mobile.twitter.com/GovMurphy/status/1239707859597828097)\]
-
-    \
-    *New cases include:*
-
-    -   **2 new cases in Fairbanks
-        (Alaska) **\[[source](https://www.adn.com/alaska-news/fairbanks/2020/03/17/two-positive-covid-19-cases-announced-in-fairbanks-bringing-alaskas-total-to-3/)\]
-    -   **First case in Peoria County** (**Illinois**): the person was
-        **screened over the phone and tested at home** by OSF
-        Healthcare ** **\[[source](https://week.com/2020/03/16/first-case-of-coronavirus-in-peoria-county-confirmed/)\]
-    -   **1 new case in Tulare County** (**California**) hospitalized in
-        **critical
-        condition  **\[[source](https://abc30.com/health/health-officials-confirm-third-covid-19-case-in-tulare-county/6020049/)\]
 
 </div>
 
@@ -2091,17 +2806,6 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **15 new cases** in
-    **Latvia** [\[[source](https://twitter.com/SPKCentrs/status/1239824512696418304){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **29 new cases** in **Faeroe
     Islands** [\[[source](https://www.in.fo/news-detail/news/korona-talid-a-smittadum-i-foeroyum-er-meiri-enn-tvifaldad/){.news_source_a}\]]{.source}
 
@@ -2113,63 +2817,8 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **3 new cases** in
-    **Azerbaijan** [\[[source](https://report.az/sehiyye/azerbaycanda-3-yeni-koronavirusa-yoluxma-fakti-qeyde-alindi/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **1 new case** in **the United States Virgin
     Islands** [\[[source](https://viconsortium.com/vi-coronavirus/virgin-islands-second-case-of-coronavirus-confirmed-in-u-s-virgin-islands){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **8 new cases** in
-    **Croatia** [\[[source](https://www.index.hr/vijesti/clanak/uskoro-uzivo-devet-novih-slucajeva-zaraze-u-hrvatskoj-ceka-se-presica-stozera/2165891.aspx){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **28 new cases** and **1 new death** in
-    **Poland** [\[[source](https://mobile.twitter.com/MZ_GOV_PL/status/1239820771888975872){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **16 new cases** in
-    **Romania** [\[[source](https://www.stiripesurse.ro/coronavirus-16-cazuri-noi-de-coronavirus-in-romania-numarul-total-a-ajuns-la-184_1441446.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **11 new cases** in
-    **Lebanon** [\[[source](https://bit.ly/3a8juLX){.news_source_a}\]]{.source}
 
 </div>
 
@@ -2216,17 +2865,6 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **2 new cases** in
-    **Uzbekistan** [\[[source](http://www.minzdrav.uz/uz/news/detail.php?ID=57885){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **51 new cases** in **Australia**. *New cases include:*
 
     - **39 new cases in New South
@@ -2234,39 +2872,6 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
     - **2 new cases in South
     Australia** \[[source](https://www.abc.net.au/news/2020-03-17/two-more-coronavirus-cases-as-clinics-open-outside-adelaide/12064324)\] [\[[source](https://www.news.com.au/topics/coronavirus){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **39 new cases** in
-    **Czechia** [\[[source](https://onemocneni-aktualne.mzcr.cz/covid-19){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **5 new cases** in
-    **Bulgaria** [\[[source](https://nova.bg/news/view/2020/03/17/281604/%D0%B7%D0%B0%D1%80%D0%B0%D0%B7%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D1%81-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81-%D1%83-%D0%BD%D0%B0%D1%81-%D0%B2%D0%B5%D1%87%D0%B5-%D1%81%D0%B0-67-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **8 new cases** in
-    **Serbia** [\[[source](https://covid19.rs/homepage-english/){.news_source_a}\]]{.source}
 
 </div>
 
@@ -2298,28 +2903,6 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_body">
 
--   **2 new cases** in
-    **Bangladesh** [\[[source](https://www.jamuna.tv/news/129067?fbclid=IwAR36cMxBnckLlMHGiuvswq4OxF9kjjHad1tEj3o1kyBNmpfe9vPfBk1EZlk){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **6 new cases** in
-    **Israel** [\[[source](https://www.jpost.com/Breaking-News/Israelis-with-coronavirus-Health-Ministry-reports-304-patients-621258){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **11 new cases** in
     **Hungary** [\[[source](https://koronavirus.gov.hu/cikkek/50-re-nott-az-uj-koronavirussal-fertozott-betegek-szama){.news_source_a}\]]{.source}
 
@@ -2333,19 +2916,6 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 -   **16 new cases** in
     **Venezuela** [\[[source](http://www.minci.gob.ve/venezuela-registra-33-casos-positivos-de-covid-19/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **12 new cases** in **Cambodia**, doubling its tally to 24. Among
-    the new cases, 11  had traveled to Malaysia for a religious event at
-    a
-    mosque [\[[source](https://www.facebook.com/MinistryofHealthofCambodia/posts/2870261319679622){.news_source_a}\]]{.source} [\[[source](https://www.reuters.com/article/us-health-coronavirus-cambodia/cambodia-reports-12-new-cases-of-coronavirus-bringing-total-to-24-idUSKBN2140DZ){.news_source_a}\]]{.source}
 
 </div>
 
@@ -2581,7 +3151,7 @@ style="display: none;">
 <div class="news_body">
 
 -   **53 new cases** in
-    **Ireland** [\[[source](https://www.rte.ie/news/coronavirus/2020/0316/1123459-coronavirus-ireland/){.news_source_a}\]]{.source}
+    **Ireland** [\[[source](https://www.gov.ie/en/press-release/25663c-statement-from-the-national-public-health-emergency-team-16-march/){.news_source_a}\]]{.source}
 
 </div>
 
@@ -2772,8 +3342,8 @@ style="display: none;">
 
 <div class="news_body">
 
--   **4 new cases** in **Ukraine**: 2 women from the Chernivtsi
-    region [\[[source](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-){.news_source_a}\]]{.source}
+-   **4 new cases** in
+    **Ukraine** [\[[source](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-){.news_source_a}\]]{.source}
 
 </div>
 

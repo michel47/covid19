@@ -25,9 +25,9 @@ fi
 fi
 if [ ! -e covid.htm ]; then
 curl -s $url > covid.htm
-qm=$(ipfs add -Q covid.htm)
-echo qm: $qm
 fi
+qm=$(ipfs add -Q covid.htm)
+echo url: https://localhost:8080/ipfs/$qm
 # -------------------------
 # extract data
 pandoc -f html -t json covid.htm > covid.json
@@ -82,7 +82,7 @@ else
 qm1=$(echo "no data" | ipfs add -Q -n -)
 fi
 echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm1) [data](covid.yml),[csv](covid.csv)" >> covid19u.md
-echo url: https://yoogle.com:8197/ipfs/$qm
+echo url: https://yoogle.com:8197/ipfs/$qm1
 cat covid19u.md | sort -r | uniq > $mdfile
 # -------------------------
 # filing
