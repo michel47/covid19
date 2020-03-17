@@ -1,6 +1,6 @@
 # README: corona virus daily status in Switzerland ...
 
-## on 03/17/20 12:59:23 ([snapshot](https://ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC))
+## on 03/17/20 15:52:00 ([snapshot](https://ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC))
 
  272.0 cases per 1M pop,<br>
  2354 Total cases in Switzerland (2329 actives)
@@ -8,7 +8,7 @@
  21 deaths,
  4 recovered (resurected ?)
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmSrEjPFbKUY9jKeyedTzv5eNigM9NmJdjLD3RV2if6gwN/covid19.html>
+last update : <https://ipfs.blockringtm.ml/ipfs/QmVjGHLw8hnmiYFdFghxifeRXDnF8sF4yrJ5uyPySFmn2H/covid19.html>
 
  ![charts](covid.png)
 
@@ -24,8 +24,8 @@ sources:
   - <https://michel47.github.io/covid19>
   - <https://github.com/michel47/covid19>
   - <https://duckduckgo.com/?q=switzerland+progression+coronavirus>
-  - <https://gateway.ipfs.io/ipfs/QmUt9We6jdhK9H7GavKgpPAsR6nNFPPwKAg4wQUpqepFMV>
+  - <https://gateway.ipfs.io/ipfs/QmY7DpgGkEF9RCBTRYDYfK1Y9kRguSwhVzRicPMC5pCUdu>
   - <https://gateway.ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC>
-  - <https://gateway.ipfs.io/ipfs/QmSrEjPFbKUY9jKeyedTzv5eNigM9NmJdjLD3RV2if6gwN>
+  - <https://gateway.ipfs.io/ipfs/QmVjGHLw8hnmiYFdFghxifeRXDnF8sF4yrJ5uyPySFmn2H>
   
 
