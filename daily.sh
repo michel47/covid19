@@ -84,7 +84,8 @@ qm1=$(echo "no data" | ipfs add -Q -n -)
 fi
 echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm1) [data](/ipfs/$qmd/covid.yml),[csv](/ipfs/$qmd/covid.csv)" >> covid19u.md
 echo url: https://yoogle.com:8197/ipfs/$qm1
-cat covid19u.md | sort -r | uniq > $mdfile
+grep -v '^- ' covid19u.md > $mdfile
+grep '^- ' covid19u.md | sort -r | uniq >> $mdfile
 # -------------------------
 # filing
 cd ${mdfile%/*}
