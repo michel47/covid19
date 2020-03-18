@@ -72,6 +72,7 @@ fi
 eval $(cat covid.yml)
 echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.csv
 kst2 --png covid.png covid.kst
+qmd=$(ipfs add -Q -w covid.yml covid.csv covid.png)
 # -------------------------
 # snapshot of page...
 if wget -P coronavirus -S -N -nd -nH -E -H  -k -K -p  -o ${mdfile%/*}/log.txt $url ; then
@@ -81,7 +82,7 @@ qm1=$(ipfs add -Q -r coronavirus)
 else
 qm1=$(echo "no data" | ipfs add -Q -n -)
 fi
-echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm1) [data](covid.yml),[csv](covid.csv)" >> covid19u.md
+echo "- \\[$date]: ${active}/${cases}cases [$qm0](https://cloudflare-ipfs.com/ipfs/$qm1) [data](/ipfs/$qmd/covid.yml),[csv](/ipfs/$qmd/covid.csv)" >> covid19u.md
 echo url: https://yoogle.com:8197/ipfs/$qm1
 cat covid19u.md | sort -r | uniq > $mdfile
 # -------------------------
@@ -137,3 +138,4 @@ git push
 echo $tic: $qm >> $HOME/etc/mutables/covid.log
 # -------------------------
 echo "url: https://www.worldometers.info/coronavirus/#countries"
+echo "url: https://michel47.github.io/covid19"

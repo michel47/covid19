@@ -1,5 +1,11 @@
 ## Daily status on the coronavirus COVID-19 pandemy in Switzerland
 
+ YAML data file : [covid.yml](covid.yml)
+ CSV data file : [covid.csv](covid.csv)
+ PNG data file : [covid.png](covid.png)
+ 
+ ![CH covid19](covid.png)
+
 - \[03/14/20]: 1358/1375cases [QmbAgqTQ2JYzftULxQ18TYsZVbtaK6jUScheSNpujBmz3h](https://cloudflare-ipfs.com/ipfs/QmbAgqTQ2JYzftULxQ18TYsZVbtaK6jUScheSNpujBmz3h)
 - \[03/14/20]: 1358/1375cases [QmapJ2VdN8ogzoRDxFzaqWh6Rz67GSbzk88ESnx7XZenur](https://cloudflare-ipfs.com/ipfs/QmapJ2VdN8ogzoRDxFzaqWh6Rz67GSbzk88ESnx7XZenur)
 - \[03/15/20]: 1358/1375cases [QmdKU4VoUgMvZmXQ9eMzMnQqVwSWCNZdEevqz3nk2g6BvT](https://cloudflare-ipfs.com/ipfs/QmdKU4VoUgMvZmXQ9eMzMnQqVwSWCNZdEevqz3nk2g6BvT)
@@ -64,3 +70,4 @@
 - \[03/18/20]: 2700/2742cases [QmUhZp2FtoDtT6FZbZDaDV8ZnBv5nj755owTY5rg4UQEY9](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](covid.yml),[csv](covid.csv)
 - \[03/18/20]: 2700/2742cases [QmXg4uUtxVWvTWWTPqACsrcCiVuhKs4nAEKTzoRRJtd8BD](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](covid.yml),[csv](covid.csv)
 - \[03/18/20]: 2700/2742cases [QmYWrSRMmR6CAU3yp3opk7vrjBzBmVpiZ2uciFt33zbAR7](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](covid.yml),[csv](covid.csv)
+- \[03/18/20]: 2700/2742cases [QmeEKZnY3K8p56WrgVdpxGekvPs7fQiB8x6527yc5rUk7F](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/QmYVocqLuSJ1M8dwQwJ3YB54NmCGZ56aQrdYe9oMsgfbUv/covid.yml),[csv](/ipfs/QmYVocqLuSJ1M8dwQwJ3YB54NmCGZ56aQrdYe9oMsgfbUv/covid.csv)
