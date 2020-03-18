@@ -94,7 +94,7 @@ echo "gituser: $(git config user.name) <$(git config user.email)>"
 
 git add $mdfile covid19u.md covid.md covid.json covid.yml covid.csv covid.png
 pandoc -f markdown -t html $HOME/github.com/covid19/covid19.md -o covid19.html
-qm=$(ipfs add -Q -w covid19.html)
+qm=$(ipfs add -Q -w covid19.html covid.*)
 pwd
 cat > README.md <<EOF
 # README: corona virus daily status in Switzerland ...
