@@ -1,6 +1,7 @@
-active="2700";
-cases="2742";
-deaths="27";
-densit="317";
-nextone="1950";
+active="3028";
+cases="3076";
+deaths="33";
+densit="355";
+ncases="+334";
+ndeaths="+6";
 recovered="15";
