@@ -44,7 +44,7 @@ if tail -1 covid.dat | grep -q "^[+0-9]" ; then
 fi
 # new way (one-line table)
 else
-grep -e '^  Switzerland' covid.md | sed -e 's/,//g' -e 's/  */\n/g' | tail +3 | tee covid.dat
+grep -e '^  Switzerland' covid.md | head -1 | sed -e 's/,//g' -e 's/  */\n/g' | tail +3 | tee covid.dat
 fi
 n=$(wc -l covid.dat | cut -d' ' -f1)
 if expr "$n" \< 7 ; then

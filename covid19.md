@@ -8,6 +8,7 @@
 
 
 - \[03/19/20]: 3888/3939cases [QmYaFJdczS8RAhbNCgTZH6fzpYk6zphpp1mLTbebTDKGUy](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/QmZBSfXg1hqQLAUfdtxP33Pyy4MvYjSu9PyyaAH7qUDGR4/covid.yml),[csv](/ipfs/QmZBSfXg1hqQLAUfdtxP33Pyy4MvYjSu9PyyaAH7qUDGR4/covid.csv)
+- \[03/19/20]: 3888/3939cases [QmVVkeTjXbBGSTE1HnaEDLBuNDFPSjAjAG2sKdFcRyL5cg](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/QmPYhDh1vagW2K8To1tioauJ5sEmTJ2r5o5KnGSyaVVjro/covid.yml),[csv](/ipfs/QmPYhDh1vagW2K8To1tioauJ5sEmTJ2r5o5KnGSyaVVjro/covid.csv)
 - \[03/18/20]: 3028/3076cases [QmRTxvVQSMiaYgK8djdSad8CD5HVKnAEVEdDnD6uoScWHy](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/QmPtZABC6EchSD8JLzVMfYzQWYwV5h4k5yyrvwtaiwQsCs/covid.yml),[csv](/ipfs/QmPtZABC6EchSD8JLzVMfYzQWYwV5h4k5yyrvwtaiwQsCs/covid.csv)
 - \[03/18/20]: 2700/2742cases [QmYWrSRMmR6CAU3yp3opk7vrjBzBmVpiZ2uciFt33zbAR7](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](covid.yml),[csv](covid.csv)
 - \[03/18/20]: 2700/2742cases [QmYCWNY3jvtrMJoYc8NpMKWduMgcT6fFMStj3hWsw7tKAA](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/QmZoJpa3dFabS9RL4FXUTwSCoT1bzK5Ay6WPezUddYKwmm/covid.yml),[csv](/ipfs/QmZoJpa3dFabS9RL4FXUTwSCoT1bzK5Ay6WPezUddYKwmm/covid.csv)
