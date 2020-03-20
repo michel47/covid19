@@ -111,6 +111,8 @@ cat > README.md <<EOF
 
 last update : <https://ipfs.blockringtm.ml/ipfs/$qm/covid19.html>
 
+Every Sunday: 1:30pm 1:45pm Meditation & OM chanting ([#OMEKSAATH][OM]) CET https://www.facebook.com/events/138981234204300
+
  ![charts](covid.png)
 
  csv file [covid.csv](covid.csv)<br>
