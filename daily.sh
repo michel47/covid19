@@ -57,6 +57,18 @@ densit:
 nextone:
 EOT
 else
+if expr "$n" = 8 ; then
+paste -d' ' - covid.dat <<EOT | eyml > covid.yml
+cases:
+ncases:
+deaths:
+ndeaths:
+recovered:
+active:
+critical:
+densit:
+EOT
+else
 echo n: $n
 paste -d' ' - covid.dat <<EOT | eyml > covid.yml
 cases:
@@ -67,6 +79,7 @@ recovered:
 active:
 densit:
 EOT
+fi
 fi
 
 eval $(cat covid.yml)
@@ -149,7 +162,7 @@ sources:
   
 
 EOF
-git add README.md
+git add README.md myjourney.html
 git status -uno .
 datetime=$(date +"%D %T")
 git commit -a -m "pandemy status on $datetime"
