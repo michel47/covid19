@@ -1,14 +1,14 @@
 # README: corona virus daily status in Switzerland ...
 
-## on 03/21/20 14:52:34 ([snapshot](https://ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC))
+## on 03/22/20 14:28:25 ([snapshot](https://ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC))
 
- 141 715 cases per 1M pop,<br>
- 6186 Total cases in Switzerland (6113 actives)
+ 835 cases per 1M pop,<br>
+ 7225 Total cases in Switzerland (141 actives)
 
- 58 deaths,
- 15 recovered (resurected ?)
+ 80 deaths,
+ 7014 recovered (resurected ?)
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmQwsKfnH8khWvrsgYcAXAmwVwmRvVnH183yMXxFCJ91Xi/covid19.html>
+last update : <https://ipfs.blockringtm.ml/ipfs/QmaDBMQySsiaNFZMeRU9auUPoh1gXGtQHBmU7TXkE2rFkd/covid19.html>
 
 
 Every Sunday: 1:30pm 1:45pm Meditation & OM chanting ([#OMEKSAATH][OM]) CET https://www.facebook.com/events/138981234204300
@@ -37,8 +37,8 @@ sources:
   - <https://michel47.github.io/covid19>
   - <https://github.com/michel47/covid19>
   - <https://duckduckgo.com/?q=switzerland+progression+coronavirus>
-  - <https://gateway.ipfs.io/ipfs/QmZJTqc58ouioEPYes9BWipPXPUS3p3fabT4asaVAMJaMM>
+  - <https://gateway.ipfs.io/ipfs/QmPVxrjiCvxV9Q7tAiYQ7QyQfp1HgTodQiKizpAieRPJoi>
   - <https://gateway.ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC>
-  - <https://gateway.ipfs.io/ipfs/QmQwsKfnH8khWvrsgYcAXAmwVwmRvVnH183yMXxFCJ91Xi>
+  - <https://gateway.ipfs.io/ipfs/QmaDBMQySsiaNFZMeRU9auUPoh1gXGtQHBmU7TXkE2rFkd>
   
 
