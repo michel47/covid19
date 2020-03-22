@@ -96,7 +96,8 @@ echo "gituser: $(git config user.name) <$(git config user.email)>"
 
 git add $mdfile covid19u.md covid.md covid.json covid.yml covid.csv covid.png
 pandoc -f markdown -t html $HOME/github.com/covid19/covid19.md -o covid19.html
-qm=$(ipfs add -Q -w covid19.html covid.*)
+pandoc -f markdown -t html $HOME/pwiki/myjourney.md -o myjourney.html
+qm=$(ipfs add -Q -w covid19.html covid.* myjourney.html)
 pwd
 cat > README.md <<EOF
 # README: corona virus daily status in Switzerland ...
@@ -104,12 +105,16 @@ cat > README.md <<EOF
 ## on $(date +"%D %T") ([snapshot](https://ipfs.io/ipfs/$qm1))
 
  $densit cases per 1M pop,<br>
- $cases Total cases in Switzerland ($active actives)
+ $cases Total cases in Switzerland, $active actives (+1 : me)
 
  $deaths deaths,
  $recovered recovered (resurected ?)
 
 last update : <https://ipfs.blockringtm.ml/ipfs/$qm/covid19.html>
+
+
+on Sat Mar, 21st I started to show symptoms : check my journal [here](myjourney.html).
+
 
 
 Every Sunday: 1:30pm 1:45pm Meditation & OM chanting ([#OMEKSAATH][OM]) CET https://www.facebook.com/events/138981234204300
