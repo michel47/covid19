@@ -57,7 +57,7 @@ densit:
 nextone:
 EOT
 else
-if expr "$n" = 8 ; then
+if expr "$n" = 7 ; then
 paste -d' ' - covid.dat <<EOT | eyml > covid.yml
 cases:
 ncases:
@@ -77,13 +77,14 @@ deaths:
 ndeaths:
 recovered:
 active:
+critical:
 densit:
 EOT
 fi
 fi
 
 eval $(cat covid.yml)
-echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$densit" >> covid.csv
+echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$critical,$densit" >> covid.csv
 kst2 --png covid.png covid.kst
 qmd=$(ipfs add -Q -w covid.yml covid.csv covid.png)
 # -------------------------
