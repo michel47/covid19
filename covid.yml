@@ -1,8 +1,6 @@
 active="7245";
 cases="7474";
-critical="141";
 deaths="98";
-densit="864";
-ncases="+611";
-ndeaths="+18";
+densit="141";
+nextone="864";
 recovered="131";

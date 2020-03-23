@@ -58,7 +58,7 @@ COVID-19 Coronavirus Pandemic
 
 <div style="font-size:13px; color:#999; text-align:center">
 
-Last updated: March 22, 2020, 19:55 GMT
+Last updated: March 23, 2020, 06:50 GMT
 
 </div>
 
@@ -80,7 +80,7 @@ Coronavirus Cases:
 
 <div class="maincounter-number">
 
-[334,530 ]{style="color:#aaa"}
+[339,697 ]{style="color:#aaa"}
 
 </div>
 
@@ -99,7 +99,7 @@ Deaths:
 
 <div class="maincounter-number">
 
-[14,599]{}
+[14,704]{}
 
 </div>
 
@@ -112,7 +112,7 @@ Recovered:
 
 <div class="maincounter-number" style="color:#8ACA2B ">
 
-[97,574]{}
+[99,014]{}
 
 </div>
 
@@ -141,7 +141,7 @@ style="font-size:18px; text-transform:uppercase; font-weight:100"}
 
 <div class="number-table-main">
 
-222,357
+225,979
 
 </div>
 
@@ -155,7 +155,7 @@ Currently Infected Patients
 
 <div style="float:left; text-align:center">
 
-[211,737]{.number-table style="color:#8080FF"} (**95**%)
+[215,420]{.number-table style="color:#8080FF"} (**95**%)
 <div style="font-size:13px">
 
 in Mild Condition
@@ -168,7 +168,7 @@ in Mild Condition
 
 <div style="float:right; text-align:center">
 
-[10,620]{.number-table style="color:red "} (**5**%)
+[10,559]{.number-table style="color:red "} (**5**%)
 <div style="font-size:13px">
 
 Serious or Critical
@@ -222,7 +222,7 @@ style="font-size:18px; text-transform:uppercase; font-weight:100"}
 
 <div class="number-table-main">
 
-112,173
+113,718
 
 </div>
 
@@ -236,7 +236,7 @@ Cases which had an outcome:
 
 <div style="float:left; text-align:center">
 
-[97,574]{.number-table style="color:#8ACA2B"} (**87**%)
+[99,014]{.number-table style="color:#8ACA2B"} (**87**%)
 <div style="font-size:13px">
 
 Recovered / Discharged
@@ -249,7 +249,7 @@ Recovered / Discharged
 
 <div style="float:right; text-align:center">
 
-[ 14,599]{.number-table} (**13**%)
+[ 14,704]{.number-table} (**13**%)
 <div style="font-size:13px">
 
 Deaths
@@ -419,7 +419,7 @@ China's NHC.
 
 ### Confirmed Cases and Deaths by Country, Territory, or Conveyance {#countries}
 
-The **coronavirus** COVID-19 is affecting **191 countries and
+The **coronavirus** COVID-19 is affecting **192 countries and
 territories** around the world and **1 international conveyance** (the
 *Diamond Princess* cruise ship harbored in Yokohama, Japan). **The day
 is reset after midnight GMT+0**.\
@@ -457,17 +457,419 @@ aria-labelledby="nav-today-tab">
   Country,\                                                        Total\    New\     Total\   New\     Total\      Active\   Serious,\   Tot Cases/\
   Other                                                            Cases     Cases    Deaths   Deaths   Recovered   Cases     Critical    1M pop
   ---------------------------------------------------------------- --------- -------- -------- -------- ----------- --------- ----------- -------------
+  [China](country/china/){.mt_a}                                   81,093    +39      3,270    +9       72,703      5,120     1,749       56
+
+  [Italy](country/italy/){.mt_a}                                   59,138             5,476             7,024       46,638    3,000       978
+
+  [USA](country/us/){.mt_a}                                        35,060    +1,514   457      +38      178         34,425    795         106
+
+  [Spain](country/spain/){.mt_a}                                   28,768             1,772             2,575       24,421    1,785       615
+
+  [Germany](country/germany/){.mt_a}                               24,873             94                266         24,513    23          297
+
+  [Iran](country/iran/){.mt_a}                                     21,638             1,685             7,913       12,040                258
+
+  [France](country/france/){.mt_a}                                 16,018             674               2,200       13,144    1,746       245
+
+  [S. Korea](country/south-korea/){.mt_a}                          8,961     +64      111      +7       3,166       5,684     59          175
+
+  [Switzerland](country/switzerland/){.mt_a}                       7,474              98                131         7,245     141         864
+
+  [UK](country/uk/){.mt_a}                                         5,683              281               135         5,267     20          84
+
+  [Netherlands](country/netherlands/){.mt_a}                       4,204              179               2           4,023     354         245
+
+  [Austria](country/austria/){.mt_a}                               3,582              16                9           3,557     15          398
+
+  [Belgium](country/belgium/){.mt_a}                               3,401              75                340         2,986     288         293
+
+  [Norway](country/norway/){.mt_a}                                 2,385              7                 6           2,372     28          440
+
+  [Sweden](country/sweden/){.mt_a}                                 1,934              21                16          1,897     76          191
+
+  [Australia](country/australia/){.mt_a}                           1,709     +100     7                 88          1,614     11          67
+
+  [Portugal](country/portugal/){.mt_a}                             1,600              14                5           1,581     26          157
+
+  [Brazil](country/brazil/){.mt_a}                                 1,546              25                2           1,519     18          7
+
+  [Canada](country/canada/){.mt_a}                                 1,470              20                14          1,436     1           39
+
+  [Denmark](country/denmark/){.mt_a}                               1,395              13                1           1,381     42          241
+
+  [Malaysia](country/malaysia/){.mt_a}                             1,306              10                139         1,157     26          40
+
+  Israel                                                           1,238     +167     1                 37          1,200     24          143
+
+  Turkey                                                           1,236              30                            1,206                 15
+
+  Czechia                                                          1,120              1                 6           1,113     19          105
+
+  Japan                                                            1,101              41                235         825       49          9
+
+  [Ireland](country/ireland/){.mt_a}                               906                4                 5           897       29          183
+
+  Pakistan                                                         799       +23      6        +1       13          780                   4
+
+  Luxembourg                                                       798                8                 6           784       3           1,275
+
+  Ecuador                                                          789                14                3           772       2           45
+
+  Thailand                                                         721       +122     1                 52          668       7           10
+
+  [Diamond Princess]{style="color:#00B5F0; font-style:italic; "}   712                8                 567         137       15          
+
+  [Poland](country/poland/){.mt_a}                                 634                7                 13          614       3           17
+
+  Chile                                                            632                1                 8           623       7           33
+
+  Finland                                                          626                1                 10          615       12          113
+
+  [Greece](country/greece/){.mt_a}                                 624                15                19          590       18          60
+
+  Iceland                                                          568                1                 5           562       1           1,665
+
+  [Indonesia](country/indonesia/){.mt_a}                           514                48                29          437                   2
+
+  Saudi Arabia                                                     511                                  17          494                   15
+
+  Qatar                                                            494                                  33          461       6           171
+
+  Singapore                                                        455                2                 144         309       14          78
+
+  Russia                                                           438       +71      1                 16          421                   3
+
+  Romania                                                          433                3                 64          366       14          23
+
+  India                                                            425       +29      8        +1       24          393                   0.3
+
+  Slovenia                                                         414                2                             412       12          199
+
+  [Philippines](country/philippines/){.mt_a}                       396       +16      33       +8       18          345       1           4
+
+  Peru                                                             363                5                 1           357       5           11
+
+  Bahrain                                                          334                2                 149         183       3           196
+
+  Egypt                                                            327                14                56          257                   3
+
+  Estonia                                                          326                                  4           322       2           246
+
+  [Hong Kong](country/china-hong-kong-sar/){.mt_a}                 318                4                 100         214       4           42
+
+  Mexico                                                           316       +65      2                 4           310       1           2
+
+  Panama                                                           313                3                 1           309       7           73
+
+  South Africa                                                     274                                  2           272                   5
+
+  Argentina                                                        266                4                 27          235                   6
+
+  Croatia                                                          254                1                 5           248       5           62
+
+  Lebanon                                                          248                4                 8           236       4           36
+
+  [Iraq](country/iraq/){.mt_a}                                     233                20                57          156                   6
+
+  Colombia                                                         231                2                 3           226                   5
+
+  Serbia                                                           222                2                 2           218       4           25
+
+  Dominican Republic                                               202                3                             199                   19
+
+  [Algeria](country/algeria/){.mt_a}                               201                17                65          119                   5
+
+  Armenia                                                          194                                  2           192       6           65
+
+  Kuwait                                                           188                                  30          158       5           44
+
+  Bulgaria                                                         187                3                 3           181       3           27
+
+  Slovakia                                                         185                                  7           178       2           34
+
+  San Marino                                                       175                20                4           151       13          5,158
+
+  Taiwan                                                           169                2                 28          139                   7
+
+  Hungary                                                          167       +36      7        +1       16          144       6           17
+
+  Uruguay                                                          158                                              158       2           45
+
+  UAE                                                              153                2                 38          113       2           15
+
+  Lithuania                                                        143                1                 1           141       1           53
+
+  Latvia                                                           139                                  1           138                   74
+
+  Costa Rica                                                       134                2                 2           130       2           26
+
+  Bosnia and Herzegovina                                           126                1                 2           123       1           38
+
+  Vietnam                                                          116       +3                         17          99        2           1
+
+  Morocco                                                          115                4                 3           108       1           3
+
+  North Macedonia                                                  115                1                 1           113       1           55
+
+  Faeroe Islands                                                   115                                  3           112                   2,354
+
+  Andorra                                                          113                1                 1           111       2           1,462
+
+  Jordan                                                           112                                  1           111                   11
+
+  New Zealand                                                      102                                              102                   21
+
+  Cyprus                                                           95                 1                 3           91        3           79
+
+  Moldova                                                          94                 1                 1           92        3           23
+
+  Malta                                                            90                                   2           88        1           204
+
+  Albania                                                          89                 2                 2           85        2           31
+
+  Brunei                                                           88                                   2           86        2           201
+
+  Cambodia                                                         86        +2                         2           84                    5
+
+  Sri Lanka                                                        86        +4                         3           83        2           4
+
+  Venezuela                                                        77        +7                         15          62        2           3
+
+  Belarus                                                          76                                   15          61                    8
+
+  Burkina Faso                                                     75                 4                 5           66                    4
+
+  Tunisia                                                          75                 3                 1           71        7           6
+
+  Ukraine                                                          73                 3                 1           69                    2
+
+  Senegal                                                          67                                   5           62                    4
+
+  Azerbaijan                                                       65                 1                 11          53                    6
+
+  Réunion                                                          64                                   1           63                    71
+
+  Kazakhstan                                                       60                                               60                    3
+
+  Palestine                                                        59                                   17          42                    12
+
+  Guadeloupe                                                       58                 1                             57        4           145
+
+  Oman                                                             55                                   17          38                    11
+
+  Georgia                                                          54                                   1           53        1           14
+
+  Trinidad and Tobago                                              50                                               50                    36
+
+  Uzbekistan                                                       46        +3                                     46                    1
+
+  Martinique                                                       44                 1                             43        7           117
+
+  Afghanistan                                                      40                 1                 1           38                    1
+
+  Cameroon                                                         40                                   2           38                    2
+
+  Liechtenstein                                                    37                                               37                    970
+
+  Cuba                                                             35                 1                             34                    3
+
+  Channel Islands                                                  32                                               32                    184
+
+  DRC                                                              30                 1                             29                    0.3
+
+  Nigeria                                                          30                                   2           28                    0.1
+
+  Mauritius                                                        28                 2                             26        1           22
+
+  Bangladesh                                                       27                 2                 3           22                    0.2
+
+  Guam                                                             27                 1                             26                    160
+
+  Honduras                                                         26                                               26                    3
+
+  Bolivia                                                          24                                               24                    2
+
+  Ghana                                                            23                 1                             22                    0.7
+
+  Puerto Rico                                                      23                 1                             22                    8
+
+  Monaco                                                           23                                   1           22                    586
+
+  Montenegro                                                       22        +1       1        +1                   21                    35
+
+  Paraguay                                                         22                 1                             21        1           3
+
+  Macao                                                            22                                   10          12                    34
+
+  Guatemala                                                        19                 1                             18                    1
+
+  Guyana                                                           19                 1                             18                    24
+
+  Jamaica                                                          19                 1                 2           16                    6
+
+  Rwanda                                                           19                                               19                    1
+
+  French Guiana                                                    18                                               18                    60
+
+  French Polynesia                                                 18                                               18                    64
+
+  Togo                                                             16                                               16                    2
+
+  Gibraltar                                                        15                                   2           13                    445
+
+  Kenya                                                            15                                               15                    0.3
+
+  Barbados                                                         14                                               14                    49
+
+  Ivory Coast                                                      14                                   1           13                    0.5
+
+  Kyrgyzstan                                                       14                                               14                    2
+
+  Maldives                                                         13                                   3           10                    24
+
+  Tanzania                                                         12                                               12                    0.2
+
+  Ethiopia                                                         11                                               11                    0.10
+
+  Mayotte                                                          11                                               11                    40
+
+  Mongolia                                                         10                                               10                    3
+
+  Aruba                                                            9                                    1           8                     84
+
+  Seychelles                                                       7                                                7                     71
+
+  Bermuda                                                          6                                                6                     96
+
+  Equatorial Guinea                                                6                                                6                     4
+
+  U.S. Virgin Islands                                              6                                                6                     57
+
+  Gabon                                                            5                  1                             4                     2
+
+  Isle of Man                                                      5                                                5                     59
+
+  Saint Martin                                                     5                                                5                     129
+
+  Suriname                                                         5                                                5                     9
+
+  Bahamas                                                          4                                                4                     10
+
+  Greenland                                                        4                                                4                     70
+
+  New Caledonia                                                    4                                                4                     14
+
+  Eswatini                                                         4                                                4                     3
+
+  Cayman Islands                                                   3                  1                             2                     46
+
+  Curaçao                                                          3                  1                             2                     18
+
+  Cabo Verde                                                       3                                                3                     5
+
+  CAR                                                              3                                                3                     0.6
+
+  Congo                                                            3                                                3                     0.5
+
+  El Salvador                                                      3                                                3                     0.5
+
+  Fiji                                                             3         +1                                     3                     3
+
+  Liberia                                                          3                                                3                     0.6
+
+  Madagascar                                                       3                                                3                     0.1
+
+  Namibia                                                          3                                                3                     1
+
+  St. Barth                                                        3                                                3                     304
+
+  Zambia                                                           3                                                3                     0.2
+
+  Zimbabwe                                                         3                                                3                     0.2
+
+  Sudan                                                            2                  1                             1                     0.05
+
+  Angola                                                           2                                                2                     0.06
+
+  Benin                                                            2                                                2                     0.2
+
+  Bhutan                                                           2                                                2                     3
+
+  Guinea                                                           2                                                2                     0.2
+
+  Haiti                                                            2                                                2                     0.2
+
+  Mauritania                                                       2                                                2                     0.4
+
+  Nicaragua                                                        2                                                2                     0.3
+
+  Niger                                                            2                                                2                     0.08
+
+  Saint Lucia                                                      2                                                2                     11
+
+  Nepal                                                            1                                    1           0                     0.03
+
+  Antigua and Barbuda                                              1                                                1                     10
+
+  Chad                                                             1                                                1                     0.06
+
+  Djibouti                                                         1                                                1                     1
+
+  Dominica                                                         1                                                1                     14
+
+  Eritrea                                                          1                                                1                     0.3
+
+  Gambia                                                           1                                                1                     0.4
+
+  Grenada                                                          1                                                1                     9
+
+  Vatican City                                                     1                                                1                     1,248
+
+  Montserrat                                                       1                                                1                     200
+
+  Mozambique                                                       1                                                1                     0.03
+
+  Papua New Guinea                                                 1                                                1                     0.1
+
+  St. Vincent Grenadines                                           1                                                1                     9
+
+  Sint Maarten                                                     1                                                1                     23
+
+  Somalia                                                          1                                                1                     0.06
+
+  Syria                                                            1                                                1                     0.06
+
+  Timor-Leste                                                      1                                                1                     0.8
+
+  Uganda                                                           1                                                1                     0.02
+
+  **Total:**                                                       339,697   2,267    14,704   66       99,014      225,979   10,559      43.6
+  -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+</div>
+
+</div>
+
+<div id="nav-yesterday" class="tab-pane" role="tabpanel"
+aria-labelledby="nav-yesterday-tab">
+
+<div class="main_table_countries_div">
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------
+  Country,\                                                        Total\    New\     Total\   New\     Total\      Active\   Serious,\   Tot Cases/\
+  Other                                                            Cases     Cases    Deaths   Deaths   Recovered   Cases     Critical    1M pop
+  ---------------------------------------------------------------- --------- -------- -------- -------- ----------- --------- ----------- -------------
   [China](country/china/){.mt_a}                                   81,054    +46      3,261    +6       72,440      5,353     1,845       56
 
   [Italy](country/italy/){.mt_a}                                   59,138    +5,560   5,476    +651     7,024       46,638    3,000       978
 
-  [USA](country/us/){.mt_a}                                        32,356    +8,149   414      +112     178         31,764    795         98
+  [USA](country/us/){.mt_a}                                        33,546    +9,339   419      +117     178         32,949    795         101
 
-  [Spain](country/spain/){.mt_a}                                   28,603    +3,107   1,756    +375     2,125       24,722    1,785       612
+  [Spain](country/spain/){.mt_a}                                   28,768    +3,272   1,772    +391     2,575       24,421    1,785       615
 
-  [Germany](country/germany/){.mt_a}                               24,852    +2,488   94       +10      266         24,492    2           297
+  [Germany](country/germany/){.mt_a}                               24,873    +2,509   94       +10      266         24,513    23          297
 
-  [Iran](country/iran/){.mt_a}                                     21,638    +1,028   1,685    +129     7,635       12,318                258
+  [Iran](country/iran/){.mt_a}                                     21,638    +1,028   1,685    +129     7,913       12,040                258
 
   [France](country/france/){.mt_a}                                 16,018    +1,559   674      +112     2,200       13,144    1,746       245
 
@@ -479,31 +881,31 @@ aria-labelledby="nav-today-tab">
 
   [Netherlands](country/netherlands/){.mt_a}                       4,204     +573     179      +43      2           4,023     354         245
 
+  [Austria](country/austria/){.mt_a}                               3,582     +590     16       +8       9           3,557     15          398
+
   [Belgium](country/belgium/){.mt_a}                               3,401     +586     75       +8       263         3,063     288         293
 
-  [Austria](country/austria/){.mt_a}                               3,302     +310     16       +8       9           3,277     15          367
+  [Norway](country/norway/){.mt_a}                                 2,385     +221     7                 6           2,372     28          440
 
-  [Norway](country/norway/){.mt_a}                                 2,263     +99      7                 6           2,250     28          417
+  [Sweden](country/sweden/){.mt_a}                                 1,934     +164     21       +1       16          1,897     76          191
 
-  [Sweden](country/sweden/){.mt_a}                                 1,931     +161     21       +1       16          1,894     68          191
+  [Australia](country/australia/){.mt_a}                           1,609     +537     7                 88          1,514     11          63
 
   [Portugal](country/portugal/){.mt_a}                             1,600     +320     14       +2       5           1,581     26          157
 
-  [Canada](country/canada/){.mt_a}                                 1,426     +98      20       +1       14          1,392     1           38
+  [Brazil](country/brazil/){.mt_a}                                 1,546     +368     25       +7       2           1,519     18          7
+
+  [Canada](country/canada/){.mt_a}                                 1,470     +142     20       +1       14          1,436     1           39
 
   [Denmark](country/denmark/){.mt_a}                               1,395     +69      13                1           1,381     42          241
-
-  [Australia](country/australia/){.mt_a}                           1,353     +281     7                 46          1,300     2           53
 
   [Malaysia](country/malaysia/){.mt_a}                             1,306     +123     10       +2       139         1,157     26          40
 
   Turkey                                                           1,236     +289     30       +9                   1,206                 15
 
-  [Brazil](country/brazil/){.mt_a}                                 1,209     +31      18                2           1,189     18          6
-
   Czechia                                                          1,120     +125     1        +1       6           1,113     19          105
 
-  Japan                                                            1,086     +32      36                235         815       57          9
+  Japan                                                            1,101     +47      41       +5       235         825       49          9
 
   Israel                                                           1,071     +188     1                 37          1,033     18          124
 
@@ -513,13 +915,13 @@ aria-labelledby="nav-today-tab">
 
   Ecuador                                                          789       +257     14       +7       3           772       2           45
 
+  Pakistan                                                         776       +131     5        +2       13          758                   4
+
   [Diamond Princess]{style="color:#00B5F0; font-style:italic; "}   712                8                 567         137       15          
 
-  Pakistan                                                         646       +1       4        +1       13          629                   3
+  [Poland](country/poland/){.mt_a}                                 634       +98      7        +2       13          614       3           17
 
   Chile                                                            632       +95      1                 8           623       7           33
-
-  [Poland](country/poland/){.mt_a}                                 627       +91      7        +2       13          607       3           17
 
   Finland                                                          626       +103     1                 10          615       12          113
 
@@ -533,7 +935,7 @@ aria-labelledby="nav-today-tab">
 
   Saudi Arabia                                                     511       +119                       17          494                   15
 
-  Qatar                                                            481                                  27          454       6           167
+  Qatar                                                            494       +13                        33          461       6           171
 
   Singapore                                                        455       +23      2                 144         309       14          78
 
@@ -549,15 +951,19 @@ aria-labelledby="nav-today-tab">
 
   Peru                                                             363       +45      5                 1           357       5           11
 
-  Bahrain                                                          332       +22      2        +1       149         181       4           195
+  Bahrain                                                          334       +24      2        +1       149         183       3           196
+
+  Egypt                                                            327       +33      14       +4       56          257                   3
 
   Estonia                                                          326       +20                        4           322       2           246
 
-  [Hong Kong](country/china-hong-kong-sar/){.mt_a}                 317       +43      4                 100         213       4           42
+  [Hong Kong](country/china-hong-kong-sar/){.mt_a}                 318       +44      4                 100         214       4           42
 
-  Egypt                                                            294                10                42          242                   3
+  Panama                                                           313       +68      3                 1           309       7           73
 
   South Africa                                                     274       +34                        2           272                   5
+
+  Argentina                                                        266       +108     4                 27          235                   6
 
   Croatia                                                          254       +48      1                 5           248       5           62
 
@@ -565,13 +971,9 @@ aria-labelledby="nav-today-tab">
 
   Lebanon                                                          248       +18      4                 8           236       4           36
 
-  Panama                                                           245                3                 1           241       7           57
-
   [Iraq](country/iraq/){.mt_a}                                     233       +19      20       +3       57          156                   6
 
   Colombia                                                         231       +35      2        +2       3           226                   5
-
-  Argentina                                                        225       +67      4                 27          194                   5
 
   Serbia                                                           222       +51      2        +1       2           218       4           25
 
@@ -583,7 +985,7 @@ aria-labelledby="nav-today-tab">
 
   Kuwait                                                           188       +12                        30          158       5           44
 
-  Bulgaria                                                         185       +22      3                 3           179       3           27
+  Bulgaria                                                         187       +24      3                 3           181       3           27
 
   Slovakia                                                         185       +7                         7           178       2           34
 
@@ -591,17 +993,21 @@ aria-labelledby="nav-today-tab">
 
   Taiwan                                                           169       +16      2                 28          139                   7
 
+  Uruguay                                                          158       +48                                    158       2           45
+
   UAE                                                              153                2                 38          113       2           15
 
-  Latvia                                                           139       +15                        1           138                   74
+  Lithuania                                                        143       +44      1                 1           141       1           53
 
-  Uruguay                                                          135       +25                                    135       2           39
+  Latvia                                                           139       +15                        1           138                   74
 
   Costa Rica                                                       134       +17      2                 2           130       2           26
 
   Hungary                                                          131       +28      6        +2       16          109       6           14
 
-  Lithuania                                                        129       +30      1                 1           127       1           47
+  Bosnia and Herzegovina                                           126       +33      1                 2           123       1           38
+
+  Morocco                                                          115       +19      4        +1       3           108       1           3
 
   North Macedonia                                                  115       +30      1        +1       1           113       1           55
 
@@ -613,11 +1019,9 @@ aria-labelledby="nav-today-tab">
 
   Jordan                                                           112       +12                        1           111                   11
 
-  Morocco                                                          109       +13      3                 3           103       1           3
+  New Zealand                                                      102       +50                                    102                   21
 
   Cyprus                                                           95        +11      1                 3           91        3           79
-
-  Bosnia and Herzegovina                                           94        +1       1                 2           91        1           29
 
   Moldova                                                          94        +14      1                 1           92        3           23
 
@@ -637,21 +1041,21 @@ aria-labelledby="nav-today-tab">
 
   Tunisia                                                          75        +15      3        +2       1           71        7           6
 
+  Ukraine                                                          73        +26      3                 1           69                    2
+
   Venezuela                                                        70                                   15          55        2           2
 
   Senegal                                                          67        +11                        5           62                    4
 
-  New Zealand                                                      66        +14                                    66                    14
-
   Azerbaijan                                                       65        +12      1                 11          53                    6
 
-  Ukraine                                                          63        +16      3                 1           59                    1
+  Réunion                                                          64        +17                        1           63                    71
 
-  Kazakhstan                                                       59        +5                                     59                    3
+  Kazakhstan                                                       60        +6                                     60                    3
 
   Palestine                                                        59        +6                         17          42                    12
 
-  Guadeloupe                                                       56                 1                             55        4           140
+  Guadeloupe                                                       58        +2       1                             57        4           145
 
   Oman                                                             55        +3                         17          38                    11
 
@@ -659,15 +1063,13 @@ aria-labelledby="nav-today-tab">
 
   Trinidad and Tobago                                              50        +1                                     50                    36
 
-  Réunion                                                          47                                   1           46                    52
+  Martinique                                                       44        +7       1                             43        7           117
 
   Uzbekistan                                                       43        +2                                     43                    1
 
   Afghanistan                                                      40        +16      1        +1       1           38                    1
 
   Cameroon                                                         40                                   2           38                    2
-
-  Martinique                                                       37                 1                             36        7           99
 
   Liechtenstein                                                    37                                               37                    970
 
@@ -679,15 +1081,17 @@ aria-labelledby="nav-today-tab">
 
   Nigeria                                                          30        +8                         2           28                    0.1
 
+  Mauritius                                                        28        +14      2        +1                   26        1           22
+
   Bangladesh                                                       27        +3       2                 3           22                    0.2
 
   Guam                                                             27        +12      1        +1                   26                    160
 
   Honduras                                                         26        +2                                     26                    3
 
-  Mauritius                                                        24        +10      2        +1                   22        1           19
-
   Bolivia                                                          24        +5                                     24                    2
+
+  Ghana                                                            23        +2       1                             22                    0.7
 
   Puerto Rico                                                      23        +2       1                             22                    8
 
@@ -697,23 +1101,21 @@ aria-labelledby="nav-today-tab">
 
   Macao                                                            22        +3                         10          12                    34
 
-  Ghana                                                            21                 1                             20                    0.7
-
   Montenegro                                                       21        +5                                     21                    33
+
+  Guatemala                                                        19        +2       1                             18                    1
+
+  Guyana                                                           19        +1       1                             18                    24
 
   Jamaica                                                          19                 1                 2           16                    6
 
-  Guyana                                                           18                 1                             17                    23
+  Rwanda                                                           19        +2                                     19                    1
 
   French Guiana                                                    18                                               18                    60
 
-  Guatemala                                                        17                 1                             16                    0.9
-
-  Rwanda                                                           17                                               17                    1
+  French Polynesia                                                 18        +3                                     18                    64
 
   Togo                                                             16                                               16                    2
-
-  French Polynesia                                                 15                                               15                    53
 
   Gibraltar                                                        15        +5                         2           13                    445
 
@@ -735,9 +1137,11 @@ aria-labelledby="nav-today-tab">
 
   Mongolia                                                         10                                               10                    3
 
-  Aruba                                                            8         +3                         1           7                     75
+  Aruba                                                            9         +4                         1           8                     84
 
   Seychelles                                                       7                                                7                     71
+
+  Bermuda                                                          6         +4                                     6                     96
 
   Equatorial Guinea                                                6                                                6                     4
 
@@ -752,6 +1156,8 @@ aria-labelledby="nav-today-tab">
   Suriname                                                         5                                                5                     9
 
   Bahamas                                                          4                                                4                     10
+
+  Greenland                                                        4         +2                                     4                     70
 
   New Caledonia                                                    4                                                4                     14
 
@@ -787,13 +1193,9 @@ aria-labelledby="nav-today-tab">
 
   Benin                                                            2                                                2                     0.2
 
-  Bermuda                                                          2                                                2                     32
-
   Bhutan                                                           2                                                2                     3
 
   Fiji                                                             2                                                2                     2
-
-  Greenland                                                        2                                                2                     35
 
   Guinea                                                           2                                                2                     0.2
 
@@ -814,6 +1216,8 @@ aria-labelledby="nav-today-tab">
   Chad                                                             1                                                1                     0.06
 
   Djibouti                                                         1                                                1                     1
+
+  Dominica                                                         1         +1                                     1                     14
 
   Eritrea                                                          1                                                1                     0.3
 
@@ -841,401 +1245,7 @@ aria-labelledby="nav-today-tab">
 
   Uganda                                                           1                                                1                     0.02
 
-  **Total:**                                                       334,530   29,540   14,599   1,592    97,574      222,357   10,620      42.9
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
-
-</div>
-
-</div>
-
-<div id="nav-yesterday" class="tab-pane" role="tabpanel"
-aria-labelledby="nav-yesterday-tab">
-
-<div class="main_table_countries_div">
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
-  Country,\                                                        Total\    New\     Total\   New\     Total\      Active\   Serious,\   Tot Cases/\
-  Other                                                            Cases     Cases    Deaths   Deaths   Recovered   Cases     Critical    1M pop
-  ---------------------------------------------------------------- --------- -------- -------- -------- ----------- --------- ----------- -------------
-  [China](country/china/){.mt_a}                                   81,008    +41      3,255    +7       71,740      6,013     1,927       56
-
-  [Italy](country/italy/){.mt_a}                                   53,578    +6,557   4,825    +793     6,072       42,681    2,857       886
-
-  [Spain](country/spain/){.mt_a}                                   25,496    +3,925   1,381    +288     2,125       21,990    1,612       545
-
-  [USA](country/us/){.mt_a}                                        24,207    +4,824   302      +46      176         23,729    637         73
-
-  [Germany](country/germany/){.mt_a}                               22,364    +2,516   84       +16      209         22,071    2           267
-
-  [Iran](country/iran/){.mt_a}                                     20,610    +966     1,556    +123     7,635       11,419                245
-
-  [France](country/france/){.mt_a}                                 14,459    +1,847   562      +112     1,587       12,310    1,525       222
-
-  [S. Korea](country/south-korea/){.mt_a}                          8,799     +147     102      +8       2,612       6,085     59          172
-
-  [Switzerland](country/switzerland/){.mt_a}                       6,863     +1,248   80       +24      131         6,652     141         793
-
-  [UK](country/uk/){.mt_a}                                         5,018     +1,035   233      +56      93          4,692     20          74
-
-  [Netherlands](country/netherlands/){.mt_a}                       3,631     +637     136      +30      2           3,493     354         212
-
-  [Austria](country/austria/){.mt_a}                               2,992     +343     8        +2       9           2,975     15          332
-
-  [Belgium](country/belgium/){.mt_a}                               2,815     +558     67       +30      263         2,485     288         243
-
-  [Norway](country/norway/){.mt_a}                                 2,164     +205     7                 6           2,151     28          399
-
-  [Sweden](country/sweden/){.mt_a}                                 1,770     +131     20       +4       16          1,734     71          175
-
-  [Canada](country/canada/){.mt_a}                                 1,328     +241     19       +7       14          1,295     1           35
-
-  [Denmark](country/denmark/){.mt_a}                               1,326     +71      13       +4       1           1,312     42          229
-
-  [Portugal](country/portugal/){.mt_a}                             1,280     +260     12       +6       5           1,263     26          126
-
-  [Malaysia](country/malaysia/){.mt_a}                             1,183     +153     8        +5       114         1,061     26          37
-
-  [Brazil](country/brazil/){.mt_a}                                 1,178     +208     18       +7       2           1,158     18          6
-
-  [Australia](country/australia/){.mt_a}                           1,072     +144     7                 46          1,019     2           42
-
-  Japan                                                            1,054     +47      36       +1       215         803       55          8
-
-  Czechia                                                          995       +162                       6           989       7           93
-
-  Turkey                                                           947       +277     21       +12                  926                   11
-
-  Israel                                                           883       +178     1                 36          846       15          102
-
-  [Ireland](country/ireland/){.mt_a}                               785       +102     3                 5           777       13          159
-
-  [Diamond Princess]{style="color:#00B5F0; font-style:italic; "}   712                8                 567         137       15          
-
-  Luxembourg                                                       670       +186     8        +3       6           656       3           1,070
-
-  Pakistan                                                         645       +144     3                 13          629                   3
-
-  Chile                                                            537       +103     1        +1       8           528       7           28
-
-  [Poland](country/poland/){.mt_a}                                 536       +111     5                 13          518       3           14
-
-  Ecuador                                                          532       +106     7                 3           522       2           30
-
-  [Greece](country/greece/){.mt_a}                                 530       +35      13       +3       19          498       18          51
-
-  Finland                                                          523       +73      1        +1       10          512       2           94
-
-  Qatar                                                            481       +11                        27          454       6           167
-
-  Iceland                                                          473       +64      1        +1       5           467       1           1,386
-
-  [Indonesia](country/indonesia/){.mt_a}                           450       +81      38       +6       20          392                   2
-
-  Singapore                                                        432       +47      2        +2       140         290       14          74
-
-  Thailand                                                         411       +89      1                 44          366       7           6
-
-  Saudi Arabia                                                     392       +48                        16          376                   11
-
-  Slovenia                                                         383       +42      1                             382       12          184
-
-  Romania                                                          367       +59                        52          315       14          19
-
-  India                                                            332       +83      5                 23          304                   0.2
-
-  Peru                                                             318       +55      5        +1       1           312       5           10
-
-  Bahrain                                                          310       +12      1                 125         184       4           182
-
-  [Philippines](country/philippines/){.mt_a}                       307       +77      19       +1       13          275       1           3
-
-  Russia                                                           306       +53      1                 16          289                   2
-
-  Estonia                                                          306       +23                        2           304                   231
-
-  Egypt                                                            294       +9       10       +2       42          242                   3
-
-  [Hong Kong](country/china-hong-kong-sar/){.mt_a}                 274       +18      4                 100         170       4           37
-
-  Panama                                                           245       +45      3        +2       1           241       7           57
-
-  South Africa                                                     240       +38                        2           238                   4
-
-  Lebanon                                                          230       +53      4                 8           218       4           34
-
-  [Iraq](country/iraq/){.mt_a}                                     214       +6       17                51          146                   5
-
-  Croatia                                                          206       +76      1                 5           200                   50
-
-  Mexico                                                           203       +39      2        +1       4           197       1           2
-
-  Colombia                                                         196       +51                        1           195                   4
-
-  Slovakia                                                         178       +41                        7           171       2           33
-
-  Kuwait                                                           176       +17                        27          149       5           41
-
-  Serbia                                                           171       +36      1                 2           168       4           20
-
-  Bulgaria                                                         163       +36      3                 3           157       3           23
-
-  San Marino                                                       160       +9       20       +6       4           136       12          4,715
-
-  Armenia                                                          160       +24                        1           159       2           54
-
-  Argentina                                                        158                4        +1       3           151                   3
-
-  Taiwan                                                           153       +18      2                 28          123                   6
-
-  UAE                                                              153       +13      2                 38          113       2           15
-
-  [Algeria](country/algeria/){.mt_a}                               139       +45      15       +4       65          59                    3
-
-  Latvia                                                           124       +13                        1           123                   66
-
-  Costa Rica                                                       117       +4       2                 2           113       2           23
-
-  Dominican Republic                                               112       +40      3        +1                   109                   10
-
-  Uruguay                                                          110                                              110       3           32
-
-  Hungary                                                          103       +18      4                 7           92        6           11
-
-  Jordan                                                           100       +16                        1           99                    10
-
-  Lithuania                                                        99        +30      1                 1           97        1           36
-
-  Morocco                                                          96        +10      3                 3           90        1           3
-
-  Vietnam                                                          94        +3                         17          77        2           1.0
-
-  Bosnia and Herzegovina                                           93        +4       1        +1       2           90        1           28
-
-  Faeroe Islands                                                   92        +12                        3           89                    1,883
-
-  Andorra                                                          88        +13                        1           87        2           1,139
-
-  North Macedonia                                                  85        +9                         1           84        1           41
-
-  Cyprus                                                           84        +9       1        +1       3           80        3           70
-
-  Brunei                                                           83        +5                         1           82        2           190
-
-  Moldova                                                          80        +14      1                 1           78        3           20
-
-  Sri Lanka                                                        77        +4                         3           74        2           4
-
-  Albania                                                          76        +6       2                 2           72        2           26
-
-  Belarus                                                          76        +7                         15          61                    8
-
-  Malta                                                            73        +9                         2           71        1           165
-
-  Venezuela                                                        70        +5                         15          55        2           2
-
-  Burkina Faso                                                     64        +24      3        +2       5           56                    3
-
-  Tunisia                                                          60        +6       1                 1           58        7           5
-
-  Guadeloupe                                                       56        +5       1                             55        4           140
-
-  Senegal                                                          56        +9                         5           51                    3
-
-  Kazakhstan                                                       54        +2                                     54                    3
-
-  Azerbaijan                                                       53        +9       1                 11          41                    5
-
-  Cambodia                                                         53        +2                         2           51                    3
-
-  Palestine                                                        53        +5                         17          36                    10
-
-  New Zealand                                                      52                                               52                    11
-
-  Oman                                                             52        +4                         13          39                    10
-
-  Georgia                                                          49        +5                         1           48        1           12
-
-  Trinidad and Tobago                                              49        +40                                    49                    35
-
-  Ukraine                                                          47        +6       3                 1           43                    1
-
-  Réunion                                                          47        +9                                     47                    52
-
-  Uzbekistan                                                       41        +8                                     41                    1
-
-  Cameroon                                                         40        +13                        2           38                    2
-
-  Martinique                                                       37        +5       1                             36        7           99
-
-  Liechtenstein                                                    37        +9                                     37                    970
-
-  Channel Islands                                                  32        +20                                    32                    184
-
-  Bangladesh                                                       24        +4       2        +1       3           19                    0.1
-
-  Afghanistan                                                      24                                   1           23                    0.6
-
-  Honduras                                                         24                                               24                    2
-
-  DRC                                                              23        +5       1        +1                   22                    0.3
-
-  Paraguay                                                         22        +4       1        +1                   21        1           3
-
-  Nigeria                                                          22        +10                        1           21                    0.1
-
-  Cuba                                                             21                 1                             20                    2
-
-  Ghana                                                            21        +5       1        +1                   20                    0.7
-
-  Puerto Rico                                                      21        +7       1        +1                   20                    7
-
-  Jamaica                                                          19                 1                 2           16                    6
-
-  Macao                                                            19        +2                         10          9                     29
-
-  Bolivia                                                          19        +3                                     19                    2
-
-  Guyana                                                           18        +3       1                             17                    23
-
-  Monaco                                                           18        +7                         1           17                    459
-
-  French Guiana                                                    18        +3                                     18                    60
-
-  Guatemala                                                        17        +5       1                             16                    0.9
-
-  Rwanda                                                           17                                               17                    1
-
-  Montenegro                                                       16        +2                                     16                    25
-
-  Togo                                                             16        +7                                     16                    2
-
-  French Polynesia                                                 15        +4                                     15                    53
-
-  Guam                                                             15        +1                                     15                    89
-
-  Mauritius                                                        14        +2       1        +1                   13                    11
-
-  Barbados                                                         14        +8                                     14                    49
-
-  Ivory Coast                                                      14        +5                         1           13                    0.5
-
-  Kyrgyzstan                                                       14        +8                                     14                    2
-
-  Maldives                                                         13                                   3           10                    24
-
-  Mayotte                                                          11        +4                                     11                    40
-
-  Gibraltar                                                        10                                   2           8                     297
-
-  Mongolia                                                         10        +4                                     10                    3
-
-  Ethiopia                                                         9                                                9                     0.08
-
-  Kenya                                                            7                                                7                     0.1
-
-  Seychelles                                                       7                                                7                     71
-
-  Equatorial Guinea                                                6                                                6                     4
-
-  Tanzania                                                         6                                                6                     0.1
-
-  U.S. Virgin Islands                                              6         +3                                     6                     57
-
-  Gabon                                                            5         +1       1                             4                     2
-
-  Aruba                                                            5                                    1           4                     47
-
-  Saint Martin                                                     5         +1                                     5                     129
-
-  Suriname                                                         5         +1                                     5                     9
-
-  Bahamas                                                          4                                                4                     10
-
-  New Caledonia                                                    4         +2                                     4                     14
-
-  Cayman Islands                                                   3                  1                             2                     46
-
-  Curaçao                                                          3                  1                             2                     18
-
-  Cabo Verde                                                       3         +2                                     3                     5
-
-  CAR                                                              3                                                3                     0.6
-
-  Congo                                                            3                                                3                     0.5
-
-  El Salvador                                                      3         +2                                     3                     0.5
-
-  Liberia                                                          3         +1                                     3                     0.6
-
-  Madagascar                                                       3                                                3                     0.1
-
-  Namibia                                                          3                                                3                     1
-
-  St. Barth                                                        3                                                3                     304
-
-  Zimbabwe                                                         3         +2                                     3                     0.2
-
-  Sudan                                                            2                  1                             1                     0.05
-
-  Angola                                                           2         +1                                     2                     0.06
-
-  Benin                                                            2                                                2                     0.2
-
-  Bermuda                                                          2                                                2                     32
-
-  Bhutan                                                           2                                                2                     3
-
-  Fiji                                                             2         +1                                     2                     2
-
-  Greenland                                                        2                                                2                     35
-
-  Guinea                                                           2                                                2                     0.2
-
-  Haiti                                                            2                                                2                     0.2
-
-  Isle of Man                                                      2                                                2                     24
-
-  Mauritania                                                       2                                                2                     0.4
-
-  Nicaragua                                                        2                                                2                     0.3
-
-  Saint Lucia                                                      2                                                2                     11
-
-  Zambia                                                           2                                                2                     0.1
-
-  Nepal                                                            1                                    1           0                     0.03
-
-  Antigua and Barbuda                                              1                                                1                     10
-
-  Chad                                                             1                                                1                     0.06
-
-  Djibouti                                                         1                                                1                     1
-
-  Eritrea                                                          1         +1                                     1                     0.3
-
-  Gambia                                                           1                                                1                     0.4
-
-  Vatican City                                                     1                                                1                     1,248
-
-  Montserrat                                                       1                                                1                     200
-
-  Niger                                                            1                                                1                     0.04
-
-  Papua New Guinea                                                 1                                                1                     0.1
-
-  St. Vincent Grenadines                                           1                                                1                     9
-
-  Sint Maarten                                                     1                                                1                     23
-
-  Somalia                                                          1                                                1                     0.06
-
-  Eswatini                                                         1                                                1                     0.9
-
-  Timor-Leste                                                      1         +1                                     1                     0.8
-
-  Uganda                                                           1         +1                                     1                     0.02
-
-  **Total:**                                                       304,990   29,434   13,007   1,627    94,800      197,183   9,955       39.1
+  **Total:**                                                       337,430   32,440   14,638   1,631    98,364      224,428   10,649      43.3
   -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
@@ -1307,11 +1317,241 @@ Latest Updates {#news align="left" style="margin-bottom: 50px;"}
 
 <div class="news_date">
 
-#### March 22 (GMT)
+#### March 23 (GMT)
 
 </div>
 
-<div id="newsdate2020-03-22">
+<div id="newsdate2020-03-23">
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **167 new cases** in
+    **Israel** [\[[source](https://m.jpost.com/HEALTH-SCIENCE/945-Israelis-test-positive-for-coronavirus-621857){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **71 new cases** in
+    **Russia** [\[[source](https://tass.com/society/1133817){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **2 new cases** in
+    **Cambodia** [\[[source](https://www.khmertimeskh.com/50704834/cases-of-coronavirus-surge-to-86-in-cambodia/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **100 new cases** in
+    **[Australia](/coronavirus/country/australia/)** [\[[source](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **36 new cases** and **1 new death** in
+    **Hungary** [\[[source](https://koronavirus.gov.hu/cikkek/167-re-nott-beazonositott-koronavirus-fertozottek-szama-es-ujabb-idos-ferfi-hunyt-el){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **7 new cases** in **Venezuela**. President Maduro said: "Venezuela
+    has reached **77** coronavirus cases, **all are imported**:
+    \[[source](https://www.telesurtv.net/news/venezuela-maduro-anuncia-casos-covid-reduccion-cadena-contagio-20200322-0020.html)\]
+
+    -   **21** cases are from **Spain**
+    -   **10** from **Colombia**
+    -   **3** from the **US**
+    -   **3** from the **Dominican Republic**
+    -   **3** from **Italy**
+    -   **2** from **Brazil**
+    -   **1 from Peru**
+
+    ​​​​​​
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **3 new cases** in **Vietnam**
+    -   a **29-year-old doctor** (first doctor infected with COVID-19 in
+        Vietnam) who developed a **sore throat** on March 19 and, **one
+        day later, also cough, muscle aches, and fever**
+    -   an international student in the Netherlands who returned home on
+        March 15
+    -   a 44 years old woman who lives in the Czech Republic
+
+     [\[[source](https://vnexpress.net/suc-khoe/bac-si-dau-tien-bi-lay-nhiem-ncov-4073092.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** and **1 new death** in
+    **Montenegro** [\[[source](https://m.cdm.me/drustvo/prva-zrtva-koronavirusa-u-crnoj-gori/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **16 new cases** and **8 new deaths** in **[the
+    Philippines](/coronavirus/country/philippines/)** [\[[source](https://newsinfo.inquirer.net/1246982/fwd-breaking-covid-19-396-cases-33-deaths){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in **Fiji**: the 1-year-old nephew of the first
+    patient [\[[source](https://www.fbcnews.com.fj/news/fijis-third-covid-19-case-confirmed/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **23 new cases** and **1 new death** in
+    **Pakistan** [\[[source](https://www.geo.tv/latest/278713-pakistan-reports-sixth-death-from-coronavirus-number-of-confirmed-cases-rise-to){.news_source_a}\]]{.source} [\[[source](https://twitter.com/LiaquatShahwani/status/1241799013512417280){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **3 new cases** in
+    **Uzbekistan** [\[[source](https://t.me/ssvuz/682){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **65 new cases** in
+    **Mexico** [\[[source](https://www.gob.mx/cms/uploads/attachment/file/542709/Comunicado_Tecnico_Diario_COVID-19_2020.03.22.pdf){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **29 new cases** and **1 new death** in **India**. PM Modi said:
+    "***Many people are still not taking the lockdown seriously**.
+    Please save yourself, save your family, follow the instructions
+    seriously. I request the state governments to get the rules and laws
+    followed*" [\[[source](https://twitter.com/narendramodi/status/1241946877139927040){.news_source_a}\]]{.source} [\[[source](https://aajtak.intoday.in/news/liveblog/corona-virus-covid-19-positive-cases-list-death-toll-lockdown-live-update-826.html){.news_source_a}\]]{.source} [\[[source](https://www.deccanherald.com/national/west/covid-19-cases-in-maharashtra-shoot-up-to-89-one-more-dies-816640.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **122 new cases** in **Thailand**. 2nd day in a row with a rise of
+    100 ore more
+    cases [\[[source](https://www.thaienquirer.com/9905/thailand-confirms-122-new-cases-of-coronavirus-total-now-at-721-patients/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **4 new cases** in **Sri
+    Lanka** [\[[source](http://www.hirunews.lk/237067/sri-lanka-covid-19-coronavirus-patients-increase-to-86){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **64 new cases** and **7 new deaths** in **[South
+    Korea](/coronavirus/country/south-korea/)** [\[[source](http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353678&contSeq=353678&board_id=&gubun=ALL){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body news_box">
+
+-   **39 new cases**, **9 new deaths** (all in Hubei), and **459 new
+    discharges** occurred in **China** on March 22, as reported by the
+    National Health Commission (NHC) of China. For the 5th day in a row,
+    **no new confirmed or suspected cases** have been reported in
+    **Wuhan** and
+    in **Hubei **\[[source](http://www.nhc.gov.cn/xcs/yqtb/202003/fbd8871d80574991a4913cd180f83402.shtml)\] 
+
+</div>
+
+</div>
+
+</div>
+
+March 22 **
+<div id="newsdate2020-03-22" class="newsdate_div"
+style="display: none;">
 
 <div class="news_post">
 
@@ -1350,7 +1590,7 @@ noted that by rolling out "perhaps the **most ambitious, agile and
 aggressive disease containment effort in history**" China "**has changed
 the course** of a rapidly escalating and deadly epidemic" and that the
 **remarkable speed** with which Chinese scientists and public health
-experts isolated the causative virus, established diagnostic tools, and\
+experts isolated the causative virus, established diagnostic tools, and
 determined key transmission parameters, such as the route of spread and
 incubation period, provided the vital evidence base for China’s
 strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)\]
@@ -1365,95 +1605,7 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   ![alert](/images/alert.png) **1559 new cases** and **112 new
-    deaths** in **[France](/coronavirus/country/france/)**, including an
-    ER doctor in the Oise
-    region  [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source} [\[[source](https://www.bfmtv.com/mediaplayer/live-video/){.news_source_a}\]]{.source} [\[[source](https://www.lemonde.fr/planete/live/2020/03/22/coronavirus-les-villes-haussent-le-ton-sur-le-confinement-la-loi-d-urgence-sanitaire-adoptee-suivez-l-evolution-en-direct_6033995_3244.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2488 new cases** and **10 new deaths** in
-    **[Germany](/coronavirus/country/germany/)**. German Chancellor
-    **Angela Merkel in quarantine** at home after a doctor who gave her
-    prophylactic vaccinations on Friday has tested positive for the
-    coronavirus [\[[source](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit){.news_source_a}\]]{.source} [\[[source](https://www.spiegel.de/politik/deutschland/coronakrise-kanzlerin-merkel-in-haeuslicher-quarantaene-a-bcde5f71-4c0e-468d-ae28-bce71dc5a9e8){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **5560 new cases** and **651 new deaths** in
-    **[Italy](/coronavirus/country/italy/)**: 15% decline in new cases
-    and 18% decline in new deaths with respect to
-    yesterday \[[source](https://www.worldometers.info/coronavirus/img-coronavirus/italy-coronavirus-report-03-22-2020.jpg)\] 
-    \[[source](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv)\]
-    -   Among the **deaths**: a **34-year-old man** in Rome with **no
-        existing health conditions** (according to reports) who died
-        after being hospitalized for 4 days in sub‐intensive care. He
-        had developed a fever after returning from **Barcelona, Spain**
-        \[[source](https://roma.repubblica.it/cronaca/2020/03/22/news/coronavirus_lazio_negative_suore_che_lavorano_all_ospedale_vannini-251979521/)\]
-    -   "*We expect to see the first **effects of the stringent lockdown
-        measures** adopted on March 11** after 2-3 weeks**, so the
-        **coming week will be absolutely crucial **in this sense: **we
-        expect to finally see a  sign of trend reversal**,*" said Franco
-        Locatelli, President of the Health Council
-        \[[source](https://www.youtube.com/watch?v=FP8T_SoeN_8)\]
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   ![alert](/images/alert.png) **665 new cases** and **48 new deaths**
-    in **[the United
-    Kingdom](/coronavirus/country/uk/)** [\[[source](https://news.sky.com/story/coronavirus-number-of-deaths-in-uk-rises-by-48-to-281-11962009){.news_source_a}\]]{.source} [\[[source](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **16 new cases** in
-    **Ukraine** [\[[source](https://interfax.com.ua/news/general/649006.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **66 new cases** and **3 new deaths** in **Romania**, the first 3
-    deaths in the country: a 67-year-old, a 74-year-old patient and a
-    70-year-old man. All 3 had pre-existing
-    conditions  [\[[source](https://www.digi24.ro/stiri/actualitate/grupul-de-comunicare-strategica-doua-persoane-au-murit-de-coronavirus-in-romania-433-de-persoane-sunt-infectate-1279337){.news_source_a}\]]{.source} [\[[source](https://www.digi24.ro/stiri/actualitate/inca-un-roman-a-murit-din-cauza-conoravirusului-trei-decese-confirmate-in-romania-1279526){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **8149 new cases** and **112 new deaths** in **[the United
+-   **9339 new cases** and **117 new deaths** in **[the United
     States](/coronavirus/country/us/)**\
     *New deaths and cases include:*
     -   **4 new deaths and 590 new cases in New Jersey**
@@ -1502,8 +1654,412 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
+-   **142 new cases** and **1 new death** in
+    **[Canada](/coronavirus/country/canada/)** [\[[source](https://ici.radio-canada.ca/info/2020/coronavirus-covid-19-pandemie-cas-carte-maladie-symptomes-propagation/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **44 new cases** in
+    **Lithuania** [\[[source](http://lrv.lt/en/relevant-information/coronavirus-in-lithuania/relevant-information-1){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **48 new cases** in
+    **Uruguay** [\[[source](https://www.elpais.com.uy/informacion/politica/gobierno-anuncio-hay-casos-confirmados-coronavirus-uruguay.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **4 new cases** in
+    **Aruba** [\[[source](https://www.arubacovid19.org/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **108 new cases** in
+    **Argentina** [\[[source](https://www.infobae.com/sociedad/2020/03/22/confirmaron-67-nuevos-casos-de-coronavirus-en-la-argentina-y-el-total-de-infectados-asciende-a-225/?outputType=amp-type){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **50 new cases** in **New
+    Zealand** [\[[source](https://www.tvnz.co.nz/one-news/new-zealand/total-new-zealand-coronavirus-cases-rises-14-in-last-24-hours-now-66){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **68 new cases** in
+    **Panama** [\[[source](https://geosocial.maps.arcgis.com/apps/opsdashboard/index.html#/2c6e932c690d467b85375af52b614472){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **2509 new cases** and **10 new deaths** in
+    **[Germany](/coronavirus/country/germany/)**. German Chancellor
+    **Angela Merkel in quarantine** at home after a doctor who gave her
+    prophylactic vaccinations on Friday has tested positive for the
+    coronavirus [\[[source](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit){.news_source_a}\]]{.source} [\[[source](https://www.spiegel.de/politik/deutschland/coronakrise-kanzlerin-merkel-in-haeuslicher-quarantaene-a-bcde5f71-4c0e-468d-ae28-bce71dc5a9e8){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **3 new cases** in **French
+    Polynesia** [\[[source](http://www.polynesie-francaise.pref.gouv.fr/Actualites/Communiques-de-presse/2020/Point-de-situation-sur-le-coronavirus-au-22-mars){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **4 new cases** in
+    **Bermuda** [\[[source](http://mobile.royalgazette.com/news/article/20200322/covid-19-four-new-cases&template=mobileart){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   ![alert](/images/alert.png) **590 new cases** and **8 new deaths**
+    in
+    **[Austria](/coronavirus/country/austria/)** [\[[source](https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in **Dominica**, the first in the
+    country  [\[[source](https://dominicanewsonline.com/news/homepage/homepage-carousel/breaking-news-dominica-records-first-positive-case-of-coronavirus-covid-19/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **26 new cases** in
+    **Ukraine** [\[[source](https://www.facebook.com/moz.ukr/posts/1487792461383854){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **17 new cases** in
+    **Réunion** [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **7 new cases** in
+    **Martinique** [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **6 new cases** in
+    **Kazakhstan** [\[[source](https://tengrinews.kz/kazakhstan_news/zaregistrirovan-odin-zarajennyiy-koronavirusom-almatyi-395760/amp/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **2 new cases** in
+    **Guadeloupe** [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **24 new cases** and **1 new death** in **Bahrain**, a 51-year-old
+    patient with underlying
+    conditions  [\[[source](https://english.alarabiya.net/en/News/gulf/2020/03/22/Bahrain-reports-second-coronavirus-death.html){.news_source_a}\]]{.source} [\[[source](https://www.bna.bh/COVID19.aspx?cms=q8FmFJgiscL2fwIzON1%2bDvlFpsUKQ4875jvuCxcUZx0%3d){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **24 new cases** in
+    **Bulgaria** [\[[source](https://btvnovinite.bg/bulgaria/zarazenite-s-koronavirus-u-nas-sa-veche-185.html){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **2 new cases** in
+    **Greenland** [\[[source](https://knr.gl/da/nyheder/nye-personer-er-smittet-med-coronavirus){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **13 new cases** in
+    **Qatar** [\[[source](https://www.thepeninsulaqatar.com/article/22/03/2020/6-recover-as-13-more-report-positive-for-corona-in-Qatar){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **33 new cases** in **Bosnia and
+    Herzegovina** [\[[source](hhttps://www.klix.ba/vijesti/bih/jos-jedna-u-osoba-u-gorazdu-pozitivna-na-koronavirus-ovo-je-126-slucaj-u-bih/200322143){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **14 new cases** and **1 new death** in
+    **Mauritius** [\[[source](https://defimedia.info/covid-19-quatre-nouveaux-cas-enregistres-maurice){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **2 new cases** in
+    **Guatemala** [\[[source](https://twitter.com/prensa_libre/status/1241813202763120640){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **368 new cases** and **7 new deaths** in
+    **[Brazil](/coronavirus/country/brazil/)** [\[[source](https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/22/casos-de-coronavirus-no-brasil-em-22-de-marco.ghtml){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **33 new cases** and **4 new deaths** in
+    **Egypt** [\[[source](https://www.facebook.com/egypt.mohp/photos/a.122315979319023/141793457371275/?type=3&theater){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **2 new cases** in
+    **Rwanda** [\[[source](https://twitter.com/RwandaHealth/status/1241775073465454592){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **131 new cases** and **2 new deaths** in **Pakistan**. Death of a
+    woman who had recently returned from
+    **Iran** [\[[source](https://gulfnews.com/world/asia/pakistan/coronavirus-pakistan-reports-4th-death-due-to-covid-19-on-sunday-as-the-country-heads-towards-lockdown-1.70552122){.news_source_a}\]]{.source} [\[[source](http://covid.gov.pk/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **2 new cases** in
+    **Ghana** [\[[source](https://www.myjoyonline.com/news/national/3-more-test-positive-for-coronavirus-in-ghana-existing-cases-now-23/){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **98 new cases** and **2 new deaths** in
+    **[Poland](/coronavirus/country/poland/)**, a 43-year-old man and a
+    37-year-old woman  
+    <div id="gtx-trans"
+    style="left:11px; position:absolute; top:-4.8px">
+
+    <div class="gtx-trans-icon">
+
+    </div>
+
+    </div>
+
+     [\[[source](https://wiadomosci.onet.pl/kraj/koronawirus-w-polsce-kolejne-przypadki-zarazenia-i-kolejna-ofiara/sndh8tc){.news_source_a}\]]{.source} [\[[source](https://www.se.pl/bialystok/koronawirus-w-polsce-ponad-500-przypadkow-zakazenia-relacja-na-zywo-aa-diHk-YM1s-9DYC.html){.news_source_a}\]]{.source} [\[[source](https://twitter.com/MZ_GOV_PL/status/1241817329547214849){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **19 new cases** and **1 new death** in
+    **Morocco** [\[[source](http://www.covidmaroc.ma/pages/Accueil.aspx){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **164 new cases** and **1 new death** in
+    **[Sweden](/coronavirus/country/sweden/)** [\[[source](https://platz.se/coronavirus/?c=190){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in **Guyana**
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **66 new cases** and **3 new deaths** in **Romania**, the first 3
+    deaths in the country: a 67-year-old, a 74-year-old patient and a
+    70-year-old man. All 3 had pre-existing
+    conditions  [\[[source](https://www.digi24.ro/stiri/actualitate/grupul-de-comunicare-strategica-doua-persoane-au-murit-de-coronavirus-in-romania-433-de-persoane-sunt-infectate-1279337){.news_source_a}\]]{.source} [\[[source](https://www.digi24.ro/stiri/actualitate/inca-un-roman-a-murit-din-cauza-conoravirusului-trei-decese-confirmate-in-romania-1279526){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
 -   **17 new cases** in **Costa
     Rica** [\[[source](https://delfino.cr/hoy){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   **1 new case** in **Grenada**a 50-year-old woman who flew from the
+    UK on March
+    16  [\[[source](https://www.nowgrenada.com/2020/03/grenada-confirms-first-covid-19-case/){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1570,6 +2126,17 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
+-   **1 new case** in **Syria**, first case in the
+    country  [\[[source](https://sana.sy/en/?p=188671){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
 -   **188 new cases** in
     **Israel** [\[[source](https://www.jpost.com/HEALTH-SCIENCE/945-Israelis-test-positive-for-coronavirus-621857){.news_source_a}\]]{.source}
 
@@ -1583,6 +2150,19 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 -   **289 new cases** and **9 new deaths** in
     **Turkey** [\[[source](https://twitter.com/drfahrettinkoca/status/1241803045907894272){.news_source_a}\]]{.source} [\[[source](https://twitter.com/drfahrettinkoca/status/1241806899215061009){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   ![alert](/images/alert.png) **1559 new cases** and **112 new
+    deaths** in **[France](/coronavirus/country/france/)**, including an
+    ER doctor in the Oise
+    region  [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source} [\[[source](https://www.bfmtv.com/mediaplayer/live-video/){.news_source_a}\]]{.source} [\[[source](https://www.lemonde.fr/planete/live/2020/03/22/coronavirus-les-villes-haussent-le-ton-sur-le-confinement-la-loi-d-urgence-sanitaire-adoptee-suivez-l-evolution-en-direct_6033995_3244.html){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1639,18 +2219,6 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **1 new case** and **1 new death** in **Pakistan**. Death of a woman
-    who had recently returned from
-    **Iran** [\[[source](https://gulfnews.com/world/asia/pakistan/coronavirus-pakistan-reports-4th-death-due-to-covid-19-on-sunday-as-the-country-heads-towards-lockdown-1.70552122){.news_source_a}\]]{.source} [\[[source](http://covid.gov.pk/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **34 new cases** in
     **Armenia** [\[[source](https://blognews.am/arm/news/671331/){.news_source_a}\]]{.source}
 
@@ -1664,17 +2232,6 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 -   **8 new cases** in
     **Nigeria** [\[[source](https://twitter.com/NCDCgov/status/1241768200653672452){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **98 new cases** and **1 new death** in
-    **[Canada](/coronavirus/country/canada/)** [\[[source](https://ici.radio-canada.ca/info/2020/coronavirus-covid-19-pandemie-cas-carte-maladie-symptomes-propagation/){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1717,19 +2274,8 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **91 new cases** and **2 new deaths** in
-    **[Poland](/coronavirus/country/poland/)**, a 43-year-old man and a
-    37-year-old woman  
-    <div id="gtx-trans"
-    style="left:11px; position:absolute; top:-4.8px">
-
-    <div class="gtx-trans-icon">
-
-    </div>
-
-    </div>
-
-     [\[[source](https://wiadomosci.onet.pl/kraj/koronawirus-w-polsce-kolejne-przypadki-zarazenia-i-kolejna-ofiara/sndh8tc){.news_source_a}\]]{.source} [\[[source](https://www.se.pl/bialystok/koronawirus-w-polsce-ponad-500-przypadkow-zakazenia-relacja-na-zywo-aa-diHk-YM1s-9DYC.html){.news_source_a}\]]{.source} [\[[source](https://twitter.com/MZ_GOV_PL/status/1241768558591442948){.news_source_a}\]]{.source}
+-   **14 new cases** in
+    **Cuba** [\[[source](http://www.cubadebate.cu/noticias/2020/03/22/diez-nuevos-casos-confirmados-de-covid-19-en-cuba-para-un-acumulado-de-35/#.Xneev6aCU0M){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1739,8 +2285,34 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **14 new cases** in
-    **Cuba** [\[[source](http://www.cubadebate.cu/noticias/2020/03/22/diez-nuevos-casos-confirmados-de-covid-19-en-cuba-para-un-acumulado-de-35/#.Xneev6aCU0M){.news_source_a}\]]{.source}
+-   **5560 new cases** and **651 new deaths** in
+    **[Italy](/coronavirus/country/italy/)**: 15% decline in new cases
+    and 18% decline in new deaths with respect to
+    yesterday \[[source](https://www.worldometers.info/coronavirus/img-coronavirus/italy-coronavirus-report-03-22-2020.jpg)\] 
+    \[[source](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv)\]
+    -   Among the **deaths**: a **34-year-old man** in Rome with **no
+        existing health conditions** (according to reports) who died
+        after being hospitalized for 4 days in sub‐intensive care. He
+        had developed a fever after returning from **Barcelona, Spain**
+        \[[source](https://roma.repubblica.it/cronaca/2020/03/22/news/coronavirus_lazio_negative_suore_che_lavorano_all_ospedale_vannini-251979521/)\]
+    -   "*We expect to see the first **effects of the stringent lockdown
+        measures** adopted on March 11** after 2-3 weeks**, so the
+        **coming week will be absolutely crucial **in this sense: **we
+        expect to finally see a  sign of trend reversal**,*" said Franco
+        Locatelli, President of the Health Council
+        \[[source](https://www.youtube.com/watch?v=FP8T_SoeN_8)\]
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
+-   ![alert](/images/alert.png) **665 new cases** and **48 new deaths**
+    in **[the United
+    Kingdom](/coronavirus/country/uk/)** [\[[source](https://news.sky.com/story/coronavirus-number-of-deaths-in-uk-rises-by-48-to-281-11962009){.news_source_a}\]]{.source} [\[[source](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1761,7 +2333,7 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **99 new cases** in
+-   **221 new cases** in
     **[Norway](/coronavirus/country/norway/)** [\[[source](https://www.vg.no/spesial/2020/corona/?utm_source=corona-widget&utm_term=5a){.news_source_a}\]]{.source}
 
 </div>
@@ -1837,6 +2409,18 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
+-   **1 new case** in **Mozambique**, the first in the country, a
+    75-year-old man who had recently returned from the
+    UK [\[[source](http://opais.sapo.mz/mocambique-com-um-caso-confirmado-do-covid19){.news_source_a}\]]{.source}
+
+</div>
+
+</div>
+
+<div class="news_post">
+
+<div class="news_body">
+
 -   **62 new cases** and **2 new deaths** in
     **[Algeria](/coronavirus/country/algeria/)** [\[[source](https://www.facebook.com/417104101736041/posts/2989616207818138/){.news_source_a}\]]{.source}
 
@@ -1848,7 +2432,7 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **3107 new cases** and **375 new deaths** in
+-   **3272 new cases** and **391 new deaths** in
     **[Spain](/coronavirus/country/spain/)** [\[[source](https://elpais.com/sociedad/2020-03-22/ultima-hora-del-coronavirus-covid-19-en-directo.html){.news_source_a}\]]{.source}
 
 </div>
@@ -1859,19 +2443,8 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **161 new cases** and **1 new death** in
+-   **164 new cases** and **1 new death** in
     **[Sweden](/coronavirus/country/sweden/)** [\[[source](https://platz.se/coronavirus/?){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **10 new cases** and **1 new death** in
-    **Mauritius** [\[[source](https://defimedia.info/covid-19-quatre-nouveaux-cas-enregistres-maurice){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1903,7 +2476,7 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **5 new cases** in
+-   **6 new cases** in
     **Kazakhstan** [\[[source](https://tengrinews.kz/kazakhstan_news/esche-1-sluchay-koronavirusa-zafiksirovan-v-almatyi-395724/){.news_source_a}\]]{.source}
 
 </div>
@@ -1947,19 +2520,7 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   ![alert](/images/alert.png) **310 new cases** and **8 new deaths**
-    in
-    **[Austria](/coronavirus/country/austria/)** [\[[source](https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **32 new cases** in
+-   **47 new cases** and **5 new deaths** in
     **Japan** [\[[source](https://covid19japan.com/){.news_source_a}\]]{.source}
 
 </div>
@@ -1970,19 +2531,8 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **43 new cases** in **[China, Hong Kong
+-   **44 new cases** in **[China, Hong Kong
     SAR](/coronavirus/country/china-hong-kong-sar/)** [\[[source](https://hk.appledaily.com/local/20200322/AIT25K2IOOTTY2J3DDA4OAVUIQ/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **22 new cases** in
-    **Bulgaria** [\[[source](https://nova.bg/news/view/2020/03/22/282312/%D0%BE%D0%B1%D1%89%D0%BE-185-%D1%81%D0%B0-%D0%B7%D0%B0%D1%80%D0%B0%D0%B7%D0%B5%D0%BD%D0%B8%D1%82%D0%B5-%D1%81-covid-19-%D1%83-%D0%BD%D0%B0%D1%81/){.news_source_a}\]]{.source}
 
 </div>
 
@@ -1994,18 +2544,6 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 -   **19 new cases** in
     **Vietnam** [\[[source](https://media.zalo.me/detail/1571891271885013375?id=0ad2652c1669ff37a678&pageId=1571891271885013375&fbclid=IwAR2inC1qtkSxzCvagD-Z1ik-AihrYJqsDFavt3CyMcMe_0df693VfNNWxoM){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **22 new cases** and **1 new death** in **Bahrain**, a 51-year-old
-    patient with underlying
-    conditions  [\[[source](https://english.alarabiya.net/en/News/gulf/2020/03/22/Bahrain-reports-second-coronavirus-death.html){.news_source_a}\]]{.source} [\[[source](https://www.bna.bh/COVID19.aspx?cms=q8FmFJgiscL2fwIzON1%2bDvlFpsUKQ4875jvuCxcUZx0%3d){.news_source_a}\]]{.source}
 
 </div>
 
@@ -2049,17 +2587,6 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **31 new cases** in
-    **[Brazil](/coronavirus/country/brazil/)** [\[[source](https://g1.globo.com/bemestar/coronavirus/noticia/2020/03/22/casos-de-coronavirus-no-brasil-em-22-de-marco.ghtml){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **5 new cases** in
     **Bolivia** [\[[source](https://twitter.com/LaRazon_Bolivia/status/1241729351520940032){.news_source_a}\]]{.source}
 
@@ -2084,17 +2611,6 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 -   **2 new cases** in
     **Uzbekistan** [\[[source](http://coronavirus.uz/ru){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **30 new cases** in
-    **Lithuania** [\[[source](http://lrv.lt/en/relevant-information/coronavirus-in-lithuania/relevant-information-1){.news_source_a}\]]{.source}
 
 </div>
 
@@ -2160,17 +2676,6 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **13 new cases** in
-    **Morocco** [\[[source](https://www.boursenews.ma/article/alaune/covid-19-104-cas-confirmes-au-maroc-dimanche-matin){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **1 new case** in **Niger**, a 51-year-old Italian citizen working
     for an NGO who had come from Italy on February
     28  [\[[source](http://www.tamtaminfo.com/coronavirus-un-deuxieme-cas-declare-au-niger/){.news_source_a}\]]{.source}
@@ -2217,17 +2722,6 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **1 new case** in **Bosnia and
-    Herzegovina** [\[[source](https://bhrt.ba/koronavirus-u-bih-gradani-postuju-preporuke-pogledajte-fotografije-gradova/1117400/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **17 new cases** in
     **Malta** [\[[source](https://timesofmalta.com/articles/view/watch-live-heath-authorities-update-on-maltas-covid-19-situation.780110){.news_source_a}\]]{.source}
 
@@ -2239,7 +2733,7 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **281 new cases** in
+-   **537 new cases** in
     **[Australia](/coronavirus/country/australia/)**. **NSW** will
     proceed to a **more comprehensive shutdown** of non-essential
     services over the next 48
@@ -2663,41 +3157,8 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **3 new cases** in
-    **Aruba** [\[[source](https://www.arubacovid19.org/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **25 new cases** in
-    **Uruguay** [\[[source](https://www.elpais.com.uy/informacion/politica/gobierno-anuncio-hay-casos-confirmados-coronavirus-uruguay.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
 -   **48 new cases** in
     **Mexico** [\[[source](https://twitter.com/HLGatell/status/1241565840073469952){.news_source_a}\]]{.source} [\[[source](https://www.gob.mx/cms/uploads/attachment/file/542679/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.03.21.pdf){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **67 new cases** in
-    **Argentina** [\[[source](https://www.infobae.com/sociedad/2020/03/22/confirmaron-67-nuevos-casos-de-coronavirus-en-la-argentina-y-el-total-de-infectados-asciende-a-225/?outputType=amp-type){.news_source_a}\]]{.source}
 
 </div>
 
@@ -2718,8 +3179,8 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **14 new cases** in **New
-    Zealand** [\[[source](https://www.tvnz.co.nz/one-news/new-zealand/total-new-zealand-coronavirus-cases-rises-14-in-last-24-hours-now-66){.news_source_a}\]]{.source}
+-   **98 new cases** and **2 new deaths** in **[South
+    Korea](/coronavirus/country/south-korea/)** [\[[source](http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353668&contSeq=353668&board_id=140&gubun=BDJ){.news_source_a}\]]{.source}
 
 </div>
 
@@ -2729,8 +3190,8 @@ strategy. \[[source](https://www.who.int/docs/default-source/coronaviruse/who-c
 
 <div class="news_body">
 
--   **98 new cases** and **2 new deaths** in **[South
-    Korea](/coronavirus/country/south-korea/)** [\[[source](http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353668&contSeq=353668&board_id=140&gubun=BDJ){.news_source_a}\]]{.source}
+-   **39 new cases** and **9 new deaths** in
+    **[China](/coronavirus/country/china/)**
 
 </div>
 
@@ -11379,1442 +11840,9 @@ style="display: none;">
 
 </div>
 
-March 16 **
-<div id="newsdate2020-03-16" class="newsdate_div"
-style="display: none;">
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   ![alert](/images/alert.png) **USA:** Trump releases **new guidelines
-    for the next 15 days** to slow coronavirus spread:\
-    - Americans are urged to **stay home and work from home** if
-    possible\
-    - people should **avoid non-essential contacts** with others and
-    non-essential travel \
-    - everyone should **avoid eating in restaurants** and bars\
-    - **no social gatherings** with more than 10 people\
-    - Governors are urged to **close schools** in states with 'evidence
-    of community transmission'\
-    - the guidelines will be reviewed in 15 days 
-    \[[source](https://apnews.com/41bb7d0b74adc5159ca602cf988edde7)\] 
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   ![alert](/images/alert.png) **France**: President Macron **severely
-    restricts movements** for the next 15 days
-    \[[source](https://www.reuters.com/article/us-health-coronavirus-macron-restriction/france-to-impose-movement-restrictions-macron-idUSKBN2133G5)\] 
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   ![alert](/images/alert.png) **EU's borders close** for 30 days
-    \[[source](https://news.sky.com/story/coronavirus-eus-borders-will-close-for-30-days-from-noon-tomorrow-11958658)\] 
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   ![alert](/images/alert.png) **Canada shuts its borders** to all
-    foreign nationals **except U.S. citizens** and permanent residents.
-    Prime Minister Justin Trudeau urges people to **stay at home**
-    \[[source](https://www.cbc.ca/news/politics/cbsa-border-airports-screening-trudeau-covid19-coronavirus-1.5498866)\]
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **983 new cases** and **18 new deaths** in **[the United
-    States](/coronavirus/country/us/)**. Starting immediately and for
-    the next 8 weeks, CDC recommends **canceling all events of 50 or
-    more
-    people** \[[source](https://twitter.com/CDCgov/status/1239357433383960576?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1239357433383960576&ref_url=https%3A%2F%2Fwww.wftv.com%2Fnews%2Fhealth%2Flive-updates-fort-lauderdale-screening-officer-tests-positive-covid-19-tsa-says%2FLLNJJU2LA5HNRCGRJUN3GWUHFU%2F)\] \[[source](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/mass-gatherings-ready-for-covid-19.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcommunity%2Fmass-gatherings-ready-for-covid-19.html)\]
-
-    New cases include:\
-    - 1 new case in California (Nevada County)
-    \[[source](https://www.mynevadacounty.com/CivicAlerts.aspx?AID=2827)\]
-
-    - 6 new cases in **New Hampshire**
-    \[[source](https://www.dhhs.nh.gov/media/pr/2020/03152020-covid19-case.htm)\]
-
-    - 5 new cases in Washoe County,
-    **Nevada** \[[source](https://www.washoecounty.us/outreach/2020/03/2020-03-15-covid19-updated-cases.php)\]
-
-    - 2 new cases in Harris County,
-    **Texas ** \[[source](https://twitter.com/hcphtx/status/1239356757174083590?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1239356757174083590&ref_url=https%3A%2F%2Fwww.khou.com%2Farticle%2Fnews%2Fhealth%2Fcoronavirus%2F2-new-harris-county-covid-19-cases-bring-total-to-8%2F285-967b453e-8b0a-4ebd-9f4a-f230e60cb450)\]
-
-    - First case in southern **Indiana**: a man in  Floyd Count who,
-    during the past week, attended a number of events and gatherings,
-    all listed in detail by the Heath
-    Department  \[[source](https://www.wdrb.com/news/floyd-county-indiana-has-first-case-of-coronavirus/article_9c60fb18-6705-11ea-b1ee-4bc79184af6d.html)\] 
-
-    - 3 new cases in Orange County, **California**, including 2 that did
-    not appear to be related to travel or with previously confirmed
-    cases  \[[source](https://www.ocregister.com/2020/03/15/o-c-coronavirus-case-count-rises-by-4-to-17-including-new-reports-of-community-transmission/)\]
-
-    - 80 in **New
-    Jersey ** \[[source](https://www.nj.com/coronavirus/2020/03/nj-to-mobilize-national-guard-in-coronavirus-fight-gov-murphy-sayd.html)\]
-
-    - 1 new case in  **Hawaii: ** an Oahu resident who took a family
-    trip to Florida and returned with family on March 8. The next day,
-    the resident **developed a cough, but no
-    fever**  \[[source](https://www.staradvertiser.com/2020/03/15/breaking-news/watch-live-gov-david-ige-hawaii-health-officials-give-update-on-latest-coronavirus-cases-in-hawaii/)\]
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2 new cases** in
-    **Rwanda** [\[[source](https://twitter.com/RwandaHealth/status/1239642984704081920/photo/1){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new cases** in
-    **Lithuania** [\[[source](https://www.delfi.lt/sveikata/sveikatos-naujienos/nustatyti-dar-trys-koronaviruso-atvejai-is-visu-saliu-grize-gyventojai-turi-izoliuotis.d?id=83784413){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **23 new cases** in
-    **Uruguay** [\[[source](https://www.elpais.com.uy/informacion/politica/gobierno-decreta-cierre-fronteras-coronavirus.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **6 new cases** in **Costa
-    Rica** [\[[source](https://www.elmundo.cr/costa-rica/se-confirman-41-casos-de-coronavirus-en-costa-rica/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **9 new cases** in
-    **Morocco** [\[[source](https://www.h24info.ma/maroc/coronavirusmaroc-le-bilan-grimpe-a-37-cas/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   ![alert](/images/alert.png) **1459 new cases** and **4 new deaths**
-    in
-    **[Germany](/coronavirus/country/germany/)** [\[[source](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **9 new cases** in
-    **Argentina** [\[[source](https://www.infobae.com/sociedad/2020/03/16/confirmaron-otros-nueve-casos-en-la-argentina-de-coronavirus-y-el-total-de-infectados-asciende-a-65/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **53 new cases** in
-    **[Ireland](/coronavirus/country/ireland/)** [\[[source](https://www.gov.ie/en/press-release/25663c-statement-from-the-national-public-health-emergency-team-16-march/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **40 new cases** and **2 new deaths** in
-    **Egypt** [\[[source](https://www.youm7.com/story/2020/3/16/الحكومة-إجمالى-عدد-الإصابات-بفيروس-كورونا-150-حالة-حتى-الآن/4674037){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **24 new cases** in
-    **Armenia** [\[[source](https://en.armradio.am/2020/03/16/armenia-confirms-30-cases-of-coronavirus/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **19 new cases** in **Iceland**
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **5 new cases** in **the Republic of North
-    Macedonia** [\[[source](https://www.24.mk/details/filipche-pet-novi-lica-zarazeni-so-koronavirusot-dve-lica-pozitivni-na-testovite-utre-ushte-edna-potvrda){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **92 new cases** in
-    **[Norway](/coronavirus/country/norway/)** [\[[source](https://www.vg.no/spesial/2020/corona-viruset/?utm_source=vgfront&utm_content=row-1){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **101 new cases** in
-    **[Australia](/coronavirus/country/australia/)**: PM ordered 14-day
-    self-quarantine for all people arriving in Australia, with hefty
-    fines and even jail time if
-    ignored [\[[source](https://mobile.abc.net.au/news/2020-03-16/coronavirus-tough-new-penalties-target-spread-of-covid-19/12056638){.news_source_a}\]]{.source} [\[[source](https://www.news.com.au/lifestyle/health/health-problems/coronavirus-australia-live-coverage-death-toll-rises-to-five-as-covid19-cases-surge-government-urged-to-shut-schools/live-coverage/f55bf66e9f75436b8614a6ebbe59bd57){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **14 new cases** and **1 new death** in
-    **Bahrain** [\[[source](https://www.moh.gov.bh/COVID19){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** in
-    **Cameroon** [\[[source](https://www.africanews.com/2020/03/16/coronavirus-south-africa-confirms-first-case/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   ![alert](/images/alert.png) **1954 new cases** and **48 new deaths**
-    in
-    **[Spain](/coronavirus/country/spain/)** [\[[source](https://www.rtve.es/noticias/20200316/mapa-del-coronavirus-espana/2004681.shtml){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **3 new cases** in
-    **Mongolia** [\[[source](https://ikon.mn/n/1tnk){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **100 new cases** and **3 new deaths** in
-    **[Canada](/coronavirus/country/canada/)** including:\
-    -  30 in British Columbia
-    [\[source](https://www.cbc.ca/news/canada/british-columbia/covid-19-update-bc-bonnie-henry-livestream-march-16-1.5499192)\]\
-    - 32 in
-    Ontario \[[source](https://www.cp24.com/mobile/news/ontario-confirms-32-new-cases-of-covid-19-1.4854658)\] 
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **29 new cases** in
-    **Turkey** [\[[source](https://www.sozcu.com.tr/2020/gundem/son-dakika-saglik-bakani-koca-29-yeni-tani-kondu-5682826/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **81 new cases** and **4 new deaths** in
-    **[Sweden](/coronavirus/country/sweden/)**: older people with
-    underlying
-    diseases [\[[source](https://omni.se/ytterligare-tre-personer-doda-av-covid-19-i-sverige/a/8mko1G){.news_source_a}\]]{.source} [\[[source](https://platz.se/coronavirus/?c=1614){.news_source_a}\]]{.source} [\[[source](https://www.svt.se/nyheter/lokalt/sormland/forsta-dodsfallet-i-corona-i-sormland){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **52 new cases** and **1 new death** in
-    **[Poland](/coronavirus/country/poland/)** [\[[source](https://wiadomosci.wp.pl/koronawirus-w-polsce-i-na-swiecie-najnowsze-informacje-6489436804860033a){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **17 new cases** in **Jordan**: including a British
-    tourist [\[[source](https://www.almamlakatv.com/news/29-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AD%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-35747){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **9 new cases** in
-    **[Iraq](/coronavirus/country/iraq/)** [\[[source](https://www.facebook.com/156490947738645/posts/2804926679561712/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new cases** in
-    **Ukraine** [\[[source](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **85 new cases** in
-    **Israel** [\[[source](https://www.ynet.co.il/articles/0,7340,L-5696049,00.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** in **Bosnia and
-    Herzegovina** [\[[source](https://www.klix.ba/vijesti/bih/potvrdjen-novi-slucaj-zaraze-koronavirusom-u-bih-kod-pacijenta-iz-tesnja/200316031){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   ![alert](/images/alert.png) **1210 new cases** and **21 new deaths**
-    in
-    **[France](/coronavirus/country/france/)** [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **131 new cases** in **Pakistan** including a 31-year old man who
-    had traveled to
-    Qatar [\[[source](https://tribune.com.pk/story/2176962/1-sindh-confirms-50-new-covid-19-cases/){.news_source_a}\]]{.source} [\[[source](https://www.dawn.com/live-blog/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **15 new cases** in **Saudi Arabia**: 1 Swiss citizen, 1 French
-    citizen, 1 U.S. citizen and 1 person who had returned from
-    Afghanistan [\[[source](https://twitter.com/SaudiMOH/status/1239623688716267520?s=20){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **13 new cases** in **Cyprus**: 1 patient and 10 health
-    professionals at Paphos Hospital who came into contactnwith a
-    confirmed patient , 1 person who had traveled to the UK and 1 who
-    had traveled to
-    Greece  [\[[source](https://in-cyprus.com/coronavirus-another-13-confirmed-cases-health-ministry-says-total-now-46/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **34 new cases** in
-    **[Brazil](/coronavirus/country/brazil/)** [\[[source](https://veja.abril.com.br/saude/secretaria-de-saude-confirma-3-primeiros-casos-de-coronavirus-no-ceara/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **10 new cases** and **1 new death** in **the Dominican
-    Republic** [\[[source](https://listindiario.com/la-republica/2020/03/16/608760/diez-nuevos-casos-de-coronavirus-y-ya-suman-21-en-republica-dominicana){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **81 new cases** in **Chile**: closing of all
-    borders [\[[source](https://www.emol.com/noticias/Nacional/2020/03/16/979941/Presidente-contagiados-Fase-4.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   ![alert](/images/alert.png) **152 new cases** and **20 new deaths**
-    in **[the United
-    Kingdom](/coronavirus/country/uk/)** [\[[source](https://www.bbc.com/news/live/world-51903319){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **172 new cases** and **6 new deaths** in
-    **[Belgium](/coronavirus/country/belgium/)** [\[[source](https://www.brusselstimes.com/all-news/belgium-all-news/100586/coronavirus-belgium-reaches-1085-confirmed-cases/){.news_source_a}\]]{.source} [\[[source](https://www.hln.be/nieuws/buitenland/live-10-doden-door-coronavirus-in-belgie-koning-filip-spreekt-alle-belgen-toe-over-coronacrisis~a4d58282/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **7 new cases** in **Guatemala**: 2 were in contact with the first
-    deceased patient, 2 tested positive while in quarantine in their
-    homes, 2 arrived at the airport and were transported directly to
-    Villa Nueva's hospital\
-      [\[[source](https://www.prensalibre.com/guatemala/comunitario/coronavirus-autoridades-confirman-el-primer-guatemalteco-fallecido/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **6 new cases** in
-    **Moldova** [\[[source](https://www.jurnal.md/ro/news/2bb3dacd4379788d/sase-cazuri-noi-de-coronavirus-in-republica-moldova-numarul-persoanelor-infectate-a-urcat-la-29.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **136 new cases** and **5 new deaths** in
-    **[Switzerland](/coronavirus/country/switzerland/)**
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **51 new cases** in
-    **Czechia** [\[[source](https://onemocneni-aktualne.mzcr.cz/covid-19){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **6 new cases** in
-    **[Algeria](/coronavirus/country/algeria/)** [\[[source](https://www.sabqpress.net/national/%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-60-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2 new cases** in
-    **Gibraltar** [\[[source](https://www.gbc.gi/news/two-new-confirmed-cases-covid-19-gibraltar){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new deaths** in
-    **Japan** [\[[source](https://covid19japan.com/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **9 new cases** in
-    **Serbia** [\[[source](https://covid19.rs/homepage-english/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   ![alert](/images/alert.png) **3233 new cases** and **349 new
-    deaths** in
-    **[Italy](/coronavirus/country/italy/)** [\[[source](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **21 new cases** in
-    **Ecuador** [\[[source](https://www.metroecuador.com.ec/ec/noticias/2020/03/16/nuevos-casos-coronavirus-ecuador-la-cifra-asciende.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **29 new cases** in **Romania**: 2 cases had traveled to Austria and
-    Germany, the rest to
-    Italy [\[[source](https://www.g4media.ro/breaking-coronavirus-in-romania-inca-19-cazuri-de-infectare-au-fost-confirmate-bilantul-total-ajunge-la-158.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **86 new cases** and **1 new death** in
-    **[Portugal](/coronavirus/country/portugal/)** [\[[source](https://www.cmjornal.pt/sociedade/detalhe/alerta-cm--sobe-para-331-o-numero-de-infetados-com-coronavirus-em-portugal){.news_source_a}\]]{.source} [\[[source](https://www.publico.pt/2020/03/16/sociedade/noticia/coronavirus-portugal-meio-gas-europa-comeca-fechar-portas-1907902){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **11 new cases** in
-    **Slovakia** [\[[source](https://www.topky.sk/cl/10/1869403/PRAVE-TERAZ-Na-Slovensku-pribudli-dva-pripady-ochorenia-koronavirusu){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **21 new cases** in
-    **[Greece](/coronavirus/country/greece/)** [\[[source](https://www.cnn.gr/news/ellada/story/211470/koronoios){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   "**Countries must test. They can't fight this blindly.** They need
-    to find cases and isolate them. So my message to the Health
-    Ministers today was to invest in testing. **They must be able to
-    test all suspected cases.** We advise countries to stick to testing
-    and continue with containment strategies, because we believe this
-    virus is controllable if the right measures are taken." Dr. Tedros
-    Adhanom, Director of WHO. Source: **[WHO daily media briefing on
-    COVID-19](https://twitter.com/WHO/status/1239579390788292608) (LIVE)**
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **50 new cases** and **2 new deaths** in
-    **[Denmark](/coronavirus/country/denmark/)**: an elderly person at
-    Harlev Hospital and a 92-year-old person living in a nursing
-    home [\[[source](https://www.dr.dk/nyheder/indland/tredje-coronarelaterede-doedsfald-i-danmark){.news_source_a}\]]{.source} [\[[source](https://nyheder.tv2.dk/samfund/2020-02-27-nyeste-corona-tal-fra-danmark-og-verden-saa-mange-er-smittede-doede-og-indlagte){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **9 new cases** in
-    **Andorra** [\[[source](https://www.diariandorra.ad/noticies/nacional/2020/03/16/catorze_positius_per_coronavirus_158662_1125.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **11 new cases** in **Bulgaria**: a 9-year-old child from the
-    UK [\[[source](https://m.24zdrave.bg/article/8305567){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **6 new cases** in **[China, Hong Kong
-    SAR](/coronavirus/country/china-hong-kong-sar/)** [\[[source](https://chp-dashboard.geodata.gov.hk/covid-19/en.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **10 new cases** in **Sri Lanka**: a 37, 50 and 73-year-old man, as
-    well as a13-year-old
-    girl [\[[source](https://www.newsfirst.lk/2020/03/16/covid-19-cases-in-sri-lanka-increase-to-28/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **8 new cases** in
-    **Taiwan** [\[[source](https://www.cdc.gov.tw/Bulletin/Detail/ff2iTLjIkULcDeS2wjlPBA?typeid=9){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **38 new cases** in
-    **Qatar** [\[[source](https://www.moph.gov.qa/english/Pages/Coronavirus2019.aspx#){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new cases** in
-    **Uzbekistan** [\[[source](https://uznews.uz/ru/article/19566){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **158 new cases** and **2 new deaths** in
-    **[Austria](/coronavirus/country/austria/)** [\[[source](https://www.diepresse.com/5785494/weiterer-coronavirus-todesfall-steirerin-gestorben){.news_source_a}\]]{.source} [\[[source](https://www.krone.at/2117772){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new cases** in
-    **Vietnam** [\[[source](https://ncov.moh.gov.vn/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **8 new cases** in
-    **Croatia** [\[[source](https://www.index.hr/vijesti/clanak/jos-jedan-slucaj-koronavirusa-u-hrvatskoj-objavljeni-detalji-o-zarazenima/2165464.aspx){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   **1^st^ case** in **Benin**: a 49-year-old man who had traveled to
-    Belgium and Burkina
-    Faso [\[[source](http://ortb.bj/urgent-coronavirus-le-benin-confirme-un-premier-cas/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **15 new cases** in
-    **Peru** [\[[source](https://twitter.com/minsa_peru/status/1239548049191550978?s=21){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   **1^st^ case** in **Greenland**: a person from
-    Nuuk [\[[source](https://ekstrabladet.dk/nyheder/samfund/groenland-har-konstateret-sit-foerste-tilfaelde-af-coronavirus/8050456?fbclid=IwAR0T0_j_N8bByqUlix7BUcbesaEVwgl2he2ryX1VOum96we6IkXrXvE0pOA){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **20 new cases** in **Colombia**. Bogotá is the city with the most
-    infections [\[[source](https://twitter.com/MinSaludCol/status/1239546724450013191){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** in **Kazakhstan**: a woman who had traveled to
-    Instanbul,
-    Turkey  [\[[source](https://www.zakon.kz/5011863-v-kazahstane-vyyavlen-desyatyy.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **3 new cases** in **Channel
-    Islands** [\[[source](https://www.itv.com/news/channel/2020-03-12/live-updates-number-of-coronavirus-cases-in-the-channel-islands/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **3 new cases** in **South Africa**: a mother and
-    child [\[[source](https://m.news24.com/SouthAfrica/News/coronavirus-in-sa-more-possible-covid-19-cases-in-kwazulu-natal-20200316){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **34 new cases** in
-    **Slovenia** [\[[source](https://www.rtvslo.si/zdravje/novi-koronavirus/253-potrjenih-okuzb-ob-6712-testiranih/517291){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2 new cases** in
-    **Jamaica** [\[[source](https://twitter.com/AndrewHolnessJM/status/1239540078059364353?s=20){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   **1^st^ case** in
-    **Somalia** [\[[source](https://news.yahoo.com/somalia-confirms-first-case-coronavirus-125148754.html?guccounter=1){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new cases** in **French Guiana**: 3
-    imported [\[[source](https://la1ere.francetvinfo.fr/guyane/ouest-guyanais/guyane/coronavirus-quatre-nouveaux-cas-guyane-811750.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **278 new cases** and **4 new deaths** in **[the
-    Netherlands](/coronavirus/country/netherlands/)** [\[[source](https://www.nu.nl/coronavirus/6037865/278-nieuwe-besmettingen-met-coronavirus-in-nederland-dodental-stijgt-naar-24.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **30 new cases** in
-    **Russia** [\[[source](https://www.kommersant.ru/doc/4290816){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   **1^st^ case** in **Tanzania**: a 46-year-old woman who had arrived
-    from
-    Belgium [\[[source](https://www.thecitizen.co.tz/news/1840340-5493020-agvttr/index.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   **1^st^ death** in **the Cayman Islands**: a 68-year-old
-    man [\[[source](http://www.gov.ky/portal/page/portal/cighome/pressroom/archive/March%202020/First%20COVID-19%20Patient%20Passes){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2 new cases** in **[the
-    Philippines](/coronavirus/country/philippines/)** [\[[source](https://www.facebook.com/27254475167/posts/10158097179100168/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **17 new cases** in **Singapore**: 11 are imported cases, 4 are
-    linked to previous cases and the last 2 are unrelated to known
-    cases [\[[source](https://www.moh.gov.sg/news-highlights/details/four-more-cases-discharged-seventeen-new-cases-of-covid-19-infection-confirmed){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **33 new cases** in
-    **Thailand** [\[[source](https://www.bangkokpost.com/thailand/general/1880010/33-new-infections-as-songkran-postponed-venues-and-schools-to-be-closed){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **138 new cases** in
-    **[Malaysia](/coronavirus/country/malaysia/)** [\[[source](https://newslab.malaysiakini.com/covid-19/en){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **34 new cases** in
-    **Finland** [\[[source](https://korona.kans.io/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **7 new cases** in **Monaco**: one person
-    hospitalized [\[[source](https://www.monacomatin.mc/sante/quatre-nouveaux-cas-positifs-au-coronavirus-en-principaute-de-monaco-481109){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **9 new cases** in
-    **Malta** [\[[source](https://www.facebook.com/138329512971382/posts/1882724441865205/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new cases** in **Brunei
-    Darussalam** [\[[source](https://twitter.com/saden29/status/1239498259124625408/photo/1){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1053 new cases** and **129 new deaths** in
-    **[Iran](/coronavirus/country/iran/)** [\[[source](https://www.reuters.com/article/us-health-coronavirus-iran/irans-death-toll-from-coronavirus-increases-to-853-official-idUSKBN2131KJ){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **15 new cases** in **India** including the first case in
-    **Odisha:** a student who returned from **Italy** on March 6, was
-    screened at New Delhi, and was kept in quarantine along with others.
-    **After 6 days**, on March 12, he took a train to Bhubaneswar. The
-    day after, on March 13, he caught a **cold and started sneezing and
-    coughing**. As his condition did not improve, he was admitted to the
-    hospital on March 14. Family members are demanding that another test
-    be conducted on
-    him [\[[source](https://www.mohfw.gov.in/){.news_source_a}\]]{.source} [\[[source](https://aajtak.intoday.in/news/liveblog/coronavirus-in-india-updates-uttar-pradesh-delhi-case-toll-school-malls-closed-801.html){.news_source_a}\]]{.source} [\[[source](https://www.firstpost.com/health/coronavirus-outbreak-live-updates-covid-19-who-pandemic-quarantine-india-noida-bangalore-cases-alert-novel-latest-news-today-ipl-school-college-8152371.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new cases** in
-    **Luxembourg** [\[[source](https://www.rtl.lu/news/national/a/1481999.html){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **9 new cases** in **Albania**: among the confirmed cases are 3
-    nurses and 1
-    doctor [\[[source](https://a2news.com/2020/03/16/51-te-infektuar-ne-shqiperi-me-koronavirus-mes-tyre-1-mjek-3-infermiere/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **7 new cases** in **Faeroe
-    Islands** [\[[source](https://corona.fo/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **17 new cases** in
-    **[Indonesia](/coronavirus/country/indonesia/)** [\[[source](https://kumparan.com/kumparannews/breaking-news-kasus-positif-corona-di-ri-melonjak-jadi-134-1t2Lr27nEpH){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** in
-    **Ethiopia** [\[[source](https://mobile.twitter.com/lia_tadesse/status/1239483121944444929){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **12 new cases** in **Burkina
-    Faso** [\[[source](https://lefaso.net/spip.php?article95482){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **9 new cases** in
-    **Belarus** [\[[source](https://news.tut.by/society/676512.html?tg){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **34 new cases** in
-    **Estonia** [\[[source](https://www.postimees.ee/6924171/205-inimese-koroonaproov-on-positiivne-nakatunute-arv-on-toenaoliselt-suurem){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** in **the State of
-    Palestine** [\[[source](http://corona.ps/details){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** in **Bolivia**: a 20-year-old woman from
-    Spain [\[[source](https://eldeber.com.bo/169529_bolivia-confirma-un-nuevo-caso-de-coronavirus-es-una-joven-que-llego-a-santa-cruz-procedente-de-madr){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   **1^st^ case** in **Liberia**: a man who had returned from
-    abroad [\[[source](https://frontpageafricaonline.com/front-slider/liberia-records-first-case-of-coronavirs-health-authorities-hold-emergency-meeting/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **4 new cases** in
-    **Latvia** [\[[source](https://www.lsm.lv/raksts/zinas/latvija/covid-19-saslimsana-latvija-konstateta-34-personam.a351885/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **11 new cases** in
-    **Kuwait** [\[[source](https://twitter.com/KUWAIT_MOH/status/1239459230651998208){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2 new cases** in **Saint
-    Barthélemy** [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **5 new cases** and **1 new death** in
-    **Martinique** [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **3 new cases** in
-    **Guyana** [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **1 new case** in
-    **Guadeloupe** [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2 new cases** in
-    **Réunion** [\[[source](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **7 new cases** in
-    **Hungary** [\[[source](https://koronavirus.gov.hu/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2 new cases** in
-    **Azerbaijan** [\[[source](https://www.meydan.tv/az/article/daha-4-neferde-koronavirus-askarlanib/?ref=homepage-news){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **3 new cases** in **Bangladesh**. a ban on entry from Europe and
-    several other countries, including India, goes into effect today at
-    midnight and will last for at last 16
-    days [\[[source](https://www.dhakatribune.com/bangladesh/2020/03/16/3-more-cases-of-coronavirus-confirmed-in-bangladesh){.news_source_a}\]]{.source} [\[[source](https://www.devdiscourse.com/article/international/938615-coronavirus-bangladesh-to-ban-travellers-entry-from-europe-several-countries-including-india){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **5 new cases** in
-    **Afghanistan** [\[[source](https://en.baaghitv.com/afghanistan-reports-5-new-covid-19-cases-bringing-total-to-21/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **3 new cases** in **Honduras**, including 2 women who came to the
-    country from **Spain** and **Switzerland**. Total cases in the
-    country include an eight-month-old
-    girl [\[[source](https://www.laprensa.hn/especiales/coronavirus/1364306-410/casos-coronavirus-honduras-suben-seis){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **10 new cases** in **Mexico**. Of the total cases, 60% are men and
-    40% are women.  17% are
-    hospitalized [\[[source](https://www.excelsior.com.mx/nacional/suman-53-casos-positivos-de-covid-19-en-mexico/1369940){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **2 new cases** in **Trinidad and
-    Tobago** [\[[source](https://www.cnc3.co.tt/tt-now-up-to-4-cases/){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **14 new cases** in
-    **Panama** [\[[source](https://www.panamaamerica.com.pa/sociedad/coronavirus-en-panama-sigue-incremento-de-casos-de-covid-19-ahora-llega-55-1158766){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **9 new cases** in
-    **Argentina** [\[[source](https://www.pagina12.com.ar/253119-coronavirus-11-nuevos-casos-confirmados){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body">
-
--   **74 new cases** in **[South
-    Korea](/coronavirus/country/south-korea/)** [\[[source](http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=353561&contSeq=353561&board_id=&gubun=ALL){.news_source_a}\]]{.source}
-
-</div>
-
-</div>
-
-<div class="news_post">
-
-<div class="news_body news_box">
-
--   **16 new cases**, **14 new deaths** (all in Hubei), and **838 new
-    discharges** occurred in China on March 15, as reported by the
-    National Health Commission (NHC) of China
-    \[[source](http://www.nhc.gov.cn/xcs/yqtb/202003/114113d25c1d47aabe68381e836f06a8.shtml)\]
-
-</div>
-
-</div>
-
-</div>
-
 <div style="width:100%; text-align:center;margin: 0 auto;">
 
-[](javascript:void(0)){#lm_2020-03-16 .load-more__btn}
+[](javascript:void(0)){#lm_2020-03-17 .load-more__btn}
 View More News ![view
 more](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAADAFBMVEX///90dHRsbGttbWxtbWtzc3Jqamlqamhra2lra2ppaWhnZ2ZpaWdmZmVwcHBoaGZvb25sbGptbW12dnZubm51dXV2dnVwcG9zc3Nzc3R3d3doaGdycnJnZ2VxcXF1dXZ0dHVvb28AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF9IACodnd2d3UAAAAAAAABAAAAAAAtRCHzwHcAABkAAAAAADAAAAAAAAAAAAAtRHgAAHcAAAAAAAAAAAAAAABMAAB2d3YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvFCwVLHc0ca8AGfQQAID0YMA4ABkAGfQAAAAAgAAAAAAAAAAAAAUAYAAAAAAAAAAwT6ReqHcABvgAxQAAAAD0NAA4ABkAGfQAAAAAAAAAAAAAAAAAAGQAAAAYAAAAzj8AABgAAAAMAAAAGAD4VvheqAYIBvgAzj/FAAAvKAD8p1MAGfMsUPaeyXcAdy0AAAAAAAAAAAAAAAAAAAAAAAC7KAAspgh2auQZ9KDkTQC3dmoAAAAAAAAAAABrwAB2auQAAGAAAAAFAAAAAAAAAIAAgAAAwBAAAAAACIgAAAADAAAAAABCAEBeqAAABvgAAAD4XqgAAAYAAAAAAAAAArEAAAAYAAAAAAAAAAD0QABAABkAAAAAAAD0kAAAABkAAAAAAAAAAAAAAAAAAABmABBmZmYMOSAAAAAAAAIBAQA4ABkydFcZ9NDhHgAAdmoAAAAAAAL0uAAAABkAAAAAABgAgAAAAAAAAAAAAAAAAADEi2NXAAAAAXRSTlMAQObYZgAAAAFiS0dEi/JvR+AAAAAJcEhZcwAALiMAAC4jAXilP3YAAACPSURBVHja5ZJBDoAgDATdg1dCVESNQfj/J4USlSrgXXujM5Ql0DR/KoF7R7JO16PlfFAY07UGJs7nhe/gxpOHFJfh5y+5nIeR46u4jMi1SbnZoL1hgxG5U8qlxgQ4mrE6yicVv9VpWABZToamGQV+GnR+jgfDUi5Z4McMz1F6U28MNU6GrXEyUP85b/yrtQMhJwlGqKwmOAAAAABJRU5ErkJggg==)
 

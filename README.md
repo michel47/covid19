@@ -1,14 +1,14 @@
 # README: corona virus daily status in Switzerland ...
 
-## on 03/22/20 21:19:01 ([snapshot](https://ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC))
+## on 03/23/20 07:53:03 ([snapshot](https://ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC))
 
- 864 cases per 1M pop,<br>
+ 141 cases per 1M pop,<br>
  7474 Total cases in Switzerland, 7245 actives (+1 : me)
 
  98 deaths,
  131 recovered (resurected ?)
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmWMeyen52f7TGZqZKNNoz3NktVD1JBRYkKcE87MzU78y8/covid19.html>
+last update : <https://ipfs.blockringtm.ml/ipfs/QmXoJFrBwwswgt2PvMNZHvpkEzJVP4bC81PwVD1qWh9wSN/covid19.html>
 
 
 on Sat Mar, 21st I started to show symptoms : check my journal [here](myjourney.html).
@@ -41,8 +41,8 @@ sources:
   - <https://michel47.github.io/covid19>
   - <https://github.com/michel47/covid19>
   - <https://duckduckgo.com/?q=switzerland+progression+coronavirus>
-  - <https://gateway.ipfs.io/ipfs/QmTP5ohWDRgTAooXehgpTs2639kErC3imnHAzu1W8JKEKU>
+  - <https://gateway.ipfs.io/ipfs/QmfLKW2NgAWdT3dTTAbTwpjfTxzwFkUosdpvha2yLASqBw>
   - <https://gateway.ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC>
-  - <https://gateway.ipfs.io/ipfs/QmWMeyen52f7TGZqZKNNoz3NktVD1JBRYkKcE87MzU78y8>
+  - <https://gateway.ipfs.io/ipfs/QmXoJFrBwwswgt2PvMNZHvpkEzJVP4bC81PwVD1qWh9wSN>
   
 
