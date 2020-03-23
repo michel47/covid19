@@ -7,6 +7,7 @@
  ![CH covid19](covid.png)
 
 
+- \[03/23/20]: 7245/7474cases [QmfSou6FqHDQEX9XBWGm78jwUK4fP4DWViJXHMDM3Hb6wK](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/QmX7vN3HQhUJtG4E1WhPc1ij5ZqeixnSLU8FHitVQwQM1U/covid.yml),[csv](/ipfs/QmX7vN3HQhUJtG4E1WhPc1ij5ZqeixnSLU8FHitVQwQM1U/covid.csv)
 - \[03/23/20]: 7245/7474cases [QmfLKW2NgAWdT3dTTAbTwpjfTxzwFkUosdpvha2yLASqBw](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/Qmb6kW2EoePgbN33w9csnANHsUJosvsxjwzXEfSrwgJBEf/covid.yml),[csv](/ipfs/Qmb6kW2EoePgbN33w9csnANHsUJosvsxjwzXEfSrwgJBEf/covid.csv)
 - \[03/22/20]: 7245/7474cases [QmTP5ohWDRgTAooXehgpTs2639kErC3imnHAzu1W8JKEKU](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/QmZhaMTHB93UezzX89hfpaMDtfFCkHKWT9C5WJbCJ7GkyW/covid.yml),[csv](/ipfs/QmZhaMTHB93UezzX89hfpaMDtfFCkHKWT9C5WJbCJ7GkyW/covid.csv)
 - \[03/22/20]: 7245/7474cases [QmNNKnidzGJmj8usn84LkTCxgzBp9yZr9yB7gv5fNawPXZ](https://cloudflare-ipfs.com/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC) [data](/ipfs/QmVYkXivKWw6sizFSyHuEmT1RdyHHE7vAqc634cQkER65N/covid.yml),[csv](/ipfs/QmVYkXivKWw6sizFSyHuEmT1RdyHHE7vAqc634cQkER65N/covid.csv)
