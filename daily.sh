@@ -47,17 +47,18 @@ else
 grep -e '^  \[*Switzerland' covid.md | head -1 | sed -e 's/\[\(.*\)][^ ]*/\1/' -e 's/,//g' -e 's/  */\n/g' | tail +3 | tee covid.dat
 fi
 n=$(wc -l covid.dat | cut -d' ' -f1)
-if expr "$n" \< 7 ; then
+if expr "$n" \< 9 ; then
 paste -d' ' - covid.dat <<EOT | eyml > covid.yml
 cases:
 deaths:
 recovered:
 active:
 densit:
+dpmp:
 nextone:
 EOT
 else
-if expr "$n" = 7 ; then
+if expr "$n" = 9 ; then
 paste -d' ' - covid.dat <<EOT | eyml > covid.yml
 cases:
 ncases:
@@ -67,6 +68,7 @@ recovered:
 active:
 critical:
 densit:
+dpmp:
 EOT
 else
 echo n: $n
@@ -79,12 +81,13 @@ recovered:
 active:
 critical:
 densit:
+dpmp:
 EOT
 fi
 fi
 
 eval $(cat covid.yml)
-echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$critical,$densit" >> covid.csv
+echo "$tic,$cases,$ncases,$deaths,$ndeaths,$recovered,$active,$critical,$densit,$dpmp" >> covid.csv
 kst2 --png covid.png covid.kst
 qmd=$(ipfs add -Q -w covid.yml covid.csv covid.png)
 # -------------------------
