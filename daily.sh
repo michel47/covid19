@@ -121,20 +121,29 @@ cat > README.md <<EOF
 
 ## on $(date +"%D %T") ([snapshot](https://ipfs.io/ipfs/$qm1))
 
- $densit cases per 1M pop,<br>
+ $densit cases per 1M pop, ($dpmp death per 1M pop)<br>
  $cases Total cases in Switzerland, $active actives (+1 : me)
 
- $deaths deaths,
- $recovered recovered (resurected ?)
+ $deaths deaths, $critical critical cases,
+ $recovered recovered (resurected !)
 
 last update : <https://ipfs.blockringtm.ml/ipfs/$qm/covid19.html>
 
 
 on Sat Mar, 21st I started to show symptoms : check my journal [here](myjourney.html).
 
+on Wed Mar, 25th I stopped feeding the consciousness of the coronavirus
+  which is the only way to heal, I invite every one to do the same.
 
 
-Every Sunday: 1:30pm 1:45pm Meditation & OM chanting ([#OMEKSAATH][OM]) CET https://www.facebook.com/events/138981234204300
+SO NO MORE UPDATEs...
+<br>
++Michel
+
+--- 
+
+Every Sunday: 1:30pm 1:45pm Meditation & OM chanting ([#OMEKSAATH][OM]) CET
+https://www.facebook.com/events/138981234204300
 
 
 TODAY AND ALL THE FOLLOWING DAYS : AT [12:30H AND 21:00H][CLAP]
@@ -144,6 +153,8 @@ Please pass this message arround and take care of yourself and love ones.
 
 [OM]: https://qwant.com/?q=%26g+%23OMEKSAATH
 [CLAP]: https://www.facebook.com/mgcombs/posts/10223045570354511?__cft__[0]=AZU1uoBTRJPo_ZEqs8vur5Vri1R96Mio1M-vFXGeuWxFhfQHMHY6_zYneCuXuez2Ojcj9K2Ph7AHwHYQvsmxphJqN-KWkpAuTph-dTy5h9pGEE-zRT6rqOZx5RfWRscw2vY&__tn__=%2CO%2CP-R
+
+---
 
  ![charts](covid.png)
 

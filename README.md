@@ -1,21 +1,30 @@
 # README: corona virus daily status in Switzerland ...
 
-## on 03/24/20 18:56:41 ([snapshot](https://ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC))
+## on 03/25/20 01:28:13 ([snapshot](https://ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC))
 
- 1053 cases per 1M pop,<br>
- 9117 Total cases in Switzerland, 8864 actives (+1 : me)
+ 1141 cases per 1M pop, (14 death per 1M pop)<br>
+ 9877 Total cases in Switzerland, 9624 actives (+1 : me)
 
- 122 deaths,
- 131 recovered (resurected ?)
+ 122 deaths, 141 critical cases,
+ 131 recovered (resurected !)
 
-last update : <https://ipfs.blockringtm.ml/ipfs/QmRqSpHtFq31jboWFzg9FzSxPesBdQiRSQA9LPufwcWiBM/covid19.html>
+last update : <https://ipfs.blockringtm.ml/ipfs/QmcjuPoKVeLYL4kiAcm2mQcHTfmD1m66TsXP8MjAnzxqPY/covid19.html>
 
 
 on Sat Mar, 21st I started to show symptoms : check my journal [here](myjourney.html).
 
+on Wed Mar, 25th I stopped feeding the consciousness of the coronavirus
+  which is the only way to heal, I invite every one to do the same.
 
 
-Every Sunday: 1:30pm 1:45pm Meditation & OM chanting ([#OMEKSAATH][OM]) CET https://www.facebook.com/events/138981234204300
+SO NO MORE UPDATEs...
+<br>
++Michel
+
+--- 
+
+Every Sunday: 1:30pm 1:45pm Meditation & OM chanting ([#OMEKSAATH][OM]) CET
+https://www.facebook.com/events/138981234204300
 
 
 TODAY AND ALL THE FOLLOWING DAYS : AT [12:30H AND 21:00H][CLAP]
@@ -25,6 +34,8 @@ Please pass this message arround and take care of yourself and love ones.
 
 [OM]: https://qwant.com/?q=%26g+%23OMEKSAATH
 [CLAP]: https://www.facebook.com/mgcombs/posts/10223045570354511?__cft__[0]=AZU1uoBTRJPo_ZEqs8vur5Vri1R96Mio1M-vFXGeuWxFhfQHMHY6_zYneCuXuez2Ojcj9K2Ph7AHwHYQvsmxphJqN-KWkpAuTph-dTy5h9pGEE-zRT6rqOZx5RfWRscw2vY&__tn__=%2CO%2CP-R
+
+---
 
  ![charts](covid.png)
 
@@ -41,8 +52,8 @@ sources:
   - <https://michel47.github.io/covid19>
   - <https://github.com/michel47/covid19>
   - <https://duckduckgo.com/?q=switzerland+progression+coronavirus>
-  - <https://gateway.ipfs.io/ipfs/QmSbHptx2KHwsf742nPg26gmBLdPdodT77GbjxsnAz14Rp>
+  - <https://gateway.ipfs.io/ipfs/QmXG2TdTx6yXs3mT3dKjCeFWeYnR3NAJwNYbmpxcZxyJD5>
   - <https://gateway.ipfs.io/ipfs/QmY4pmA4H2abNWnWZpw9NNz1vS577dF9u4Ap2ZYt1Jh1GC>
-  - <https://gateway.ipfs.io/ipfs/QmRqSpHtFq31jboWFzg9FzSxPesBdQiRSQA9LPufwcWiBM>
+  - <https://gateway.ipfs.io/ipfs/QmcjuPoKVeLYL4kiAcm2mQcHTfmD1m66TsXP8MjAnzxqPY>
   
 
